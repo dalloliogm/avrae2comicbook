@@ -1,0 +1,2190 @@
+Avrae
+APP
+ — 4/16/2025 6:04 PM
+
+Grimald (gophren)
+Grimald is healed!
+blood fury tattoo
+Grimald
+Healing: -(16) = -16
+Grimald: <56/153 HP> (+16)
+!heal -t <target> -hp <heal> -f [reason] | Dr Turtle#1771
+Avrae
+APP
+ — 4/16/2025 6:16 PM
+Initiative 20 (round 7): Flow (@Flow (Tjolanta))
+Flow <0/203 HP> (AC 23) 
+# Location: G13
+* Hasted [5 rounds] (AC Bonus: 2; Save Advantage: Dexterity) 
+ - The target's speed is doubled
+ - They gain an additional action on each of its turns
+ - When the spell ends, the target can't move or take actions until after its next turn
+* Frightened [5 rounds] (Attack Disadvantage; Check Disadvantage: All; Resist Fear) 
+ - Frightened of Higara
+ - They can repeat the DC 26 Wisdom saving throw at the end of each of its turns, ending the effect on a success
+ 
+Flow makes a Death Save!
+1d20 (15) + 0 = 15
+Death Saves
+F 〇〇〇 | ◉〇〇 S
+Image
+Flow attempts to resist Fear!
+Meta
+DC: 26
+Flow
+WIS Save: 1d20 (4) + 2 = 6; Failure!
+Initiative 19 (round 7): Higara (@Kayliana (Ryan))
+Higara <Injured> 
+# Location: H12 | Size: G (Gargantuan)
+* Grappling Galwen (Release Galwen; Parent: Grappled by Higara)
+* Grappling Summoned Gem Draconic Spirit (DE) (Release Summoned Gem Draconic Spirit (DE); Parent: Grappled by Higara)
+* Deciphered [9 rounds] (Parent: Insightful Fighting) 
+ - Galwen can use sneak attack against this target
+Avrae
+APP
+ — 4/16/2025 8:43 PM
+
+Kayliana (Ryan)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Higara attacks with a Tentacle!
+Grimald
+To Hit: 1d20 (8) + 16 = 24
+Damage: ((2d10 (5, 3) + 8) [bludgeoning]) / 2 + ((2d10 (6, 8)) [psychic]) / 2 = 15
+Effect: Grappled by Higara (Escape Higara's Grapple)
+Higara
+Effect: Grappling Grimald (Release Grimald; Parent: Grappled by Higara)
+Effect
+Melee Weapon Attack: +16 to hit, reach 30 ft., one target. Hit: 19 (2d10 + 8) bludgeoning damage plus 11 (2d10) psychic damage, and the target is grappled (escape DC 18). The Kraken has ten tentacles, each of which can grapple one target.
+Grimald: <41/153 HP> (-15 HP)
+Higara attacks with a Tentacle!
+Grimald
+To Hit: 1d20 (2) + 16 = 18
+Miss!
+Effect
+Melee Weapon Attack: +16 to hit, reach 30 ft., one target. Hit: 19 (2d10 + 8) bludgeoning damage plus 11 (2d10) psychic damage, and the target is grappled (escape DC 18). The Kraken has ten tentacles, each of which can grapple one target.
+Higara attacks with a Tentacle!
+Grimald
+To Hit: 1d20 (16) + 16 = 32
+Damage: ((2d10 (9, 2) + 8) [bludgeoning]) / 2 + ((2d10 (1, 6)) [psychic]) / 2 = 13
+Effect: Grappled by Higara (Escape Higara's Grapple)
+Higara
+Effect: Grappling Grimald (Release Grimald; Parent: Grappled by Higara)
+Effect
+Melee Weapon Attack: +16 to hit, reach 30 ft., one target. Hit: 19 (2d10 + 8) bludgeoning damage plus 11 (2d10) psychic damage, and the target is grappled (escape DC 18). The Kraken has ten tentacles, each of which can grapple one target.
+Grimald: <28/153 HP> (-13 HP)
+Higara attacks with a Tentacle!
+Grimald
+To Hit: 1d20 (5) + 16 = 21
+Miss!
+Effect
+Melee Weapon Attack: +16 to hit, reach 30 ft., one target. Hit: 19 (2d10 + 8) bludgeoning damage plus 11 (2d10) psychic damage, and the target is grappled (escape DC 18). The Kraken has ten tentacles, each of which can grapple one target.
+Higara attacks with a Telekinetic Fling!
+Grimald
+Damage: (4d10 (4, 1, 2, 9) [bludgeoning]) / 2 = 8
+Effect: Prone (Attack Disadvantage; Stand Up)
+Effect
+The Kraken throws a creature they are grappling into an unoccupied space the Kraken can see within 60 feet of them. The target lands prone and takes 22 (4d10) bludgeoning damage.
+Grimald: <20/153 HP> (-8 HP)
+
+Kayliana (Ryan)
+Moving Grimald from J11 to A11 (~156.6 ft.).
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 4/16/2025 8:53 PM
+Initiative 17 (round 7): Wizard of Conflux (@Don Explodicus (sfollac))
+Don Explodicus <1/122 HP> (AC 22) 
+> Resistances: psychic
+# Location: F25
+* Summon Draconic Spirit [59.7 minutes]  <C>
+* shared resistance psychic (Resistance: psychic)
+Summoned Gem Draconic Spirit (DE) <17/80 HP> (AC 22) 
+> Resistances: force, necrotic, psychic, radiant, thunder
+# Summoned By Don Explodicus
+Multiattack: 4 | Size: L (Large) | Location: I17
+* Summon Draconic Spirit (Attack: Rend; Attack: Breath Weapon; Special: Shared Resistances)
+* Grappled by Higara (Escape Higara's Grapple) 
+ - Escape DC 18
+ 
+Avrae
+APP
+ — 4/16/2025 9:54 PM
+Don Explodicus casts Healing Word!
+Flow
+Healing: -(1d4 (3) + 2) [magical heal] = -5
+Effect
+A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Spell Slots
+1 ◉◉〇〇 (-1)
+Image
+Flow: <5/203 HP> (+5 HP)
+Don Explodicus casts Magic Missile!
+Meta
+Damage: 1d4 (4) + 1 [missile force] + 6 = 11
+Higara
+Damage: 11 [magical missile force] = 11
+Higara
+Damage: 11 [magical missile force] = 11
+Higara
+Damage: 11 [magical missile force] = 11
+Higara
+Damage: 11 [magical missile force] = 11
+Higara
+Damage: 11 [magical missile force] = 11
+Higara
+Damage: 11 [magical missile force] = 11
+Effect
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+At Higher Levels
+When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+Spell Slots
+4 ◉〇〇 (-1)
+Empowered Evocation
+Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.
+Image
+Higara: <Injured> (-11)
+Higara: <Injured> (-11)
+Higara: <Injured> (-11)
+Higara: <Injured> (-11)
+Higara: <Injured> (-11)
+Higara: <Injured> (-11)
+Summoned Gem Draconic Spirit (DE) tries to escape from Higara's grapple!
+Meta
+Check DC: 18
+Summoned Gem Draconic Spirit (DE)
+Athletics Check: 1d20 (13) + 4 = 17; Failure!
+Effect
+A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster's stat block.
+Initiative 16 (round 7): Galwen (@Galwen (Ari))
+Galwen <1/123 HP> (AC 19) 
+> Immunities: critical hits, sleep
+# Location: H16
+* Fey Ancestry  
+ - You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+* Wings of Flying [59.3 minutes]  
+ - While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.
+* Hasted (Potion of Speed) [5 rounds] (AC Bonus: 2)
+* Grappled by Higara (Escape Higara's Grapple) 
+ - Escape DC 18
+* Blessed by a Potion of Heroism [59.7 minutes] (Attack Bonus: 1d4[Bless]; Save Bonus: 1d4[Bless])
+* Insightful Fighting [9 rounds]  
+ - Can use Sneak Attack against Higara
+Avrae
+APP
+ — 4/17/2025 12:19 AM
+Galwen uses Steady Aim!
+Effect
+As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+Image
+Galwen attacks with a Longbow +2!
+Higara
+To Hit: 1d20 (4) + 17 + -5 + 1d4 (1) [Bless] = 17
+Miss!
+Effect
+Martial Ranged Weapon Attack.
+Ammunition (150/600), Heavy, Two-Handed
+Fighting Style: Archery
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+Steady Aim
+As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+Sneak Attack
+Once per turn, you can deal an extra 8d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+Image
+
+Galwen (Ari)
+Galwen Dodges!
+When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated or if your speed drops to 0.
+Galwen
+Effect: Dodge [until start of next turn] (Save Advantage: Dexterity)
+Image
+Actions in Combat | PHB 192
+Initiative 50 (round 8): DM (@Kayliana (Ryan))
+DM <None> 
+* map (Attack: map)
+Initiative 21 (round 8): Grimald (@Grimald (gophren))
+Grimald <20/153 HP> (AC 24) 
+> Resistances: necrotic, bludgeoning, piercing, slashing, thunder, necrotic, fire, force, lightning, cold, poison, radiant, acid, psychic
+# Location: G11 | Height: 30
+* Star Flight [9.2 minutes]  
+ - For the duration, you gain a flying speed equal to your walking speed, and you can hover. While flying, you glow faintly with starlight.
+* Blessed by a Potion of Heroism [59.4 minutes] (Attack Bonus: 1d4[Bless]; Save Bonus: 1d4[Bless])
+* Hasted (Potion of Speed) [5 rounds] (AC Bonus: 2)
+* Blessing of the Raven Queen [until start of next turn] (Resistance: bludgeoning, piercing, slashing, thunder, necrotic, fire, force, lightning, cold, poison, radiant, acid, psychic) 
+ - You appear ghostly and translucent
+ 
+Grimald (gophren) — 4/17/2025 3:08 AM
+!cc
+Avrae
+APP
+ — 4/17/2025 3:08 AM
+Grimald
+Custom Counters
+Blessing of the Raven Queen
+◉◉〇〇〇〇
+Resets On: Long Rest
+Potion of Healing
+◉◉◉
+Potion of Greater Healing
+◉
+Potion of Heroism
+〇
+Crystal Blade Healing
+◉〇〇
+Resets On: Long Rest
+Potion of Superior Healing
+◉
+Crown of Whirling Comets
+◉◉◉◉◉〇
+Resets On: Long Rest
+Potion of Speed
+〇
+Fey Touched (Wisdom): Misty Step
+◉
+Resets On: Long Rest
+Fey Touched (Wisdom): Hex
+◉
+Resets On: Long Rest
+Diamonds for Revivify
+◉
+Gift of the Chromatic Dragon: Chromatic Infusion
+◉
+Resets On: Long Rest
+Gift of the Chromatic Dragon: Reactive Resistance
+◉◉◉◉◉
+Resets On: Long Rest
+Second Wind
+〇
+Resets On: Short Rest
+Action Surge
+〇
+Resets On: Short Rest
+Indomitable
+◉〇
+Resets On: Long Rest
+Superiority Dice
+〇〇〇〇〇
+Resets On: Short Rest
+Hit Dice (d8)
+Current Value: 4
+Range: 0 - 4
+Hit Dice (d10)
+Current Value: 13
+Range: 0 - 13
+Blood Fury
+Current Value: 1
+Range: 0 - 10
+Image
+Avrae
+APP
+ — 4/17/2025 12:45 PM
+Effect Grappled by Higara removed from Grimald.
+Also removed 1 child effects.
+Grimald uses Blessing of the Raven Queen!
+Grimald
+Effect: Blessing of the Raven Queen [until start of next turn] (Resistance: bludgeoning, piercing, slashing, thunder, necrotic, fire, force, lightning, cold, poison, radiant, acid, psychic)
+Effect
+As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see.
+
+Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.
+Blessing of the Raven Queen
+◉〇〇〇〇〇 (-1)
+Image
+
+Grimald (gophren)
+Moving Grimald from A11 to G11 (~30 ft.)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!go ? | v1.4
+Grimald stands up!
+Meta
+Removed Effect: Prone
+
+Grimald (gophren)
+Moving Grimald from G11 to I11 (~10 ft.)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!go ? | v1.4
+Grimald attacks with a Crystal Double-Bladed Scimitar!
+Higara
+Attack 1
+To Hit: 2d20kl1 (2, 6) + 11 + 1d4 (2) [Bless] = 15
+Miss!
+
+Attack 2
+To Hit: 2d20kl1 (7, 9) + 11 + 1d4 (2) [Bless] = 20
+Miss!
+
+Attack 3
+To Hit: 2d20kl1 (5, 17) + 11 + 1d4 (2) [Bless] = 18
+Miss!
+
+Attack 4
+To Hit: 2d20kl1 (9, 19) + 11 + 1d4 (4) [Bless] = 24
+Damage: 2d4ro<3 (4, 3) + 5 [magical slashing] + 1d8ro<3 (6) [radiant] = 18
+
+Total Damage: 18
+Effect
+Martial Melee Weapon Attack.
+Finesse
+This magic sword's blade is fashioned from a horn or spine from a crystal dragon. When you hit with an attack roll using this sword, the target takes an extra 1d8 radiant damage.
+Higara: <Injured> (-18)
+
+Grimald (gophren)
+Grimald lashes out with Bloodthirsty Strikes!
+When you hit a creature with a weapon attack, you can expend a charge to deal an extra 4d6 necrotic damage to the target, and you regain a number of hit points equal to the necrotic damage dealt.
+
+Note: Reminder to add back your HP!
+Targeted
+Higara
+Damage Roll
+4d6 (6, 4, 4, 5) [necrotic] = 19
+Blood Fury (-1)
+0/10
+Image
+Higara: <Injured>
+Made by @KakashiTheRanger#4914
+
+Grimald (gophren)
+Grimald is healed!
+No reason provided.
+Grimald
+Healing: -(19) = -19
+Grimald: <39/153 HP> (+19)
+!heal -t <target> -hp <heal> -f [reason] | Dr Turtle#1771
+Grimald
+Crystal Blade Healing
+〇〇〇 (-1)
+Description
+The sword has 3 charges and regains 1d3 expended charges daily at dawn. When you hit a creature with an attack roll using the sword, you can expend 1 charge to regain a number of hit points equal to the extra radiant damage the sword dealt.
+Image
+
+Grimald (gophren)
+Grimald is healed!
+No reason provided.
+Grimald
+Healing: -(6) = -6
+Grimald: <45/153 HP> (+6)
+!heal -t <target> -hp <heal> -f [reason] | Dr Turtle#1771
+Initiative 20 (round 8): Flow (@Flow (Tjolanta))
+Flow <5/203 HP> (AC 23) 
+# Location: G13
+* Hasted [4 rounds] (AC Bonus: 2; Save Advantage: Dexterity) 
+ - The target's speed is doubled
+ - They gain an additional action on each of its turns
+ - When the spell ends, the target can't move or take actions until after its next turn
+* Frightened [4 rounds] (Attack Disadvantage; Check Disadvantage: All; Resist Fear) 
+ - Frightened of Higara
+ - They can repeat the DC 26 Wisdom saving throw at the end of each of its turns, ending the effect on a success
+Avrae
+APP
+ — 4/17/2025 1:29 PM
+
+Kayliana (Ryan)
+5 combatants are healed!
+Gatekeeper Aid
+Flow
+Healing: -(6d8 (6, 1, 3, 5, 4, 6) + 6) = -31
+Galwen
+Healing: -(6d8 (1, 7, 3, 8, 7, 1) + 6) = -33
+Grimald
+Healing: -(6d8 (8, 6, 3, 3, 6, 3) + 6) = -35
+Don Explodicus
+Healing: -(6d8 (6, 1, 5, 8, 7, 5) + 6) = -38
+Summoned Gem Draconic Spirit (DE)
+Healing: -(6d8 (1, 3, 8, 1, 8, 8) + 6) = -35
+Flow: <36/203 HP> (+31)
+Galwen: <34/123 HP> (+33)
+Grimald: <80/153 HP> (+35)
+Don Explodicus: <39/122 HP> (+38)
+Summoned Gem Draconic Spirit (DE): <52/80 HP> (+35)
+!heal -t <target> -hp <heal> -f [reason] | Dr Turtle#1771
+Kayliana (Ryan) — 4/17/2025 1:30 PM
+▶️
+Avrae
+APP
+ — 4/17/2025 1:31 PM
+Flow <36/203 HP> (AC 23) 
+# Location: G13
+* Hasted [4 rounds] (AC Bonus: 2; Save Advantage: Dexterity) 
+ - The target's speed is doubled
+ - They gain an additional action on each of its turns
+ - When the spell ends, the target can't move or take actions until after its next turn
+* Frightened [4 rounds] (Attack Disadvantage; Check Disadvantage: All; Resist Fear) 
+ - Frightened of Higara
+ - They can repeat the DC 26 Wisdom saving throw at the end of each of its turns, ending the effect on a success
+ 
+Avrae
+APP
+ — 4/18/2025 12:15 AM
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Higara
+To Hit: 1d20 (10) + 14 = 24
+Damage: 1d8 (2) + 8 [magical piercing] + 2d6 (5, 6) [magical radiant] + 5d6 (1, 4, 1, 5, 5) [magical piercing] = 37
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Sneak Attack
+Once per turn, you can deal an extra 5d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+Image
+Higara: <Bloodied> (-37)
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Higara
+To Hit: 2d20kl1 (5, 14) + 14 = 19
+Miss!
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Image
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Higara
+To Hit: 2d20kl1 (3, 8) + 14 = 17
+Miss!
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Image
+
+Flow (Tjolanta)
+Flow attempts to more effectively pierce their foe!
+Piercer
+Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+Reroll (1d6):
+1d6 (5) = 5
+Damage Difference:
+1->5=4
+Image
+Higara: <Bloodied> -(4)
+Initiative 19 (round 8): Higara (@Kayliana (Ryan))
+Higara <Bloodied> 
+# Location: H12 | Size: G (Gargantuan)
+* Grappling Galwen (Release Galwen; Parent: Grappled by Higara)
+* Grappling Summoned Gem Draconic Spirit (DE) (Release Summoned Gem Draconic Spirit (DE); Parent: Grappled by Higara)
+* Deciphered [8 rounds] (Parent: Insightful Fighting) 
+ - Galwen can use sneak attack against this target
+Flow attempts to resist Fear!
+Meta
+DC: 26
+Flow
+WIS Save: 1d20 (15) + 2 = 17; Failure!
+Avrae
+APP
+ — 4/18/2025 12:25 AM
+
+Kayliana (Ryan)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 4/18/2025 4:04 AM
+Higara attacks with a Tentacle!
+Attack 1
+To Hit: 1d20 (6) + 16 = 22
+Damage: (2d10 (7, 1) + 8) [bludgeoning] + (2d10 (4, 9)) [psychic] = 29
+Effect: Grappled by Higara (Escape Higara's Grapple)
+Attack 2
+To Hit: 1d20 (9) + 16 = 25
+Damage: (2d10 (4, 1) + 8) [bludgeoning] + (2d10 (9, 10)) [psychic] = 32
+Effect: Grappled by Higara (Escape Higara's Grapple)
+Attack 3
+To Hit: 1d20 (2) + 16 = 18
+Damage: (2d10 (9, 8) + 8) [bludgeoning] + (2d10 (9, 7)) [psychic] = 41
+Effect: Grappled by Higara (Escape Higara's Grapple)
+Attack 4
+To Hit: 1d20 (14) + 16 = 30
+Damage: (2d10 (3, 6) + 8) [bludgeoning] + (2d10 (9, 2)) [psychic] = 28
+Effect: Grappled by Higara (Escape Higara's Grapple)
+Total Damage
+130
+Effect
+Melee Weapon Attack: +16 to hit, reach 30 ft., one target. Hit: 19 (2d10 + 8) bludgeoning damage plus 11 (2d10) psychic damage, and the target is grappled (escape DC 18). The Kraken has ten tentacles, each of which can grapple one target.
+<No Target>: Dealt 29 damage!
+<No Target>: Dealt 32 damage!
+<No Target>: Dealt 41 damage!
+<No Target>: Dealt 28 damage!
+
+Kayliana (Ryan)
+Does it Hit?
+New To-Hit
+18 = 18
+Target
+Summoned Gem Draconic Spirit (DE)
+Result
+The new value does not hit!
+Image
+!does-hit help | Dr Turtle#1771
+
+Kayliana (Ryan)
+Does it Hit?
+New To-Hit
+22 = 22
+Target
+Summoned Gem Draconic Spirit (DE)
+Result
+The new value does hit!
+Image
+!does-hit help | Dr Turtle#1771
+
+Kayliana (Ryan)
+Summoned Gem Draconic Spirit (DE) takes damage!
+No reason provided.
+Summoned Gem Draconic Spirit (DE)
+Damage: 16 + 13 + 17 [bludgeoning] = 46
+Summoned Gem Draconic Spirit (DE): <6/80 HP>
+!hurt -t <target> -d <damage> -f [reason] | Dr Turtle#1771
+
+Kayliana (Ryan)
+Summoned Gem Draconic Spirit (DE) takes damage!
+No reason provided.
+Summoned Gem Draconic Spirit (DE)
+Damage: (13 + 19 + 11 [psychic]) / 2 = 21
+Summoned Gem Draconic Spirit (DE): <-15/80 HP>
+!hurt -t <target> -d <damage> -f [reason] | Dr Turtle#1771
+Higara attacks with a Telekinetic Fling!
+Galwen
+Damage: 4d10 (10, 10, 10, 6) [bludgeoning] = 36
+Effect: Prone (Attack Disadvantage; Stand Up)
+Effect
+The Kraken throws a creature they are grappling into an unoccupied space the Kraken can see within 60 feet of them. The target lands prone and takes 22 (4d10) bludgeoning damage.
+Galwen: <0/123 HP> (-34 HP, 2 overflow)
+
+Kayliana (Ryan)
+Moving Galwen from H16 to A16 (~35.0 ft.).
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Incorrect usage. Use !help init for help.
+Initiative 17 (round 8): Wizard of Conflux (@Don Explodicus (sfollac))
+Don Explodicus <39/122 HP> (AC 22) 
+> Resistances: psychic
+# Location: F25
+* Summon Draconic Spirit [59.6 minutes]  <C>
+* shared resistance psychic (Resistance: psychic)
+Summoned Gem Draconic Spirit (DE) <-15/80 HP> (AC 22) 
+> Resistances: force, necrotic, psychic, radiant, thunder
+# Summoned By Don Explodicus
+Multiattack: 4 | Size: L (Large) | Location: I17
+* Summon Draconic Spirit (Attack: Rend; Attack: Breath Weapon; Special: Shared Resistances)
+* Grappled by Higara (Escape Higara's Grapple) 
+ - Escape DC 18
+Avrae
+APP
+ — 4/18/2025 8:34 AM
+
+Don Explodicus (sfollac)
+Distance
+Don Explodicus (F25) -> Galwen (A16)
+~51.5 ft. NW (~330°)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+!distance ? | v2.0
+Avrae
+APP
+ — 4/18/2025 9:07 AM
+Don Explodicus casts Healing Word!
+Galwen
+Healing: -(1d4 (2) + 2) [magical heal] = -4
+Effect
+A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Spell Slots
+1 ◉〇〇〇 (-1)
+Image
+Galwen: <4/123 HP> (+4 HP)
+Don Explodicus (sfollac) — 4/18/2025 9:07 AM
+!conjure hand
+Avrae
+APP
+ — 4/18/2025 9:07 AM
+Error evaluating expression: You need to input the correct conjure effect, See !conjure ? for more info
+Don Explodicus (sfollac) — 4/18/2025 9:08 AM
+!summon hand
+Avrae
+APP
+ — 4/18/2025 9:08 AM
+!summon
+From Croebh's Summon Alias by croebh.
+View on Workshop
+Help
+This handles all of the Summon X spells, without using CritterDB.
+Subcommands
+aberration - Summon Aberration - !summon aberration <type> [args]
+undead - Summon Undead - !summon undead <type> [args]
+fiend - Summon Fiend - !summon fiend <type> [args]
+draconic - Summon Draconic Spirit - !summon draconic <type> [args]
+celestial - Summon Celestial - !summon celestial <type> [args]
+beast - Summon Beast - !summon beast <type> [args]
+reaper - Spirit of Death - !summon reaper [args]
+fey - Summon Fey - !summon fey <type> [args]
+shadowspawn - Summon Shadowspawn - !summon shadowspawn <type> [args]
+construct - Summon Construct - !summon construct <type> [args]
+elemental - Summon Elemental - !summon elemental <type> [args]
+steel - Artificer: Steel Defender - !summon steel [args]
+homunculus - Artificer: Homunculus - !summon homunculus [args]
+wildfire - Druid: Wildfire Spirit - !summon wildfire [args]
+blighted - Druid: Blighted Sapling - !summon blighted [args]
+ 
+drake - Ranger: Drake Companion - !summon drake <type> [args]
+primal - Ranger: Primal Companion - !summon primal <type> [args]
+dancing - Bard: Dancing Item - !summon dancing [args]
+
+User-created command.
+Avrae
+APP
+ — 4/18/2025 9:27 AM
+
+Don Explodicus (sfollac)
+Don Explodicus summons Bigby's Hand!
+A Bigby's Hand is conjured to location H16 and the color-code for it is P
+!conjure ? | NerdsandDragons#2817
+BH(do) was added to combat with initiative 17 as part of group Don Explodicus with Bigby's Hand.
+Don Explodicus casts Arcane Hand!
+Don Explodicus
+Effect: Arcane Fist [10 rounds] (Attack: Clenched Fist; Attack: Forceful Hand; Attack: Grasping Hand; Attack: Interposing Hand; Parent: Arcane Hand)
+Effect
+You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.
+
+The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space.
+
+When you cast the spell and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the effects with it.
+Spell Slots
+5 〇〇 (-1)
+Concentration
+Dropped Summon Draconic Spirit due to concentration.
+Image
+Attack not found.
+Wizard of Conflux's Actions
+Attacks
+Breath Weapon (Summoned Gem Draconic Spirit (DE)): DC 24 DEX Save. Fail: 2d6 [{{choice if caster.resistances.is_resistant(choice) else 'draconic'}}] damage. Success: (2d6 [{{choice if caster.resistances.is_resistant(choice) else 'draconic'}}])/2 damage.
+Rend (Summoned Gem Draconic Spirit (DE)): Attack: +16 to hit. Hit: 1d6 + 4 + 8 [piercing] damage.
+Other
+Shared Resistances (Summoned Gem Draconic Spirit (DE)): Effect: Sharing Resistances, Effect: Shared Resistances.
+Attack not found.
+✅ BH(do) added to group Wizard of Conflux.
+Avrae
+APP
+ — 4/18/2025 9:34 AM
+Attack not found.
+Avrae
+APP
+ — 4/18/2025 9:42 AM
+@Don Explodicus (sfollac)  :game_die:
+Result: 1d20 (13) + 16
+Total: 29
+
+Don Explodicus (sfollac)
+Does it Hit?
+New To-Hit
+29 = 29
+Target
+Higara
+Result
+The new value does hit!
+Image
+!does-hit help | Dr Turtle#1771
+
+Don Explodicus (sfollac)
+Higara takes damage!
+No reason provided.
+Higara
+Damage: 4d8 (3, 2, 4, 8) [force] = 17
+Higara: <Bloodied>
+!hurt -t <target> -d <damage> -f [reason] | Dr Turtle#1771
+
+Don Explodicus (sfollac)
+Moving Don Explodicus from F25 to C22 (~21 ft.)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!go ? | v1.4
+Initiative 17 (round 8): Don Explodicus with Bigby's Hand (@Don Explodicus (sfollac))
+Don Explodicus <39/122 HP> (AC 22) 
+> Resistances: psychic
+# Location: C22
+* shared resistance psychic (Resistance: psychic)
+* Arcane Hand [9 rounds]  <C>
+* Arcane Fist [9 rounds] (Attack: Clenched Fist; Attack: Forceful Hand; Attack: Grasping Hand; Attack: Interposing Hand; Parent: Arcane Hand)
+Initiative 16 (round 8): Galwen (@Galwen (Ari))
+Galwen <4/123 HP> (AC 19) 
+> Immunities: critical hits, sleep
+# Location: A16
+* Fey Ancestry  
+ - You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+* Wings of Flying [59.2 minutes]  
+ - While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.
+* Hasted (Potion of Speed) [4 rounds] (AC Bonus: 2)
+* Grappled by Higara (Escape Higara's Grapple) 
+ - Escape DC 18
+* Blessed by a Potion of Heroism [59.6 minutes] (Attack Bonus: 1d4[Bless]; Save Bonus: 1d4[Bless])
+* Insightful Fighting [8 rounds]  
+ - Can use Sneak Attack against Higara
+* Prone (Attack Disadvantage; Stand Up) 
+ - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition
+Effect Grappled by Higara removed from Galwen.
+Also removed 1 child effects.
+Galwen uses Steady Aim!
+Effect
+As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+Image
+Galwen attacks with a Longbow +2!
+Higara
+To Hit: 1d20 (15) + 17 + -5 + 1d4 (1) [Bless] = 28
+Damage: 1d8 (5) + 8 + 10 + 8d6 (5, 4, 1, 1, 2, 1, 6, 6) [magical piercing] = 49
+Effect
+Martial Ranged Weapon Attack.
+Ammunition (150/600), Heavy, Two-Handed
+Fighting Style: Archery
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+Sneak Attack
+Once per turn, you can deal an extra 8d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+Steady Aim
+As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+Image
+Higara: <Bloodied> (-49)
+Avrae
+APP
+ — 4/18/2025 9:53 AM
+
+Galwen (Ari)
+Galwen Dodges!
+When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated or if your speed drops to 0.
+Galwen
+Effect: Dodge [until start of next turn] (Save Advantage: Dexterity)
+Actions in Combat | PHB 192
+Initiative 50 (round 9): DM (@Kayliana (Ryan))
+DM <None> 
+* map (Attack: map)
+Avrae
+APP
+ — 4/18/2025 2:29 PM
+Effect shared resistance psychic removed from Don Explodicus.
+Avrae
+APP
+ — 4/18/2025 3:53 PM
+Initiative 21 (round 9): Grimald (@Grimald (gophren))
+Grimald <80/153 HP> (AC 24) 
+> Resistances: necrotic
+# Location: I11 | Height: 30
+* Star Flight [9.1 minutes]  
+ - For the duration, you gain a flying speed equal to your walking speed, and you can hover. While flying, you glow faintly with starlight.
+* Blessed by a Potion of Heroism [59.3 minutes] (Attack Bonus: 1d4[Bless]; Save Bonus: 1d4[Bless])
+* Hasted (Potion of Speed) [4 rounds] (AC Bonus: 2)
+
+Grimald (gophren)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Grimald (gophren) — 4/18/2025 3:58 PM
+!cc
+Avrae
+APP
+ — 4/18/2025 3:58 PM
+Grimald
+Custom Counters
+Blessing of the Raven Queen
+◉〇〇〇〇〇
+Resets On: Long Rest
+Potion of Healing
+◉◉◉
+Potion of Greater Healing
+◉
+Potion of Heroism
+〇
+Crystal Blade Healing
+〇〇〇
+Resets On: Long Rest
+Potion of Superior Healing
+◉
+Crown of Whirling Comets
+◉◉◉◉◉〇
+Resets On: Long Rest
+Potion of Speed
+〇
+Fey Touched (Wisdom): Misty Step
+◉
+Resets On: Long Rest
+Fey Touched (Wisdom): Hex
+◉
+Resets On: Long Rest
+Diamonds for Revivify
+◉
+Gift of the Chromatic Dragon: Chromatic Infusion
+◉
+Resets On: Long Rest
+Gift of the Chromatic Dragon: Reactive Resistance
+◉◉◉◉◉
+Resets On: Long Rest
+Second Wind
+〇
+Resets On: Short Rest
+Action Surge
+〇
+Resets On: Short Rest
+Indomitable
+◉〇
+Resets On: Long Rest
+Superiority Dice
+〇〇〇〇〇
+Resets On: Short Rest
+Hit Dice (d8)
+Current Value: 4
+Range: 0 - 4
+Hit Dice (d10)
+Current Value: 13
+Range: 0 - 13
+Blood Fury
+Current Value: 0
+Range: 0 - 10
+Image
+Grimald uses Gift of the Chromatic Dragon: Chromatic Infusion!
+Grimald
+Effect: Gift of Chromatic Dragon [10 rounds] (Attack: Chromatic Infusion)
+Effect
+As a bonus action, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits.
+Gift of the Chromatic Dragon: Chromatic Infusion
+〇 (-1)
+Image
+Grimald attacks with a Crystal Double-Bladed Scimitar!
+Higara
+Attack 1
+To Hit: 2d20kl1 (7, 15) + 11 + 1d4 (4) [Bless] = 22
+Damage: 2d4ro<3 (2, 3, 2, 1) + 5 [magical slashing] + 1d8ro<3 (8) [radiant] + 1d4ro<3 (4) [acid] = 21
+
+Attack 2
+To Hit: 2d20kl1 (14, 3) + 11 + 1d4 (3) [Bless] = 17
+Miss!
+
+Attack 3
+To Hit: 2d20kl1 (8, 6) + 11 + 1d4 (3) [Bless] = 20
+Miss!
+
+Attack 4
+To Hit: 2d20kl1 (7, 17) + 11 + 1d4 (1) [Bless] = 19
+Miss!
+
+Total Damage: 21
+Effect
+Martial Melee Weapon Attack.
+Finesse
+This magic sword's blade is fashioned from a horn or spine from a crystal dragon. When you hit with an attack roll using this sword, the target takes an extra 1d8 radiant damage.
+Higara: <Bloodied> (-21)
+Initiative 20 (round 9): Flow (@Flow (Tjolanta))
+Flow <36/203 HP> (AC 23) 
+# Location: G13
+* Hasted [3 rounds] (AC Bonus: 2; Save Advantage: Dexterity) 
+ - The target's speed is doubled
+ - They gain an additional action on each of its turns
+ - When the spell ends, the target can't move or take actions until after its next turn
+* Frightened [3 rounds] (Attack Disadvantage; Check Disadvantage: All; Resist Fear) 
+ - Frightened of Higara
+ - They can repeat the DC 26 Wisdom saving throw at the end of each of its turns, ending the effect on a success
+Avrae
+APP
+ — 4/18/2025 9:58 PM
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier enveloped in flame created by their Gauntlets of Flaming Fury.
+Higara
+To Hit: 1d20 (9) + 14 = 23
+Damage: 1d8 (3) + 8 [magical piercing] + 2d6 (1, 2) [magical radiant] + 5d6 (1, 4, 1, 3, 5) [magical piercing] + 1d6 (6) [fire] = 34
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Sneak Attack
+Once per turn, you can deal an extra 5d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+Gauntlets of Flaming Fury
+As a bonus action, you can use the gauntlets to cause magical flames to envelop one or two melee weapons in your grasp. Each flaming weapon deals an extra 1d6 fire damage on a hit. The flames last until you sheath or let go of either weapon. Once used, this property can’t be used again until the next dawn.
+Image
+Higara: <Bloodied> (-34)
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Higara
+To Hit: 2d20kl1 (18, 5) + 14 = 19
+Miss!
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Image
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Higara
+To Hit: 2d20kl1 (5, 4) + 14 = 18
+Miss!
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Image
+
+Flow (Tjolanta)
+Flow attempts to more effectively pierce their foe!
+Piercer
+Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+Reroll (1d6):
+1d6 (5) = 5
+Damage Difference:
+1->5=4
+Image
+Higara: <Bloodied> -(4)
+Flow (Tjolanta) — 4/18/2025 10:02 PM
+forgot the reaction
+Avrae
+APP
+ — 4/18/2025 10:03 PM
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Higara
+To Hit: 2d20kl1 (17, 15) + 14 = 29
+Damage: 1d8 (1) + 8 [magical piercing] + 2d6 (5, 3) [magical radiant] = 17
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Image
+Higara: <Bloodied> (-17)
+Initiative 19 (round 9): Higara (@Kayliana (Ryan))
+Higara <Bloodied> 
+# Location: H12 | Size: G (Gargantuan)
+* Grappling Summoned Gem Draconic Spirit (DE) (Release Summoned Gem Draconic Spirit (DE); Parent: Grappled by Higara)
+* Deciphered [7 rounds] (Parent: Insightful Fighting) 
+ - Galwen can use sneak attack against this target
+Kayliana (Ryan) — 4/18/2025 11:09 PM
+After Flow’s turn:
+Avrae
+APP
+ — 4/18/2025 11:11 PM
+Higara uses their Psionic Ink!
+Meta
+DC: 26
+Flow
+DEX Save: 2d20kh1 (12, 17) + 12 = 29; Success!
+BH(do)
+DEX Save: 1d20 (14) + 0 = 14; Failure!
+Effect: Inked (Ink Damage)
+Grimald
+DEX Save: 1d20 (20) + 5 + 1d4 (4) [Bless] = 29; Success!
+Effect
+The Kraken teleports up to 60 feet to an unoccupied space they can see. Each creature within 30 feet of the space the Kraken left must make a DC 26 Dexterity saving throw or be covered in psionic ink, which they can use an action to wipe away. A creature covered in psionic ink takes 16 (3d10) psychic damage at the start of each of their turns.
+
+Kayliana (Ryan)
+Moving Higara from H12 to T12 (~60 ft.)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!go ? | v1.4
+Summoned Gem Draconic Spirit (DE) removed from combat.
+Avrae
+APP
+ — 4/19/2025 12:04 AM
+Higara attacks with a Mental Lance!
+Flow
+To Hit: 1d20 (12) + 18 = 30
+Damage: 4d10 (9, 2, 10, 3) [psychic] = 24
+Effect: Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All)
+Effect
+Ranged Power Attack: +18 to hit, range 120 ft., one creature. Hit: 22 (4d10) psychic damage, and the target is frightened of the Kraken until the start of the Kraken’s next turn.
+Flow: <12/203 HP> (-24 HP)
+Higara attacks with a Mental Lance!
+Grimald
+To Hit: 1d20 (6) + 18 = 24
+Damage: 4d10 (8, 3, 2, 7) [psychic] = 20
+Effect: Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All)
+Effect
+Ranged Power Attack: +18 to hit, range 120 ft., one creature. Hit: 22 (4d10) psychic damage, and the target is frightened of the Kraken until the start of the Kraken’s next turn.
+Grimald: <60/153 HP> (-20 HP)
+Higara attacks with a Mental Lance!
+Don Explodicus
+To Hit: 1d20 (17) + 18 = 35
+Damage: 4d10 (5, 7, 6, 5) [psychic] = 23
+Concentration: DC 11
+Effect: Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All)
+Effect
+Ranged Power Attack: +18 to hit, range 120 ft., one creature. Hit: 22 (4d10) psychic damage, and the target is frightened of the Kraken until the start of the Kraken’s next turn.
+Don Explodicus: <16/122 HP> (-23 HP)
+Initiative 17 (round 9): Wizard of Conflux (@Don Explodicus (sfollac))
+BH(do) <100/122 HP> (AC 20) 
+# Location: H16 | Color: p | Size: L
+* Inked (Ink Damage) 
+ - Inked by Higara
+ 
+Avrae
+APP
+ — 4/19/2025 12:58 AM
+BH(do) uses Ink Damage!
+BH(do)
+Damage: 3d10 (6, 7, 9) [psychic] = 22
+Effect
+Target takes 16 (3d10) psychic damage at the start of each of their turns.
+BH(do): <100/122 HP> (-22 HP)
+Don Explodicus (sfollac) — 4/19/2025 1:07 AM
+`action (Don's BA): remove ink
+Avrae
+APP
+ — 4/19/2025 1:08 AM
+Effect Inked removed from BH(do).
+Initiative 17 (round 9): Don Explodicus with Bigby's Hand (@Don Explodicus (sfollac))
+Don Explodicus <16/122 HP> (AC 22) 
+# Location: C22
+* Arcane Hand [8 rounds]  <C>
+* Arcane Fist [8 rounds] (Attack: Clenched Fist; Attack: Forceful Hand; Attack: Grasping Hand; Attack: Interposing Hand; Parent: Arcane Hand)
+* Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All) 
+ - Frightened of Higara
+
+Don Explodicus (sfollac)
+Distance
+Don Explodicus (C22) -> Higara (T12)
+~98.6 ft. NE (~60°)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+!distance ? | v2.0
+Don Explodicus casts Magic Missile!
+Meta
+Damage: 1d4 (3) + 1 [missile force] + 6 = 10
+Higara
+Damage: 10 [magical missile force] = 10
+Higara
+Damage: 10 [magical missile force] = 10
+Higara
+Damage: 10 [magical missile force] = 10
+Higara
+Damage: 10 [magical missile force] = 10
+Higara
+Damage: 10 [magical missile force] = 10
+Effect
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+At Higher Levels
+When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+Spell Slots
+3 ◉〇〇 (-1)
+Empowered Evocation
+Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.
+Image
+Higara: <Bloodied> (-10)
+Higara: <Bloodied> (-10)
+Higara: <Bloodied> (-10)
+Higara: <Bloodied> (-10)
+Higara: <Bloodied> (-10)
+
+Don Explodicus (sfollac)
+Moving Don Explodicus from C22 to A19 (~19 ft.)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!go ? | v1.4
+Initiative 16 (round 9): Galwen (@Galwen (Ari))
+Galwen <4/123 HP> (AC 19) 
+> Immunities: critical hits, sleep
+# Location: A16
+* Fey Ancestry  
+ - You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+* Wings of Flying [59.1 minutes]  
+ - While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.
+* Hasted (Potion of Speed) [3 rounds] (AC Bonus: 2)
+* Blessed by a Potion of Heroism [59.5 minutes] (Attack Bonus: 1d4[Bless]; Save Bonus: 1d4[Bless])
+* Insightful Fighting [7 rounds]  
+ - Can use Sneak Attack against Higara
+* Prone (Attack Disadvantage; Stand Up) 
+ - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition
+Avrae
+APP
+ — 4/19/2025 1:16 AM
+
+Don Explodicus (sfollac)
+Don Explodicus makes a Concentration Save!
+Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
+
+DC 11
+2d20kh1 (7, 10) + 10 = 20; Success!
+Image
+Avrae
+APP
+ — 4/19/2025 2:44 AM
+
+Galwen (Ari)
+Distance
+Galwen (A16) -> Higara (T12)
+~97.10000000000001 ft. ENE (~79°)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+**__Distance__**
+!distance ? | v2.0
+Galwen uses Steady Aim!
+Effect
+As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+Image
+Galwen attacks with a Longbow +2!
+Higara
+To Hit: 1d20 (3) + 17 + -5 + 1d4 (2) [Bless] = 17
+Miss!
+Effect
+Martial Ranged Weapon Attack.
+Ammunition (150/600), Heavy, Two-Handed
+Fighting Style: Archery
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+Sneak Attack
+Once per turn, you can deal an extra 8d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+Steady Aim
+As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+Image
+
+Galwen (Ari)
+Galwen Dodges!
+When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated or if your speed drops to 0.
+Galwen
+Effect: Dodge [until start of next turn] (Save Advantage: Dexterity)
+Actions in Combat | PHB 192
+Initiative 50 (round 10): DM (@Kayliana (Ryan))
+DM <None> 
+* map (Attack: map)
+Avrae
+APP
+ — 4/19/2025 4:49 AM
+Initiative 21 (round 10): Grimald (@Grimald (gophren))
+Grimald <60/153 HP> (AC 24) 
+> Resistances: necrotic
+# Location: I11 | Height: 30
+* Star Flight [9.0 minutes]  
+ - For the duration, you gain a flying speed equal to your walking speed, and you can hover. While flying, you glow faintly with starlight.
+* Blessed by a Potion of Heroism [59.2 minutes] (Attack Bonus: 1d4[Bless]; Save Bonus: 1d4[Bless])
+* Hasted (Potion of Speed) [3 rounds] (AC Bonus: 2)
+* Gift of Chromatic Dragon [9 rounds] (Attack: Chromatic Infusion) 
+ - The chosen weapon deals an extra 1d4 damage of the chosen type when it hits
+* Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All) 
+ - Frightened of Higara
+Avrae
+APP
+ — 4/19/2025 6:05 AM
+
+Grimald (gophren)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Grimald (gophren)
+Distance
+Grimald (I11) -> Higara (T12)
+~62.85 ft. E (~95°)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+**__Distance__**
+!distance ? | v2.0
+Avrae
+APP
+ — 4/19/2025 6:12 AM
+Grimald attacks with a Starlight Strike!
+Higara
+Damage: (2d4 (3, 4) [cold]) * 0 = 0
+Higara
+Damage: (2d4 (3, 4) [cold]) * 0 = 0
+Higara
+Damage: (2d4 (3, 3) [cold]) * 0 = 0
+Higara
+Damage: (2d4 (3, 4) [cold]) * 0 = 0
+Higara
+Damage: (2d4 (3, 3) [cold]) * 0 = 0
+Effect
+As an action, you can spend any number of charges to launch bolts of frigid starlight. You launch a number of bolts equal to the number of charges spent, and you can direct the bolts to target one creature or several, so long as all creatures are within 120 feet of you and you can see them. The bolts automatically strike their targets, and each bolt deals 2d4 cold damage.
+Crown of Whirling Comets
+◉◉◉◉〇〇 (-1)
+Image
+Higara: <Bloodied>
+Higara: <Bloodied>
+Higara: <Bloodied>
+Higara: <Bloodied>
+Higara: <Bloodied>
+Grimald (gophren) — 4/19/2025 6:12 AM
+!cc
+Avrae
+APP
+ — 4/19/2025 6:12 AM
+Grimald
+Custom Counters
+Blessing of the Raven Queen
+◉〇〇〇〇〇
+Resets On: Long Rest
+Potion of Healing
+◉◉◉
+Potion of Greater Healing
+◉
+Potion of Heroism
+〇
+Crystal Blade Healing
+〇〇〇
+Resets On: Long Rest
+Potion of Superior Healing
+◉
+Crown of Whirling Comets
+◉◉◉◉〇〇
+Resets On: Long Rest
+Potion of Speed
+〇
+Fey Touched (Wisdom): Misty Step
+◉
+Resets On: Long Rest
+Fey Touched (Wisdom): Hex
+◉
+Resets On: Long Rest
+Diamonds for Revivify
+◉
+Gift of the Chromatic Dragon: Chromatic Infusion
+〇
+Resets On: Long Rest
+Gift of the Chromatic Dragon: Reactive Resistance
+◉◉◉◉◉
+Resets On: Long Rest
+Second Wind
+〇
+Resets On: Short Rest
+Action Surge
+〇
+Resets On: Short Rest
+Indomitable
+◉〇
+Resets On: Long Rest
+Superiority Dice
+〇〇〇〇〇
+Resets On: Short Rest
+Hit Dice (d8)
+Current Value: 4
+Range: 0 - 4
+Hit Dice (d10)
+Current Value: 13
+Range: 0 - 13
+Blood Fury
+Current Value: 0
+Range: 0 - 10
+Image
+
+Grimald (gophren)
+Grimald drinks a potion of Superior Healing!
+When you drink this potion, you regain 8d4+4 hit points.
+Healing
+8d4 (2, 1, 3, 2, 1, 2, 4, 4) + 8 = 27
+Image
+Grimald: <87/153>
+Grimald
+Potion of Superior Healing
+〇 (-1)
+Image
+Initiative 20 (round 10): Flow (@Flow (Tjolanta))
+Flow <12/203 HP> (AC 23) 
+# Location: G13
+* Hasted [2 rounds] (AC Bonus: 2; Save Advantage: Dexterity) 
+ - The target's speed is doubled
+ - They gain an additional action on each of its turns
+ - When the spell ends, the target can't move or take actions until after its next turn
+* Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All) 
+ - Frightened of Higara
+Flow (Tjolanta) — 4/19/2025 3:09 PM
+!a list
+Avrae
+APP
+ — 4/19/2025 3:09 PM
+Flow's Actions
+Attacks
+Cat’s Claws: Attack: +8 to hit. Hit: 1d6+2 [slashing] damage.
+Dagger: Attack: +12 to hit. Hit: 1d4+6 [piercing] damage.
+Dagger 2: Attack: +12 to hit. Hit: 1d4+6 [piercing] damage.
+Offhand Rapier, +2: Attack: +14 to hit. Hit: 1d8+8 [magical piercing] damage.
+Shortbow: Attack: +12 to hit. Hit: 1d6+6 [piercing] damage.
+Shortbow, +2: Attack: +14 to hit. Hit: 1d6+8 [magical piercing] damage.
+Unarmed Strike: Attack: +8 to hit. Hit: 3 [bludgeoning] damage.
+Wakened Crystal Dragon’s Wrath Rapier: Attack: +14 to hit. Hit: 1d8+8 [magical piercing] + 2d6 [magical radiant] damage.
+Actions
+Panache (Hostile): Insight Check vs. caster's Persuasion Check. Fail: Effect: Panache.
+Panache (Not Hostile): Insight Check vs. caster's Persuasion Check. Fail: Effect: Charmed (Panache).
+Bonus Actions
+Boots of Haste: Casts Haste, uses 1 charge of Boots of Haste.
+Maneuvers: Feinting Attack: Spends 1 Superiority Die to feint against the target, giving advantage on the attack roll and adding the Superiority Die to that attacks damage roll.
+Second Wind: Uses 1 charge of Second Wind, (1d10 + 10) [heal] healing.
+Reactions
+Maneuvers: Brace: Spends 1 Superiority Die to attempt to brace yourself against a target, adding the Superiority Die to that attacks damage roll.
+Maneuvers: Riposte: Spends 1 Superiority Die to attempt to riposte against the target, adding the Superiority Die to that attacks damage roll.
+Uncanny Dodge: Heals the user for half the damage dealt to cover the reduction. Use -amt # to set the total damage
+Other
+Action Surge: Uses 1 charge of Action Surge.
+Feline Agility: Effect: Used Feline Agility.
+Indomitable: Uses 1 charge of Indomitable.
+Maneuvers: Distracting Strike: Spends 1 Superiority Die to attempt to distract the target, adding the Superiority Die to that attacks damage roll.
+Maneuvers: Goading Attack: Spends 1 Superiority Die to goad the target, adding the Superiority Die to that attacks damage roll.
+Maneuvers: Lunging Attack: Spends 1 Superiority Die to lunge with your attack, adding the Superiority Die to that attacks damage roll.
+Maneuvers: Trip Attack: Spends 1 Superiority Die to attempt to trip the target, adding the Superiority Die to that attacks damage roll.
+Sneak Attack: 5d6 [weapon] damage.
+Image
+Use the -v argument to view each action's full description and 9 display-only actions.
+
+Flow (Tjolanta)
+Distance
+Flow (G13) -> Higara (T12)
+~65.19999999999999 ft. ENE (~86°)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+**__Distance__**
+!distance ? | v2.0
+Flow attacks with a Shortbow!
+Higara
+To Hit: 2d20kl1 (5, 6) + 12 = 17
+Miss!
+Effect
+Proficiency with a Shortbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+
+
+
+
+---
+
+
+This weapon has the following mastery property. To use this property, you must have a feature that lets you use it.
+
+
+Vex. If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
+Image
+Flow attacks with a Shortbow!
+Higara
+To Hit: 2d20kl1 (2, 5) + 12 = 14
+Miss!
+Effect
+Proficiency with a Shortbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+
+
+
+
+---
+
+
+This weapon has the following mastery property. To use this property, you must have a feature that lets you use it.
+
+
+Vex. If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
+Image
+Flow attacks with a Shortbow!
+Higara
+To Hit: 2d20kl1 (13, 12) + 12 = 24
+Damage: (1d6 (1) + 6 [piercing]) * 0 = 0
+Effect
+Proficiency with a Shortbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+
+
+
+
+---
+
+
+This weapon has the following mastery property. To use this property, you must have a feature that lets you use it.
+
+
+Vex. If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
+Image
+Higara: <Bloodied>
+
+Flow (Tjolanta)
+Higara takes damage!
+magical piercing
+Higara
+Damage: 7 = 7
+Higara: <Bloodied>
+!hurt -t <target> -d <damage> -f [reason] | Dr Turtle#1771
+
+Flow (Tjolanta)
+Flow attempts to more effectively pierce their foe!
+Piercer
+Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+Reroll (1d6):
+1d6 (5) = 5
+Damage Difference:
+1->5=4
+Image
+Higara: <Bloodied> -(4)
+Avrae
+APP
+ — 4/19/2025 3:17 PM
+
+Flow (Tjolanta)
+Flow looks inside their Potions
+Potions
+3x Potion of Healing
+1x Potion of Greater Healing
+1x Potion of Superior Healing
+1x Potion of Heroism
+1x Potion of Speed
+If your bags got deleted, check !help text2bag. For help with your bags, see !help bag.
+
+Flow (Tjolanta)
+Flow drinks a potion of Superior Healing!
+When you drink this potion, you regain 8d4+4 hit points.
+Healing
+8d4 (2, 3, 4, 1, 2, 1, 1, 4) + 8 = 26
+Image
+Flow: <38/203>
+
+Flow (Tjolanta)
+Flow removes 1 Potion of Superior Healing from their Potions
+Equipped
+1x Studded Leather, +2
+1x Gauntlets of Flaming Fury
+1x Rapier, +2
+1x Shortbow, +2
+1x Ring of Swimming
+2x Dagger
+1x Wakened Crystal Dragon’s Wrath Rapier
+1x Manual of Quickness of Action
+1x Boots of Haste
+Potions
+3x Potion of Healing
+1x Potion of Greater Healing
+1x Potion of Heroism
+1x Potion of Speed
+0x Potion of Superior Healing (-1)
+Tattoos
+1x Right Hand: Silvery Barbs
+1x Left Foot: Zephyr Strike
+1x Right forearm: Feather fall
+1x Left Hand: Silvery Barbs
+Carried
+1x Healer's Kit (10uses)
+1x Flute
+1x Thieves' Tools
+1x Tinderbox
+1x Waterskin
+1x Small knife
+1x Diamond (300gp)
+Stored
+1x Bedroll
+1x Leatherworker's Tools
+1x Mess kit
+1x Clothes, Common
+1x Rope, Hempen (50 feet)
+10x Torch
+1x Case with map
+1x Backpack
+Coin Purse
+:DDBPlatinum: 0 pp
+:DDBGold: 21,488 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+If your bags got deleted, check !help text2bag. For help with your bags, see !help bag.
+Initiative 19 (round 10): Higara (@Kayliana (Ryan))
+Higara <Bloodied> 
+# Location: T12 | Size: G (Gargantuan)
+* Deciphered [6 rounds] (Parent: Insightful Fighting) 
+ - Galwen can use sneak attack against this target
+Kayliana (Ryan) — 4/19/2025 4:04 PM
+After Flow’s turn:
+LA Psionic Tentacles/Fling on all enemies within 120’
+Avrae
+APP
+ — 4/19/2025 4:05 PM
+Higara attacks with a Tentacle!
+Flow
+To Hit: 1d20 (9) + 16 = 25
+Damage: (2d10 (1, 5) + 8) [bludgeoning] + (2d10 (1, 5)) [psychic] = 20
+Effect: Grappled by Higara (Escape Higara's Grapple)
+Don Explodicus
+To Hit: 1d20 (3) + 16 = 19
+Miss!
+Grimald
+To Hit: 1d20 (20) + 16 = 36
+Damage (CRIT!): (4d10 (4, 7, 5, 10) + 8) [bludgeoning] + (4d10 (8, 1, 6, 9)) [psychic] = 58
+Effect: Grappled by Higara (Escape Higara's Grapple)
+Galwen
+To Hit: 1d20 (20) + 16 = 36
+Damage: (2d10 (10, 1) + 8) [bludgeoning] + (2d10 (4, 10)) [psychic] = 33
+Effect: Grappled by Higara (Escape Higara's Grapple)
+BH(do)
+To Hit: 1d20 (16) + 16 = 32
+Damage: (2d10 (1, 7) + 8) [bludgeoning] + (2d10 (8, 2)) [psychic] = 26
+Effect: Grappled by Higara (Escape Higara's Grapple)
+Higara
+Effect: Grappling Flow (Release Flow; Parent: Grappled by Higara)
+Effect
+Melee Weapon Attack: +16 to hit, reach 30 ft., one target. Hit: 19 (2d10 + 8) bludgeoning damage plus 11 (2d10) psychic damage, and the target is grappled (escape DC 18). The Kraken has ten tentacles, each of which can grapple one target.
+Flow: <18/203 HP> (-20 HP)
+Grimald: <29/153 HP> (-58 HP)
+Galwen: <0/123 HP> (-4 HP, 29 overflow)
+BH(do): <74/122 HP> (-26 HP)
+Higara attacks with a Telekinetic Fling!
+Flow
+Damage: 4d10 (1, 6, 2, 7) [bludgeoning] = 16
+Effect: Prone (Attack Disadvantage; Stand Up)
+Grimald
+Damage: 4d10 (9, 5, 8, 10) [bludgeoning] = 32
+Effect: Prone (Attack Disadvantage; Stand Up)
+Galwen
+Damage: 4d10 (4, 3, 2, 2) [bludgeoning] = 11
+Effect: Prone (Attack Disadvantage; Stand Up)
+BH(do)
+Damage: 4d10 (10, 1, 10, 6) [bludgeoning] = 27
+Effect: Prone (Attack Disadvantage; Stand Up)
+Effect
+The Kraken throws a creature they are grappling into an unoccupied space the Kraken can see within 60 feet of them. The target lands prone and takes 22 (4d10) bludgeoning damage.
+Flow: <2/203 HP> (-16 HP)
+Grimald: <0/153 HP> (-29 HP, 3 overflow)
+Galwen: <0/123 HP> (11 overflow)
+BH(do): <47/122 HP> (-27 HP)
+
+Kayliana (Ryan)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Kayliana (Ryan)
+Moving BH(do) from H16 to H27 (~55.0 ft.).
+Moving Galwen from A16 to A4 (~60.0 ft.).
+Moving Flow from G13 to A13 (~30.0 ft.).
+Moving Grimald from I11 to I1 (~158.1 ft.).
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Higara attacks with a Mental Lance!
+BH(do)
+Attack 1
+To Hit: 1d20 (19) + 18 = 37
+Damage: 4d10 (2, 9, 7, 6) [psychic] = 24
+Effect: Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All)
+
+Attack 2
+To Hit: 1d20 (18) + 18 = 36
+Damage: 4d10 (8, 9, 6, 4) [psychic] = 27
+Effect: Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All)
+
+Attack 3
+To Hit: 1d20 (3) + 18 = 21
+Damage: 4d10 (2, 7, 2, 5) [psychic] = 16
+Effect: Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All)
+
+Total Damage: 67
+Effect
+Ranged Power Attack: +18 to hit, range 120 ft., one creature. Hit: 22 (4d10) psychic damage, and the target is frightened of the Kraken until the start of the Kraken’s next turn.
+BH(do): <23/122 HP> (-24 HP)
+BH(do): <-4/122 HP> (-27 HP)
+BH(do): <-20/122 HP> (-16 HP)
+@Kayliana (Ryan)  :game_die:
+Result: 1d20 (7)
+Total: 7
+
+Kayliana (Ryan)
+Does it Hit?
+New To-Hit
+23 = 23
+Target
+Galwen
+Result
+The new value does hit!
+Image
+!does-hit help | Dr Turtle#1771
+Avrae
+APP
+ — 4/19/2025 4:23 PM
+
+Galwen (Ari)
+Who needs healing?
+Threshold: 100%
+
+BH(do): <-20/122 HP> (-16.39%)
+Galwen: <0/123 HP> (0.0%)
+Grimald: <0/153 HP> (0.0%)
+Flow: <2/203 HP> (0.99%)
+Don Explodicus: <16/122 HP> (13.11%)
+Image
+Usage: !who needsHealing [threshold]
+
+Galwen (Ari)
+Who is fright?
+BH(do): Frightened [1 Round(s)]
+Image
+Usage: !who is <effect>
+Initiative 17 (round 10): Wizard of Conflux (@Don Explodicus (sfollac))
+BH(do) <-20/122 HP> (AC 20) 
+# Location: H27 | Color: p | Size: L
+* Grappled by Higara (Escape Higara's Grapple) 
+ - Escape DC 18
+* Prone (Attack Disadvantage; Stand Up) 
+ - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition
+* Frightened [until start of Higara's next turn] (Attack Disadvantage; Check Disadvantage: All) 
+ - Frightened of Higara
+Effect Grappled by Higara removed from Grimald.
+Effect Grappled by Higara removed from Galwen.
+Effect Grappled by Higara removed from Flow.
+Initiative 17 (round 10): Don Explodicus with Bigby's Hand (@Don Explodicus (sfollac))
+Don Explodicus <16/122 HP> (AC 22) 
+# Location: A19
+* Arcane Hand [7 rounds]  <C>
+* Arcane Fist [7 rounds] (Attack: Clenched Fist; Attack: Forceful Hand; Attack: Grasping Hand; Attack: Interposing Hand; Parent: Arcane Hand)
+BH(do) removed from combat.
+Effect Arcane Hand removed from Don Explodicus.
+Also removed 1 child effects.
+Don Explodicus <16/122 HP> (AC 22) 
+# Location: A19
+Kayliana (Ryan) — 4/19/2025 5:57 PM
+⏸️
+Avrae
+APP
+ — 4/19/2025 9:32 PM
+
+Flow (Tjolanta)
+Flow's bags
+Equipped
+1x Studded Leather, +2
+1x Gauntlets of Flaming Fury
+1x Rapier, +2
+1x Shortbow, +2
+1x Ring of Swimming
+2x Dagger
+1x Wakened Crystal Dragon’s Wrath Rapier
+1x Manual of Quickness of Action
+1x Boots of Haste
+Potions
+3x Potion of Healing
+1x Potion of Greater Healing
+1x Potion of Heroism
+1x Potion of Speed
+Tattoos
+1x Right Hand: Silvery Barbs
+1x Left Foot: Zephyr Strike
+1x Right forearm: Feather fall
+1x Left Hand: Silvery Barbs
+Carried
+1x Healer's Kit (10uses)
+1x Flute
+1x Thieves' Tools
+1x Tinderbox
+1x Waterskin
+1x Small knife
+1x Diamond (300gp)
+Stored
+1x Bedroll
+1x Leatherworker's Tools
+1x Mess kit
+1x Clothes, Common
+1x Rope, Hempen (50 feet)
+10x Torch
+1x Case with map
+1x Backpack
+Coin Purse
+:DDBPlatinum: 0 pp
+:DDBGold: 21,488 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+If your bags got deleted, check !help text2bag. For help with your bags, see !help bag.
+Avrae
+APP
+ — 4/19/2025 10:35 PM
+
+Flow (Tjolanta)
+Does-Hit Help
+Determines whether a given value would hit a target without revealing their exact armor class.
+Usage: !does-hit <to-hit> [combatant]
+to-hit - value. Can be dice or numbers.
+combatant - The combatant to check against.
+Image
+!does-hit help | Dr Turtle#1771
+
+Flow (Tjolanta)
+Does it Hit?
+New To-Hit
+17 = 17
+Target
+Higara
+Result
+The new value does not hit!
+Image
+!does-hit help | Dr Turtle#1771
+
+Flow (Tjolanta)
+Does it Hit?
+New To-Hit
+19 = 19
+Target
+Higara
+Result
+The new value does not hit!
+Image
+!does-hit help | Dr Turtle#1771
+
+Flow (Tjolanta)
+Higara takes damage!
++2 weapon
+Higara
+Damage: 2 = 2
+Higara: <Bloodied>
+!hurt -t <target> -d <damage> -f [reason] | Dr Turtle#1771
+Avrae
+APP
+ — Yesterday at 12:40 AM
+Higara <Bloodied> 
+# Location: T12 | Size: G (Gargantuan)
+* Deciphered [6 rounds] (Parent: Insightful Fighting) 
+ - Galwen can use sneak attack against this target
+
+Kayliana (Ryan)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Flow <2/203 HP> (AC 23) 
+# Location: A13
+* Hasted [2 rounds] (AC Bonus: 2; Save Advantage: Dexterity) 
+ - The target's speed is doubled
+ - They gain an additional action on each of its turns
+ - When the spell ends, the target can't move or take actions until after its next turn
+* Prone (Attack Disadvantage; Stand Up) 
+ - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition
+
+Kayliana (Ryan)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Don Explodicus <16/122 HP> (AC 22) 
+# Location: A19
+Kayliana (Ryan) — Yesterday at 6:29 PM
+⏸️
+Avrae
+APP
+ — 12:43 AM
+
+Jimothy (Garlic)
+Cavatappi takes a Long Rest!
+Reset Death Saves
+Hit Points
+184/184
+Hit Dice
+d8: 1/1
+d6: 19/19
+Spell Slots
+1 ◉◉◉◉
+2 ◉◉◉
+3 ◉◉◉
+4 ◉◉◉
+5 ◉◉◉
+6 ◉◉
+7 ◉◉
+8 ◉
+9 ◉
+Reset Counters
+Dimension Door - Cape of the Mountebank: ◉
+Favored by the Gods: ◉
+Sorcery Points: 19/19
+Unearthly Recovery: ◉
+Image
+Cavatappi: <184/184> | !lr ? - help | vII.2a
+Avrae
+APP
+ — 12:53 AM
+
+Cameron (Aeslyn)
+Albert Addison Ashfield-Allencourt Jr. takes a Long Rest!
+Reset Death Saves
+Hit Points
+206/206
+Hit Dice
+d10: 2/2
+d8: 18/18
+Spell Slots
+1 ◉◉◉◉
+2 ◉◉◉
+3 ◉◉◉
+4 ◉◉◉
+5 ◉◉◉
+6 ◉
+7 ◉
+8 ◉
+9 ◉
+Reset Counters
+Action Surge: ◉
+Bardic Inspiration: 7/7
+Infectious Inspiration: 7/7
+Reveler's Concertina: ◉
+Second Wind: ◉
+Starlight Step: 7/7
+Universal Speech: ◉
+Image
+Albert Addison Ashfield-Allencourt Jr.: <206/206> | !rest long ? - help | vII.2a
+
+Cameron (Aeslyn)
+Elise takes a Long Rest!
+Reset Death Saves
+Hit Points
+103/103 (+103)
+Hit Dice
+d10: 2/2
+d8: 18/18
+Spell Slots
+1 ◉◉◉◉
+2 ◉◉◉ (+1)
+3 ◉◉◉
+4 ◉◉◉
+5 ◉◉◉
+6 ◉
+7 ◉ (+1)
+8 ◉
+9 ◉ (+1)
+Reset Counters
+Action Surge: ◉
+Bardic Inspiration: ◉◉◉◉◉ (+1)
+Infectious Inspiration: ◉◉◉◉◉
+Second Wind: ◉
+Starlight Step: ◉◉◉◉◉◉ (+1)
+Universal Speech: ◉
+Image
+Elise: <103/103> | !rest long ? - help | vII.2a
+Avrae
+APP
+ — 1:23 AM
+
+Kayliana (Ryan)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Kayliana (Ryan)
+Square Underlay
+Color: white
+Size: 25 ft. wide
+Top-left: F6
+Attached: DM
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 2:38 AM
+Albert Addison Ashfield-Allencourt Jr. took a Long Rest!
+Hit Points
+206/206
+Spell Slots
+1 ◉◉◉◉
+2 ◉◉◉
+3 ◉◉◉
+4 ◉◉◉
+5 ◉◉◉
+6 ◉
+7 ◉
+8 ◉
+9 ◉
+Reset Counters
+Second Wind: ◉
+Action Surge: ◉
+Bardic Inspiration: 7/7
+Starlight Step: 7/7
+Universal Speech: ◉
+Infectious Inspiration: 7/7
+Reveler's Concertina: ◉
+Image
+Albert Addison Ashfield-Allencourt Jr. makes an Initiative check!
+1d20 (8) + 6 = 14
+Image
+Joined group Master and Servant!
+Added note to Albert Addison Ashfield-Allencourt Jr..
+Elise took a Long Rest!
+Hit Points
+103/103
+Spell Slots
+1 ◉◉◉◉
+2 ◉◉◉
+3 ◉◉◉
+4 ◉◉◉
+5 ◉◉◉
+6 ◉
+7 ◉
+8 ◉
+9 ◉
+Reset Counters
+Second Wind: ◉
+Action Surge: ◉
+Bardic Inspiration: ◉◉◉◉◉
+Starlight Step: ◉◉◉◉◉◉
+Universal Speech: ◉
+Infectious Inspiration: ◉◉◉◉◉
+Image
+Elise makes an Initiative check!
+1d20 (7) + 6 = 13
+Image
+Joined group Master and Servant!
+Added note to Elise.
+
+Cameron (Aeslyn)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Cameron (Aeslyn)
+Moving Elise to H7.
+Moving Albert Addison Ashfield-Allencourt Jr. to G7.
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 2:58 AM
+Elise casts Foresight!
+Albert Addison Ashfield-Allencourt Jr.
+Effect: Foresight [8.0 hours] (Check Advantage: All; Save Advantage: All; Attack Advantage)
+Effect
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.
+
+This spell immediately ends if you cast it again before its duration ends.
+Spell Slots
+9 〇 (-1)
+Albert Addison Ashfield-Allencourt Jr. uses Bardic Inspiration!
+Elise
+Effect: Feeling Inspired (1d12) [10.0 minutes]
+Effect
+For 10 minutes, the creature can add 1d12 to one ability check, attack roll, or saving throw. This can be added after seeing the roll, but before knowing the outcome.
+Bardic Inspiration
+6/7 (-1)
+Avrae
+APP
+ — 4:02 AM
+Cavatappi makes an Initiative check!
+1d20 (13) - 1 = 12
+Image
+Added to combat!
+
+Jimothy (Garlic)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Jimothy (Garlic)
+Moving Cavatappi to F8.
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 4:49 AM
+Cavatappi casts Crown of Stars!
+Cavatappi
+Effect: Crown of Stars [60.0 minutes] (Attack: Crown of Stars)
+Effect
+Seven star-like motes of light appear and orbit your head until the spell ends. You can use a bonus action to send one of the motes streaking toward one creature or object within 120 feet of you. When you do so, make a ranged spell attack. On a hit, the target takes 4d12 radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.
+
+If you have four or more motes remaining, they shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you have one to three motes remaining, they shed dim light in a 30-foot radius.
+Spell Slots
+7 ◉〇 (-1)
+Image
+Kayliana (Ryan) — 4:00 PM
+▶️
+Avrae
+APP
+ — 4:02 PM
+
+Kayliana (Ryan)
+Removed underlay linked to DM
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 4:59 PM
+Selection timed out or was cancelled.
+Don Explodicus casts Arcane Hand!
+Don Explodicus
+Effect: Arcane Fist [10 rounds] (Attack: Clenched Fist; Attack: Forceful Hand; Attack: Grasping Hand; Attack: Interposing Hand; Parent: Arcane Hand)
+Effect
+You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.
+
+The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space.
+
+When you cast the spell and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the effects with it.
+At Higher Levels
+When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
+Spell Slots
+9 〇 (-1)
+Image
+
+Don Explodicus (sfollac)
+Don Explodicus summons Bigby's Hand!
+A Bigby's Hand is conjured to location -L and the color-code for it is P
+!conjure ? | NerdsandDragons#2817
+BH(do) was added to combat with initiative 17 as part of group Don Explodicus with Bigby's Hand.
+
+Don Explodicus (sfollac)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Don Explodicus with Bigby's Hand's Actions
+Attacks
+2-Handed Quarterstaff (Don Explodicus): Attack: +5 to hit. Hit: 1d8-1 [bludgeoning] damage.
+2-Handed Spire of Conflux (Exalted) (Don Explodicus): Attack: +5 to hit. Hit: 1d8-1 [magical bludgeoning] damage.
+Clenched Fist (Don Explodicus): Attack: +nan to hit. Hit: 4d8 [force] damage.
+Forceful Hand (Don Explodicus): DC 0 Athletics Check.
+Grasping Hand (Don Explodicus): DC 0 Athletics or Acrobatics Check. Fail: Effect: Grasping Hand (Grappled), Effect: Grasping Hand.
+Interposing Hand (Don Explodicus): Effect: Interposing Hand.
+Quarterstaff (Don Explodicus): Attack: +5 to hit. Hit: 1d6-1 [bludgeoning] damage.
+Sling (Don Explodicus): Attack: +8 to hit. Hit: 1d4+2 [bludgeoning] damage.
+Spire of Conflux (Exalted) (Don Explodicus): Attack: +5 to hit. Hit: 1d6-1 [magical bludgeoning] damage.
+Unarmed Strike (Don Explodicus): Attack: +5 to hit. Hit: 0 [bludgeoning] damage.
+Bonus Actions
+Telekinetic - Shove (Don Explodicus): DC 20 STR Save. Fail: 0 damage.
+Don Explodicus reaches out with a Clenched Fist!
+Higara
+To Hit: 1d20 (15) + 16 = 31
+Damage: 12d8 (7, 1, 4, 6, 2, 2, 5, 3, 4, 4, 2, 6) [magical force] = 46
+Effect
+Clenched Fist. The hand strikes one creature or object within 5 feet of it. Make a melee spell attack for the hand using your game statistics. On a hit, the target takes 4d8 force damage.
+Higara: <Critical> (-46)
+Don Explodicus casts Healing Word!
+Galwen
+Healing: -(1d4 (3) + 2) [magical heal] = -5
+Effect
+A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Spell Slots
+1 〇〇〇〇 (-1)
+Image
+Galwen: <5/123 HP> (+5 HP)
+
+Don Explodicus (sfollac)
+Moving Don Explodicus from A19 to A16 (~15 ft.)
+Grimald is currently 30 ft. above the ground.
+​
+Map
+Image
+!go ? | v1.4
+Initiative 16 (round 10): Galwen (@Galwen (Ari))
+Galwen <5/123 HP> (AC 19) 
+> Immunities: critical hits, sleep
+# Location: A4
+* Fey Ancestry  
+ - You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+* Wings of Flying [59.0 minutes]  
+ - While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.
+* Hasted (Potion of Speed) [2 rounds] (AC Bonus: 2)
+* Blessed by a Potion of Heroism [59.4 minutes] (Attack Bonus: 1d4[Bless]; Save Bonus: 1d4[Bless])
+* Insightful Fighting [6 rounds]  
+ - Can use Sneak Attack against Higara
+* Prone (Attack Disadvantage; Stand Up) 
+ - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition
+Avrae
+APP
+ — 5:11 PM
+
+Don Explodicus (sfollac)
+Higara takes damage!
+Forgot Empowered Evocation on Bigby's hand
+Higara
+Damage: 6 [force] = 6
+Higara: <Critical>
+!hurt -t <target> -d <damage> -f [reason] | Dr Turtle#1771

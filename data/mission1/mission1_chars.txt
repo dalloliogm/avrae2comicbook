@@ -1,0 +1,523 @@
+Image
+High Priest of the Mindstorm 
+Avrae
+APP
+ — 4/9/2025 5:45 AM
+
+Grimald (gophren)
+Grimald
+Medium Humanoid (Shadar-Kai)
+Class: Fighter (Battle Master) 13/Rogue (Swashbuckler) 4
+Character Level: 17 (244,293)
+Proficiency Bonus: 6
+AC: 22
+HP: 153/153
+Initiative: 7
+Speed: 30 ft.
+STR: 9 (-1) DEX: 20 (+5) CON: 16 (+3)
+INT: 8 (-1) WIS: 14 (+2) CHA: 14 (+2)
+Saving Throw Proficiencies: Strength +5, Constitution +9, Wisdom +8
+Skill Proficiencies: Acrobatics +17 (expertise), Athletics +11 (expertise), History +5, Perception +8, Persuasion +8, Stealth +11
+Background: Noble
+Resistances: necrotic
+Background Feature: Position of Privilege
+Senses: passive Perception 18
+Additional Resistances: Necrotic
+Languages: Common, Elvish, Infernal
+Feats: Elven Accuracy, Fey Touched (Wisdom), Gift of the Chromatic Dragon, Resilient (Wis), Revenant Blade
+Magic Items: Blood Fury Tattoo, Crown of Whirling Comets, Crystal Double-Bladed Scimitar, Revivify Diamonds, Revivify Diamonds 2, Studded Leather Armor +3
+Attuned Items: Blood Fury Tattoo, Crown of Whirling Comets, Crystal Double-Bladed Scimitar
+Fighting Styles: Great Weapon Fighting
+Battle Master Fighter Maneuvers: Brace, Feinting Attack, Menacing Attack, Parry, Trip Attack
+Attacks
+Crystal Double-Bladed Scimitar: +11 to hit; 2d4ro<3 + 5 magical slashing + 1d8ro<3 radiant damage.
+Crystal DBS BA: +11 to hit; 1d4ro<3 + 5 magical slashing + 1d8ro<3 radiant damage.
+Grapple: Acrobatics or Athletics Check vs. caster's Athletics Check. Fail: Effect: Grappled, maybe Effect: Grappling.
+Shove (Prone): Acrobatics or Athletics Check vs. caster's Athletics Check. Fail: Effect: Prone.
+Shove (Away): Acrobatics or Athletics Check vs. caster's Athletics Check.
+Fey Touched (Wisdom): Hex: Uses 1 charge of Fey Touched (Wisdom): Hex, casts Hex.
+Character Sheet URL:
+https://docs.google.com/spreadsheets/d/1mmRLYo2hyoeKQSPSm4FJOGsue7BBmwQpt27Ljg8LrWw
+Image
+!vsheet v6.5 | @Derixyleth#0636 | !vsheet ?
+Grimald
+Name: Grimald Embertree
+Race (and subrace): Shadar-Kai Elf
+Background: Noble
+Class: Fighter/Rogue
+Subclass: Battlemaster/Swashbuckler
+
+Description: With his pale skin and cold eyes Grimald was mistaken for a ghost many times in the past. That impression will vanish as soon as you hear him speak, because he is usually displaying a merry and jovial attitude. He does not goes overboard, he is well mannered and composed. His wear fine clothes, denoting his origin from a family of high status in Shadowfell.
+Image
+Avrae
+APP
+ — 4/9/2025 6:47 AM
+
+Flow (Tjolanta)
+Flow
+Medium Humanoid (Tabaxi)
+Class: Rogue (Swashbuckler) 9/Fighter (Battle Master) 10
+Character Level: 19 (337,115)
+Proficiency Bonus: 6
+AC: 21
+HP: 203/203
+Initiative: 6
+Speed: 30 ft., 30 ft. Climb, 40 ft. Swim
+STR: 14 (+2) DEX: 22 (+6) CON: 16 (+3)
+INT: 11 (+0) WIS: 14 (+2) CHA: 10 (+0)
+Saving Throw Proficiencies: Dexterity +12, Intelligence +6
+Skill Proficiencies: Acrobatics +18 (expertise), Athletics +14 (expertise), Insight +8, Perception +14 (expertise), Performance +6, Persuasion +6, Sleight Of Hand +12, Stealth +18 (expertise)
+Background: Urchin
+Senses: Darkvision 60 ft., passive Perception 24
+Languages: Common, Draconic
+Feats: Dual Wielder, Piercer, Sentinel, Tough
+Magic Items: (Tattoos in Bag), Boots of Haste, Diamond (300 Gp), Gauntlets of Flaming Fury, Manual of Quickness of Action, Rapier +2, Ring of Swimming, Shortbow +2, Studded Leather +2, Wakened Crystal Dragon Wrath Rapier
+Attuned Items: Boots of Haste, Gauntlets of Flaming Fury, Wakened Crystal Dragon Wrath Rapier
+Fighting Styles: Two-Weapon Fighting
+Battle Master Fighter Maneuvers: Brace, Distracting Strike, Feinting Attack, Goading Attack, Lunging Attack, Riposte, Trip Attack
+Attacks
+Dagger: +12 to hit; 1d4+6 piercing damage.
+Dagger 2: +12 to hit; 1d4+6 piercing damage.
+Offhand Rapier, +2: +14 to hit; 1d8+8 magical piercing damage.
+Shortbow: +12 to hit; 1d6+6 piercing damage.
+Shortbow, +2: +14 to hit; 1d6+8 magical piercing damage.
+Wakened Crystal Dragon’s Wrath Rapier: +14 to hit; 1d8+8 magical piercing + 2d6 magical radiant damage.
+Unarmed Strike: +8 to hit; 3 bludgeoning damage.
+Cat’s Claws: +8 to hit; 1d6+2 slashing damage.
+Character Sheet URL:
+https://ddb.ac/characters/91637094
+Image
+!vsheet v6.5 | @Derixyleth#0636 | !vsheet ?
+Flow
+Name: Flowing Wind of Lush Mountains (Flow)
+Race (and subrace): Tabaxi
+Background: Urchin Stray
+Class: Swashbuckler Rogue/Battle Master Fighter
+
+Description:
+Flow is a tabaxi with a golden spotted fur. Her clothes are clean but simple; A plain blouse and a pair of pants outfitted with practical leg pockets. The armour however, look’s a bit more expensive. Noticeably high craftsmanship, well fitted and made for mobility and stealth. Her well kept rapiers follow the same pattern.
+
+She left her home on the other side of the great sea a long time ago, at a young age, and before finding her way to the Gates she has had a rather varied life. Her first safe haven was in a rather questionable association. There she thrived, until that situation went out of hand and she decided it was best for her to leave.
+
+She then stayed at a smaller travelling circus until she felt it was best for all involved that she they parted ways. This is when she started to earn money as an adventurer. Staying longer than she ever thought she would in a small town with an unusual amount of various problems. Her restlessness finally had her leave again, and she allowed herself to be enrolled into the armed forces of a local lord, which granted her useful battle training. This was where she heard stories about the Gates. Triggering her curiosity she left to find someone who knew how to get there.
+Image
+Avrae
+APP
+ — 4/9/2025 1:44 PM
+
+Galwen (Ari)
+Galwen
+Medium Humanoid (Pallid Elf)
+Class: Rogue (Inquisitive) 16/Fighter 1
+Character Level: 17 (244,760)
+Proficiency Bonus: +7
+Spell Attack Bonus: +12
+Spell Save DC: 20
+AC: 17
+HP: 123/123
+Initiative: 7
+Speed: 30 ft.
+STR: 8 (-1) DEX: 22 (+6) CON: 15 (+2)
+INT: 12 (+1) WIS: 20 (+5) CHA: 8 (-1)
+Saving Throw Proficiencies: Dexterity +14, Constitution +10, Intelligence +9, Wisdom +13
+Skill Proficiencies: Acrobatics +21 (expertise), Insight +20 (expertise, adv), Investigation +16 (expertise, adv), Medicine +13, Perception +20 (expertise), Sleight Of Hand +14, Stealth +14 (dis)
+Background: Courtier
+Immunities: critical hits, sleep
+Tool Proficiencies: Thieves' Tools, Calligrapher's Supplies, Poisoner's Kit
+Senses: Darkvision 60 ft., passive Perception 30
+Languages: Common, Elvish
+Feats: Elven Accuracy, Resilient: Constitution, Sharpshooter
+Magic Items: Feather Fall Tattoo (L Forearm), Feather Fall Tattoo (R Forearm), Longbow +2, Manual of Quickness of Action V1, Mizzium Half Plate, Moon-Touched Rapier, Revivify Diamond, Revivify Tattoo (L Wrist), Silvery Barbs Tattoo (R Elbow)
+Attuned Items: Ioun Stone of Mastery, Stone of Good Luck, Wings of Flying
+Fighting Styles: Archery
+Attacks
+8
+Character Sheet URL:
+https://docs.google.com/spreadsheets/d/1Ko5fvdbjHFzIyTeFQlYpypI-of71sYKmTgQfHi90k5s
+Image
+!vsheet v6.5 | @Derixyleth#0636 | !vsheet ?
+Galwen (Ari) — 4/9/2025 1:44 PM
+!sb
+Avrae
+APP
+ — 4/9/2025 1:44 PM
+Galwen
+Galwen knows 3 spells.
+DC
+20
+Spell Attack Bonus
+12
+Spell Slots
+No spell slots.
+Cantrips
+Light
+1st Level
+Sleep
+2nd Level
+Invisibility
+Image
+Galwen
+Name: Galwen Mannadil
+Race (and subrace): Pallid Elf
+Background: Custom Courtier
+Class: Rogue
+Subclass: Inquisitive
+
+Description: Galwen Mannadil was 23rd in line to the Duchy of Aistaquen. Not only was she far down the line of succession, she wasn't even talented enough in their eyes. With only the barest of knowledge in their ancestral magic, she was not one that was paid attention to.
+
+And so she focused more on things she could do without magic. Her skills, her senses, her aim. Archery. With so little attention on her, no one batted an eye when a recruiter came to their lands and asked for help Defending the Gates. And so Galwen Mannadil vowed to do so, even if it meant spilling her noble blood. The Gates were more than worth it.
+Image
+Don Explodicus (sfollac) — 4/9/2025 3:46 PM
+!update
+Avrae
+APP
+ — 4/9/2025 3:46 PM
+Updated and saved data for Don Explodicus! 
+
+Don Explodicus (sfollac)
+Don Explodicus
+Medium Humanoid (Orc)
+Class: Wizard (Evocation) 16/Cleric (Order) 1
+Character Level: 17 (257,763)
+Proficiency Bonus: +6
+Spell Attack Bonus: +16
+Spell Save DC: 24
+AC: 22
+HP: 122/122
+Initiative: 2
+Speed: 30 ft.
+STR: 9 (-1) DEX: 14 (+2) CON: 16 (+3)
+INT: 22 (+6) WIS: 14 (+2) CHA: 8 (-1)
+Saving Throw Proficiencies: Constitution +10, Intelligence +13, Wisdom +9
+Skill Proficiencies: Arcana +12, Athletics +5, Insight +8, Intimidation +5, Perception +8
+Background: Far Traveler
+Senses: Darkvision 60, passive Perception 18
+Languages: Common, Goblin, Orc
+Feats: Resilient (Con), Telekinetic, Warcaster
+Magic Items: Amulet of the Devout + 2, Armour +1, Dragon Breath Scroll, Feather Fall Tattoo - Left Leg, Feather Fall Tattoo - Right Leg, Hat of Wizardry, Potion of Healing (2), Revivify Tatto - Left Shoulder, Revivify Tatto - Right Shoulder, Shield +1, Spire of Conflux, Tome of Clear Thoughts
+Attuned Items: Amulet of the Devout, Cloak of Protection, Spire of Conflux
+Attacks
+Quarterstaff: +5 to hit; 1d6-1 bludgeoning damage.
+2-Handed Quarterstaff: +5 to hit; 1d8-1 bludgeoning damage.
+Sling: +8 to hit; 1d4+2 bludgeoning damage.
+Spire of Conflux (Exalted): +5 to hit; 1d6-1 magical bludgeoning damage.
+2-Handed Spire of Conflux (Exalted): +5 to hit; 1d8-1 magical bludgeoning damage.
+Unarmed Strike: +5 to hit; 0 bludgeoning damage.
+Character Sheet URL:
+https://ddb.ac/characters/82998559
+Image
+!vsheet v6.5 | @Derixyleth#0636 | !vsheet ?
+Don Explodicus
+Name: Don Explodicus
+Race (and subrace): Orc
+Background: Far Traveler
+Class: Wizard/Cleric
+Subclass: Evocation/Order
+
+Description:Explodicus is a jovial and loud orc, who likes to drink beer and blast things on the battlefield. Trained in the arts of wizardry and ordained as a cleric of Karaash, he has been sent to represent the Chiefdoms of the Roaring Lion in the defence of the Gates.
+
+In battle he believes that the best way to motivate a bunch of uneducated and barbaric Orcs is to throw fireballs and thunder at them, and tell them that only those who have faith will be left unarmed. Sometimes one or two Orcs get accidentally incinerated, but the ones that survive find the experience very entertaining.
+
+In terms of physical appearance, Explodicus is much weaker of the average orc, due to a deformation of his right arm that makes him unable to wield effectively most weapons. He can barely carry his Scale Mail, and at 5'6" he is short for his kind. In fact, his mission to The Gate is most likely a way to get away from some powerful enemies, as most Orc chiefs do not tolerate well Orcs that lead with smarts instead of strength.
+Image
+Don Explodicus (sfollac) — 4/9/2025 3:46 PM
+!sb
+Avrae
+APP
+ — 4/9/2025 3:46 PM
+Don Explodicus
+Don Explodicus has 43 spells prepared and knows 91 spells.
+DC
+24
+Spell Attack Bonus
+16
+Spell Slots
+1 ◉◉◉◉
+2 ◉◉◉
+3 ◉◉◉
+4 ◉◉◉
+5 ◉◉
+6 ◉
+7 ◉
+8 ◉
+9 ◉
+Cantrips
+Acid Splash, Fire Bolt, Light, Mage Hand, Ray of Frost, Shocking Grasp, Spare the Dying, Thaumaturgy, Toll the Dead
+1st Level
+Absorb Elements, Burning Hands, Comprehend Languages, Cure Wounds, Healing Word, Heroism, Magic Missile, Sanctuary, Shield, Silvery Barbs
+2nd Level
+Misty Step, Rime's Binding Ice, See Invisibility, See Invisibility, Vortex Warp
+3rd Level
+Counterspell, Counterspell, Dispel Magic, Fireball
+4th Level
+Ice Storm, Polymorph, Summon Aberration
+5th Level
+Arcane Hand, Cone of Cold, Conjure Elemental, Summon Draconic Spirit
+6th Level
+Chain Lightning, Otiluke's Freezing Sphere, Tasha's Otherworldly Guise
+7th Level
+Crown of Stars, Draconic Transformation, Fire Storm
+8th Level
+Maddening Darkness, Sunburst
+Image
+Unprepared spells were not shown. Use "!spellbook all" to view them!
+Kayliana (Ryan) — 4/11/2025 9:51 PM
+Image
+Higara, the Mindstorm
+Avrae
+APP
+ — 12:43 AM
+
+Jimothy (Garlic)
+Cavatappi
+Medium Pasta (Custom Lineage)
+Class: Cleric (Order) 1/Sorcerer (Divine Soul) 19
+Character Level: 20
+Proficiency Bonus: +6
+Spell Attack Bonus: +17
+Spell Save DC: 25
+AC: 26
+HP: 184/184
+Initiative: -1
+Speed: 30 ft.
+STR: 15 (+2) DEX: 8 (-1) CON: 20 (+5)
+INT: 12 (+1) WIS: 14 (+2) CHA: 20 (+5)
+Saving Throw Proficiencies: Constitution +11, Wisdom +8, Charisma +11
+Skill Proficiencies: Animal Handling +8, Insight +8, Persuasion +11, Religion +7, Survival +8
+Background: Folk Hero
+Senses: passive Perception 12
+Feats: Resilient Con, Warcaster
+Magic Items: Cape of the Mountebank, Plate Armor +1, Shield +2
+Attuned Items: Amulet of the Devout +3, Bloodwell Vial +3, Jewel of Three Prayers (Exalted)
+Attacks
+Crossbow, light: +5 to hit; 1d8-1 piercing damage.
+Mace: +8 to hit; 1d6+2 bludgeoning damage.
+Unarmed Strike: +8 to hit; 3 bludgeoning damage.
+Character Sheet URL:
+https://ddb.ac/characters/110026631
+Image
+!vsheet v6.5 | @Derixyleth#0636 | !vsheet ?
+Jimothy (Garlic) — 12:43 AM
+!desk
+Nope.
+Avrae
+APP
+ — 12:43 AM
+Cavatappi
+Name: Cavatappi
+Pronouns: He/him
+Species: Custom Lineage (Pasta)
+Class: Order Cleric 1 / Divine Soul Sorcerer 19
+Background: Folk Hero
+Description: Cavatappi comes from a family of sentient pasta noodles. His ridged, spiral shape is beneficial for holding more sauce (increased surface area) as well as aiding those in need (good at hugs). Having become a master of arcane during his earlier career at The Gates, Cavatappi has mostly retired but still eagerly answers the call when a Strike Team summons is needed!
+Image
+Jimothy (Garlic) — 12:44 AM
+!sb
+Avrae
+APP
+ — 12:44 AM
+Cavatappi
+Cavatappi has 32 spells prepared and knows 44 spells.
+DC
+25
+Spell Attack Bonus
+17
+Spell Slots
+1 ◉◉◉◉
+2 ◉◉◉
+3 ◉◉◉
+4 ◉◉◉
+5 ◉◉◉
+6 ◉◉
+7 ◉◉
+8 ◉
+9 ◉
+Cantrips
+Fire Bolt, Guidance, Light, Mage Hand, Mind Sliver, Mold Earth, Shocking Grasp, Thaumaturgy, Toll the Dead
+1st Level
+Bless, Command, Cure Wounds, Heroism, Protection from Evil and Good, Sanctuary, Silvery Barbs
+2nd Level
+Aid, Invisibility, Lesser Restoration, Vortex Warp
+3rd Level
+Counterspell, Dispel Magic, Revivify
+4th Level
+Dimension Door
+5th Level
+Greater Restoration, Holy Weapon, Mass Cure Wounds
+6th Level
+Heal, Scatter
+7th Level
+Crown of Stars
+8th Level
+Holy Aura
+9th Level
+Mass Heal
+Image
+Unprepared spells were not shown. Use "!spellbook all" to view them!
+Avrae
+APP
+ — 12:54 AM
+
+Cameron (Aeslyn)
+Albert Addison Ashfield-Allencourt Jr.
+Medium Humanoid (Astral Elf)
+Class: Fighter 2/Bard (Eloquence) 18
+Character Level: 20 (2,444)
+Proficiency Bonus: +7
+Spell Attack Bonus: +17
+Spell Save DC: 27
+AC: 25
+HP: 206/206
+Initiative: 6
+Speed: 30 ft., 40 ft. Swim (Ring of Swimming), 80 ft. Fly (Carpet of Flying)
+STR: 9 (-1) DEX: 16 (+3) CON: 16 (+3)
+INT: 10 (+0) WIS: 16 (+3) CHA: 24 (+7)
+Saving Throw Proficiencies: Strength +6, Constitution +10
+Skill Proficiencies: Acrobatics +17 (expertise), Athletics +13 (expertise), Intimidation +14, Perception +17 (expertise), Performance +21 (expertise), Persuasion +14, Sleight Of Hand +10
+Background: Celebrity Adventurer’s Scion
+Immunities: magical sleep, disease, poison, poisoned
+Senses: Darkvision 60 ft., passive Perception 27
+Languages: Common, Celestial, Draconic, Infernal
+Magic Items: Cap of Water Breathing, Cape of the Mountebank, Carpet of Flying, Ioun Stone of Mastery, Periapt of Health, Periapt of Proof Against Poison, Reveler's Concertina, Rhythm-Maker’S Drum +3, Ring of Swimming
+Attuned Items: Ioun Stone of Mastery, Reveler's Concertina, Rhythm-Maker’S Drum +3
+Attacks
+Rapier, +3: +13 to hit; 1d8+6 magical piercing damage.
+Unarmed Strike: +6 to hit; 0 bludgeoning damage.
+Character Sheet URL:
+https://ddb.ac/characters/106106468
+Image
+!vsheet v6.5 | @Derixyleth#0636 | !vsheet ?
+Cameron (Aeslyn) — 12:54 AM
+!sb
+Avrae
+APP
+ — 12:54 AM
+Albert Addison Ashfield-Allencourt Jr.
+Albert Addison Ashfield-Allencourt Jr. knows 37 spells.
+DC
+27
+Spell Attack Bonus
+17
+Spell Slots
+1 ◉◉◉◉
+2 ◉◉◉
+3 ◉◉◉
+4 ◉◉◉
+5 ◉◉◉
+6 ◉
+7 ◉
+8 ◉
+9 ◉
+Cantrips
+Mage Hand, Mending, Prestidigitation, Sacred Flame, Thunderclap, Vicious Mockery
+1st Level
+Cure Wounds, Disguise Self, Hideous Laughter, Silvery Barbs
+2nd Level
+Aid, Blindness/Deafness, Lesser Restoration, Mirror Image
+3rd Level
+Counterspell, Dispel Magic, Hypnotic Pattern, Mass Healing Word, Revivify, Slow
+4th Level
+Aura of Life, Confusion, Dimension Door, Raulothim's Psychic Lance
+5th Level
+Greater Restoration, Hold Monster, Mass Cure Wounds, Synaptic Static
+6th Level
+Eyebite, Heal, Otto's Irresistible Dance
+7th Level
+Prismatic Spray
+8th Level
+Dominate Monster, Feeblemind
+9th Level
+Foresight, Mass Heal, Wish
+Image
+
+Cameron (Aeslyn)
+Elise
+Medium Humanoid (Astral Elf)
+Class: Fighter 2/Bard (Eloquence) 18
+Character Level: 20
+Proficiency Bonus: +6
+Spell Attack Bonus: +11
+Spell Save DC: 19
+AC: 19
+HP: 103/103
+Initiative: 6
+Speed: 30 ft.
+STR: 9 (-1) DEX: 16 (+3) CON: 16 (+3)
+INT: 10 (+0) WIS: 16 (+3) CHA: 20 (+5)
+Saving Throw Proficiencies: Strength +5, Constitution +9
+Skill Proficiencies: Acrobatics +15 (expertise), Athletics +11 (expertise), Intimidation +11, Perception +15 (expertise), Performance +17 (expertise), Persuasion +11, Sleight Of Hand +9
+Background: Celebrity Adventurer’s Scion
+Immunities: magical sleep
+Senses: Darkvision 60 ft., passive Perception 25
+Languages: Common
+Attacks
+Javelin: +5 to hit; 1d6-1 piercing damage.
+Rapier: +9 to hit; 1d8+3 piercing damage.
+Unarmed Strike: +5 to hit; 0 bludgeoning damage.
+Character Sheet URL:
+https://ddb.ac/characters/106170550
+Image
+!vsheet v6.5 | @Derixyleth#0636 | !vsheet ?
+Cameron (Aeslyn) — 12:54 AM
+!sb
+Avrae
+APP
+ — 12:54 AM
+Elise
+Elise knows 34 spells.
+DC
+19
+Spell Attack Bonus
+11
+Spell Slots
+1 ◉◉◉◉
+2 ◉◉◉
+3 ◉◉◉
+4 ◉◉◉
+5 ◉◉◉
+6 ◉
+7 ◉
+8 ◉
+9 ◉
+Cantrips
+Mage Hand, Mending, Prestidigitation, Sacred Flame, Thunderclap, Vicious Mockery
+1st Level
+Cure Wounds, Hideous Laughter, Silvery Barbs
+2nd Level
+Aid, Blindness/Deafness, Lesser Restoration, Mirror Image
+3rd Level
+Counterspell, Dispel Magic, Hypnotic Pattern, Mass Healing Word, Revivify, Slow
+4th Level
+Aura of Life, Confusion, Raulothim's Psychic Lance
+5th Level
+Greater Restoration, Hold Monster, Mass Cure Wounds, Synaptic Static
+6th Level
+Eyebite, Heal
+7th Level
+Prismatic Spray
+8th Level
+Dominate Monster, Feeblemind
+9th Level
+Foresight, Mass Heal, Wish
+Image
+Albert Addison Ashfield-Allencourt Jr.
+Name: Albert Addison Ashfield-Allencourt Jr.
+Race (and subrace): Astral Elf
+Background: Celebrity Adventurer’s Scion
+Class: Fighter 2 / Bard 18
+Subclass: None / Eloquence
+Description:
+
+Albert Addison Ashfield-Allencourt Jr. is the only child of the famed Adventurer Albert Addison Ashfield-Allencourt. He follows in his father's steps and has devoted himself to being a Defender at the Gates and a member of the Strike Team.
+
+He is a tall lanky dark-haired elf who looks a lot like his famous father. He is impeccably dressed, wearing only his best, and takes great pride in his appearance, boasting an extensive skincare regime. Rings and piercings adorn his fingers and ears, adding a lot of flair to this adventurer's scion.
+
+He is accompanied by his personal servant/bodyguard, Halbert.
+Image
+Avrae
+APP
+ — 2:58 AM
+Albert Addison Ashfield-Allencourt Jr.
+Albert Addison Ashfield-Allencourt Jr.
+Elise
+Elise
