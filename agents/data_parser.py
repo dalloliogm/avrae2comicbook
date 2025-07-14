@@ -5,7 +5,6 @@ import json
 from datetime import datetime
 from typing import List, Dict, Optional, Tuple
 from pathlib import Path
-import pandas as pd
 from loguru import logger
 
 from models import (
@@ -367,3 +366,158 @@ class DataParsingAgent:
             current_step="Waiting for mission",
             started_at=datetime.now()
         )
+    
+    async def parse_characters(self, content: str) -> List[Character]:
+        """Parse characters from text content."""
+        characters = []
+        
+        # Split content into character blocks
+        if '**' in content:  # Markdown format
+            char_blocks = re.split(r'\n(?=\*\*\w)', content)
+        else:  # Text format
+            char_blocks = content.split('\n\n')
+        
+        for block in char_blocks:
+            if not block.strip():
+                continue
+                
+            char = await self._parse_character_block(block)
+            if char:
+                characters.append(char)
+        
+        return characters
+    
+    async def _parse_character_block(self, block: str) -> Optional[Character]:
+        """Parse a single character block."""
+        lines = block.split('\n')
+        
+        # Find character name
+        name = None
+        player_name = None
+        race = None
+        char_class = None
+        
+        for line in lines:
+            if '**' in line and '**' in line[line.find('**')+2:]:
+                # Markdown character name
+                name_match = re.search(r'\*\*([^*]+)\*\*', line)
+                if name_match:
+                    name = name_match.group(1).strip()
+            
+            # Look for race and class
+            if 'Race:' in line or 'race:' in line:
+                race_match = re.search(r'[Rr]ace:\s*([^\n,]+)', line)
+                if race_match:
+                    race = race_match.group(1).strip()
+            
+            if 'Class:' in line or 'class:' in line:
+                class_match = re.search(r'[Cc]lass:\s*([^\n,]+)', line)
+                if class_match:
+                    char_class = class_match.group(1).strip().lower()
+                    # Map to CharacterClass enum
+                    if 'fighter' in char_class:
+                        char_class = CharacterClass.FIGHTER
+                    elif 'wizard' in char_class:
+                        char_class = CharacterClass.WIZARD
+                    elif 'rogue' in char_class:
+                        char_class = CharacterClass.ROGUE
+                    elif 'cleric' in char_class:
+                        char_class = CharacterClass.CLERIC
+                    elif 'ranger' in char_class:
+                        char_class = CharacterClass.RANGER
+                    elif 'paladin' in char_class:
+                        char_class = CharacterClass.PALADIN
+                    elif 'barbarian' in char_class:
+                        char_class = CharacterClass.BARBARIAN
+                    elif 'bard' in char_class:
+                        char_class = CharacterClass.BARD
+                    elif 'druid' in char_class:
+                        char_class = CharacterClass.DRUID
+                    elif 'monk' in char_class:
+                        char_class = CharacterClass.MONK
+                    elif 'sorcerer' in char_class:
+                        char_class = CharacterClass.SORCERER
+                    elif 'warlock' in char_class:
+                        char_class = CharacterClass.WARLOCK
+                    else:
+                        char_class = CharacterClass.FIGHTER  # Default
+        
+        if name:
+            return Character(
+                id=name.lower().replace(' ', '_'),
+                name=name,
+                player_name=player_name,
+                race=race,
+                char_class=char_class,
+                description=block
+            )
+        
+        return None
+    
+    async def parse_ic_logs(self, content: str) -> List[Event]:
+        """Parse IC logs from content."""
+        events = []
+        lines = content.split('\n')
+        
+        event_counter = 0
+        current_event = None
+        
+        for line in lines:
+            if not line.strip():
+                continue
+            
+            # Look for timestamp patterns
+            timestamp_match = re.search(r'\[(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})\]', line)
+            if not timestamp_match:
+                # Try alternative format
+                timestamp_match = re.search(r'(\d+/\d+/\d+\s+\d+:\d+\s*[AP]M)', line)
+            
+            # Look for character name
+            char_match = re.search(r'^([A-Za-z]+):', line)
+            if not char_match:
+                char_match = re.search(r'([A-Za-z]+)\s*\([^)]+\)', line)
+            
+            if timestamp_match or char_match:
+                # Start new event
+                event_counter += 1
+                
+                # Parse timestamp
+                timestamp = datetime.now()
+                if timestamp_match:
+                    try:
+                        timestamp_str = timestamp_match.group(1)
+                        if '/' in timestamp_str:
+                            timestamp = datetime.strptime(timestamp_str.strip(), '%m/%d/%Y %I:%M %p')
+                        else:
+                            timestamp = datetime.strptime(timestamp_str, '%Y-%m-%d %H:%M')
+                    except ValueError:
+                        pass
+                
+                # Get character name
+                character_name = "Unknown"
+                if char_match:
+                    character_name = char_match.group(1)
+                
+                # Determine event type
+                event_type = EventType.DIALOGUE
+                if any(word in line.lower() for word in ['*', 'attack', 'move', 'cast']):
+                    event_type = EventType.ACTION
+                elif any(word in line.lower() for word in ['roll', 'dice', 'd20']):
+                    event_type = EventType.ROLL
+                
+                current_event = Event(
+                    id=f"event_{event_counter}",
+                    timestamp=timestamp,
+                    character_name=character_name,
+                    content=line.strip(),
+                    event_type=event_type.value,
+                    location="Unknown Location"
+                )
+                
+                events.append(current_event)
+            
+            elif current_event and line.strip():
+                # Continue current event
+                current_event.content += f"\n{line.strip()}"
+        
+        return events
