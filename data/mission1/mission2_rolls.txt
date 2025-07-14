@@ -1,0 +1,1105 @@
+Avrae
+APP
+ — 7/10/2025 8:15 AM
+
+Galwen (Ari)
+Rogue: Blindsense
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+Class Feature | BR 96
+Avrae
+APP
+ — 7/10/2025 10:08 PM
+
+Gaermok Squareblock (Hunter)
+Who died?
+AR1: <Dead>
+AR2: <Dead>
+AR3: <Dead>
+Image
+Usage: !who died [remove]
+AR1 removed from combat.
+AR2 removed from combat.
+AR3 removed from combat.
+
+Gaermok Squareblock (Hunter)
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Avrae
+APP
+ — 7/11/2025 12:28 AM
+Initiative 25 (round 8): Flow (@Flow (Tjolanta))
+Flow <37/162 HP> (AC 23) 
+> Immunities: frightened
+# Location: G13 | Color: b (blue) | Height: 15ft
+* Freedom of Movement [8.0 hours]  
+ - The target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained
+ - Can spend 5 feet of movement to automatically escape from nonmagical restraints
+ - Being underwater imposes no penalties on the target's movement or attacks
+* Life Drained (Max HP Bonus: -14)
+* Life Drained x2 (Max HP Bonus: -13; Parent: Life Drained)
+* Hasted [6 rounds] (AC Bonus: 2; Save Advantage: Dexterity) 
+ - The target's speed is doubled
+ - They gain an additional action on each of its turns
+ - When the spell ends, the target can't move or take actions until after its next turn
+* Life Drained x3 (Max HP Bonus: -10; Parent: Life Drained)
+* Drained (Charisma)  
+ - Charisma score is reduced by 1
+* Life Drained x4 (Max HP Bonus: -14; Parent: Life Drained)
+* Flight (Potion of Flying) [59.9 minutes]
+Avrae
+APP
+ — 7/11/2025 9:54 AM
+
+Flow (Tjolanta)
+Moving Flow from G13 to L13 (~25 ft.).
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Iosefka
+To Hit: 1d20 (13) + 14 = 27
+Damage: 1d8 (8) + 8 [magical piercing] + 2d6 (4, 1) [magical radiant] + 5d6 (6, 1, 4, 6, 1) [magical piercing] = 39
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Sneak Attack
+Once per turn, you can deal an extra 5d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+Image
+Iosefka: <Injured> (-39)
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Iosefka
+To Hit: 1d20 (4) + 14 = 18
+Damage: 1d8 (6) + 8 [magical piercing] + 2d6 (3, 4) [magical radiant] = 21
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Image
+Iosefka: <Injured> (-21)
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Iosefka
+To Hit: 1d20 (12) + 14 = 26
+Damage: 1d8 (1) + 8 [magical piercing] + 2d6 (4, 6) [magical radiant] = 19
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Image
+Iosefka: <Injured> (-19)
+
+Flow (Tjolanta)
+Flow attempts to more effectively pierce their foe!
+Piercer
+Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+Reroll (1d8):
+1d8 (3) = 3
+Damage Difference:
+1->3=2
+Image
+Iosefka: <Bloodied> -(2)
+Flow uses Action Surge!
+Effect
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
+Action Surge
+〇 (-1)
+Image
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Iosefka
+To Hit: 1d20 (17) + 14 = 31
+Damage: 1d8 (2) + 8 [magical piercing] + 2d6 (2, 2) [magical radiant] = 14
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Image
+Iosefka: <Bloodied> (-14)
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Iosefka
+To Hit: 1d20 (3) + 14 = 17
+Damage: 1d8 (6) + 8 [magical piercing] + 2d6 (3, 5) [magical radiant] = 22
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Image
+Iosefka: <Bloodied> (-22)
+Avrae
+APP
+ — 7/11/2025 10:01 AM
+Flow attacks with an Offhand Saber of Unity!
+Iosefka
+To Hit: 1d20 (11) + 14 = 25
+Damage: 1d8 (1) + 8 [magical piercing] = 9
+Effect
+This sword as been imbues with the spirit of Gaspard's leadership, and grants whoever wields it a potion of his courage. You gain a +2 bonus to attack and damage rolls made by this magic sword. In addition, you and any allies within 10 feet of you are immune to being frightened while you wield it. Whenever you score a critical hit with this sword against a foe that is larger than you, you and all allies within 10 feet of you gain 2d10 temporary hit points.
+Image
+Iosefka: <Bloodied> (-9)
+Initiative 22 (round 8): Secrets (@Hari (Bobue))
+Iosefka <Bloodied> 
+# Location: L14 | Height: 10
+* Mage Armor [8.0 hours] (AC Bonus: 3) 
+ - The target's base AC becomes 13 + its Dexterity modifier
+ - The spell ends if the target dons armor or if you dismiss the spell as an action
+* Extra Turns (Time Stop) [until end of turn] (Resume Time) 
+ - No time passes for other creatures, while you take several turns in a row, during which you can use actions and move as normal
+ - This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you
+* Summon Wraith Used
+AS1 <Healthy>
+ 
+Avrae
+APP
+ — 7/11/2025 2:48 PM
+Current initiative: 22 (round 8)
+================================
+  60: Map <None> (map, Overlay1: ul100,35wa38s38 | Overlay3: uc20gi36 | Overlay2: ust25w013s15 | Overlay6: uc0gi36 | Overlay7: uc0gi36 | Overlay4: uc20gj43 | Overlay8: c0ga1 | Overlay10: ul100,10ra26s26)
+  25: Flow <37/162 HP> (AC 23, Freedom of Movement [8.0 hours], Life Drained, Life Drained x2, Hasted [6 rounds], Life Drained x3, Drained (Charisma), Life Drained x4, Flight (Potion of Flying) [59.9 minutes], Location: L13 | Color: b (blue) | Height: 15ft)
+# 22: Iosefka <Bloodied> (Mage Armor [8.0 hours], Lingering Acid [until end of turn], Location: L14 | Height: 10)
+  20: Gaermok Squareblock <11/184 HP> (AC 21, Fire Giant Strength [59.3 minutes], Hasted (Potion of Speed) [5 rounds], Blessed by a Potion of Heroism [59.7 minutes], Danger Sense, Enervated, Rage [10 rounds], Attacked Recklessly [until start of next turn], Location: I14 | Size: L (Large) | Color: b (blue) | Height: 10)
+  17: Galwen <99/130 HP> (AC 17, Fey Ancestry, Wings of Flying [59.3 minutes], Blessed by a Potion of Heroism [59.4 minutes], Insightful Fighting [10 rounds], Location: N16 | Height: 10 | Color: b (blue))
+   4: Orc Wizards
+     - Dan Simulacrus <32/64 HP, 6 temp> (AC 17, False Life [59.3 minutes], Sanctuary [5 rounds], Dodge [until start of next turn], Location: M24)
+     - Don Explodicus <67/129 HP, 6 temp> (AC 22, Location: P22 | Size: M (Medium) | Color: b (blue))
+AR1 was added to combat with initiative 11 as part of group Secrets.
+AR2 was added to combat with initiative 11 as part of group Secrets.
+AR3 was added to combat with initiative 11 as part of group Secrets.
+Secrets removed from combat.
+Avrae
+APP
+ — 7/11/2025 2:55 PM
+Iosefka casts Time Stop!
+Meta
+Time: 1d4 (2) + 1 = 3
+Iosefka
+Effect: Extra Turns (Time Stop) [until end of turn] (Resume Time)
+Effect
+You briefly stop the flow of time for everyone but yourself. No time passes for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal.
+
+This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
+Spell Slots
+Time Stop: 〇 (-1)
+
+Hari (Bobue)
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Iosefka uses Summon Wraith!
+Iosefka
+Effect: Summon Wraith Used
+Effect
+Sofina magically summons the spirit of a Thayan assassin, which appears as a wraith. The summoned wraith appears in an unoccupied space within 60 feet of Sofina, whom it obeys. The summoned wraith takes its turn immediately after Sofina. It lasts for 1 hour, until it or Sofina dies, or until Sofina dismisses it as a bonus action.
+Avrae
+APP
+ — 7/11/2025 3:03 PM
+Selection timed out or was cancelled.
+AS1 was added to combat with initiative 22 as part of group Secrets.
+Iosefka takes damage from the Vitriolic Sphere!
+Meta
+Removed Effect: Lingering Acid
+Iosefka
+Damage: 5d4 (4, 3, 1, 1, 2) [magical acid] = 11
+Iosefka: <Bloodied> (-11)
+
+Hari (Bobue)
+Moving AS1 to L24.
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Hari (Bobue) — 7/11/2025 3:05 PM
+1
+Avrae
+APP
+ — 7/11/2025 3:05 PM
+BsH1 was added to combat with initiative 22 as part of group Secrets.
+
+Hari (Bobue)
+Changing size of Bigby Hand to Large (L)
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Changing color of Bigby Hand to pink (pk)
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Moving Bigby Hand to M12.
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Hari (Bobue) — 7/11/2025 3:06 PM
+turn 2
+Avrae
+APP
+ — 7/11/2025 3:09 PM
+Selection timed out or was cancelled.
+Selection timed out or was cancelled.
+Iosefka casts Otiluke's Resilient Sphere!
+Meta
+DC: 18
+DEX Save
+Effect: Enclosed (Resilient Sphere)
+Effect
+A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.
+
+Nothing--not physical objects, energy, or other spell effects--can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
+
+The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
+
+A disintegrate spell targeting the globe destroys it without harming anything inside it.
+Spell Slots
+Otiluke's Resilient Sphere: ◉〇 (-1)
+
+Hari (Bobue)
+Circle Underlay
+Color: white
+Size: 5 ft. radius
+Centered: L15
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay
+Color: white
+Size: 5 ft. radius
+Centered: L14
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Underlay
+Color: white
+Size: 5 ft. radius
+Centered: L15
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay
+Color: white
+Size: 0 ft. radius
+Centered: L14
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Square Overlay
+Color: white
+Size: 5 ft. wide
+Top-left: L14
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Hari (Bobue) — 7/11/2025 3:14 PM
+turn 3
+Avrae
+APP
+ — 7/11/2025 3:14 PM
+Iosefka summons a Swarm of Meteors!
+Meta
+Damage: 10d6 (1, 2, 2, 1, 3, 2, 2, 1, 4, 1) [fire] + 10d6 (3, 4, 4, 2, 5, 1, 1, 3, 6, 4) [bludgeoning] = 52
+DC: 18
+DEX Save
+Iosefka
+Effect: Swarm of Meteors Used
+Effect
+Sofina magically calls down a meteor swarm that detonates in four 40-foot-radius spheres, each one centered on a point she can see within 1 mile of herself. These spheres can overlap. Each creature in one or more of these spheres must make a DC 18 Dexterity saving throw, taking 35 (10d6) fire damage and 35 (10d6) bludgeoning damage on a failed saving throw, or half as much damage on a successful one. A creature in multiple spheres takes this damage only once.
+Effect Swarm of Meteors Used removed from Iosefka.
+
+Hari (Bobue)
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay 1
+Color: red
+Size: 40 ft. radius
+Centered: Q20
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay 1
+Color: red
+Size: 40 ft. radius
+Centered: S20
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay 1
+Color: red
+Size: 40 ft. radius
+Centered: S19
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay 2
+Color: red
+Size: 40 ft. radius
+Centered: A10
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay 2
+Color: red
+Size: 40 ft. radius
+Centered: D11
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay 2
+Color: red
+Size: 40 ft. radius
+Centered: E11
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Bigby Hand is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Iosefka summons a Swarm of Meteors!
+Meta
+Damage: 10d6 (6, 1, 6, 3, 1, 5, 6, 4, 2, 2) [fire] + 10d6 (2, 3, 1, 5, 5, 4, 1, 5, 1, 1) [bludgeoning] = 64
+DC: 18
+Iosefka
+Effect: Swarm of Meteors Used
+Gaermok Squareblock
+DEX Save: 2d20kh1 (11, 12) + 4 + 1d4 (2) [Bless] = 18; Success!
+Damage: (36 [fire] + (28 [bludgeoning]) / 2) / 2 = 25
+Flow
+DEX Save: 2d20kh1 (5, 15) + 12 = 27; Success!
+Damage: (36 [fire] + 28 [bludgeoning]) / 2 = 32
+Galwen
+DEX Save: 1d20 (2) + 14 + 1d4 (4) [Bless] = 20; Success!
+Damage: (36 [fire] + 28 [bludgeoning]) / 2 = 32
+Dan Simulacrus
+DEX Save: 2d20kh1 (1, 1) + 2 = 3; Failure!
+Damage: 36 [fire] + 28 [bludgeoning] = 64
+Don Explodicus
+DEX Save: 1d20 (19) + 3 = 22; Success!
+Damage: (36 [fire] + 28 [bludgeoning]) / 2 = 32
+Effect
+Sofina magically calls down a meteor swarm that detonates in four 40-foot-radius spheres, each one centered on a point she can see within 1 mile of herself. These spheres can overlap. Each creature in one or more of these spheres must make a DC 18 Dexterity saving throw, taking 35 (10d6) fire damage and 35 (10d6) bludgeoning damage on a failed saving throw, or half as much damage on a successful one. A creature in multiple spheres takes this damage only once.
+Gaermok Squareblock: <0/184 HP> (-11 HP, 14 overflow)
+Flow: <5/162 HP> (-32 HP)
+Galwen: <67/130 HP> (-32 HP)
+Dan Simulacrus: <0/64 HP> (-6 temp, -32 HP, 26 overflow)
+Don Explodicus: <41/129 HP> (-6 temp, -26 HP)
+Attack not found.
+Attack not found.
+Attack not found.
+Current initiative: 22 (round 8)
+================================
+  60: Map <None> (map, Overlay1: ul100,35wa38s38 | Overlay3: uc20gi36 | Overlay2: ust25w013s15 | Overlay6: uc0gi36 | Overlay7: uc0gi36 | Overlay4: uc20gj43 | Overlay8: c0ga1 | Overlay10: ul100,10ra26s26)
+  25: Flow <5/162 HP> (AC 23, Freedom of Movement [8.0 hours], Life Drained, Life Drained x2, Hasted [6 rounds], Life Drained x3, Drained (Charisma), Life Drained x4, Flight (Potion of Flying) [59.9 minutes], Location: L13 | Color: b (blue) | Height: 15ft)
+# 22: Secrets
+     - Iosefka <Bloodied> (Mage Armor [8.0 hours], Extra Turns (Time Stop) [until end of turn], Summon Wraith Used, Otiluke's Resilient Sphere [10 rounds], Swarm of Meteors Used, Location: L14 | Height: 10 | Overlay: s5wl14 | Overlay1: c40rs19 | Overlay2: c40re11)
+     - AS1 <Healthy> (Location: L24)
+     - Bigby Hand <Healthy> (Size: L (Large) | Color: pk (pink) | Height: 10 | Location: M12)
+  20: Gaermok Squareblock <0/184 HP> (AC 21, Fire Giant Strength [59.3 minutes], Hasted (Potion of Speed) [5 rounds], Blessed by a Potion of Heroism [59.7 minutes], Danger Sense, Enervated, Rage [10 rounds], Attacked Recklessly [until start of next turn], Location: I14 | Size: L (Large) | Color: b (blue) | Height: 10)
+  17: Galwen <67/130 HP> (AC 17, Fey Ancestry, Wings of Flying [59.3 minutes], Blessed by a Potion of Heroism [59.4 minutes], Insightful Fighting [10 rounds], Location: N16 | Height: 10 | Color: b (blue))
+   4: Orc Wizards
+     - Dan Simulacrus <0/64 HP> (AC 17, False Life [59.3 minutes], Sanctuary [5 rounds], Dodge [until start of next turn], Location: M24)
+     - Don Explodicus <41/129 HP> (AC 22, Location: P22 | Size: M (Medium) | Color: b (blue))
+Iosefka casts Bigby's Hand!
+Iosefka
+Effect: Arcane Fist [10 rounds] (Attack: Clenched Fist; Attack: Forceful Hand; Attack: Grasping Hand; Attack: Interposing Hand; Parent: Bigby's Hand)
+Effect
+You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.
+
+The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space.
+
+When you cast the spell and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the effects with it.
+Spell Slots
+Bigby's Hand: ◉〇 (-1)
+Concentration
+Dropped Otiluke's Resilient Sphere due to concentration.
+Avrae
+APP
+ — 7/11/2025 3:21 PM
+Iosefka casts Resilient Sphere!
+Meta
+DC: 18
+DEX Save
+Effect: Enclosed (Resilient Sphere)
+Effect
+A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.
+
+Nothing--not physical objects, energy, or other spell effects--can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
+
+The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
+
+A disintegrate spell targeting the globe destroys it without harming anything inside it.
+Concentration
+Dropped Bigby's Hand due to concentration.
+Bigby Hand removed from combat.
+
+Galwen (Ari)
+Galwen is healed!
+Evasion
+Galwen
+Healing: -(32) = -32
+Galwen: <99/130 HP> (+32)
+!heal -t <target> -hp <heal> -f [reason] | Dr Turtle#1771
+
+Flow (Tjolanta)
+Flow is healed!
+Evasion
+Flow
+Healing: -(32) = -32
+Flow: <37/162 HP> (+32)
+!heal -t <target> -hp <heal> -f [reason] | Dr Turtle#1771
+AS1 attacks with a Shortsword!
+Meta
+DC: 15
+Dan Simulacrus
+Attack 1
+To Hit: 1d20 (8) + 6 = 14
+Miss!
+
+Attack 2
+To Hit: 1d20 (14) + 6 = 20
+Damage: 1d6 (3) + 3 [piercing] = 6
+CON Save: 1d20 (9) + 9 = 18; Success!
+Damage: 7d6 (3, 5, 2, 3, 2, 6, 6) / 2 [poison] = 13
+
+Total Damage: 19
+Effect
+Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+Dan Simulacrus: <0/64 HP> (6 overflow)
+Dan Simulacrus: <0/64 HP> (13 overflow)
+Hari (Bobue) — 7/11/2025 3:24 PM
+for don instead
+Avrae
+APP
+ — 7/11/2025 3:29 PM
+Initiative 20 (round 8): Gaermok Squareblock (@Gaermok Squareblock (Hunter))
+Gaermok Squareblock <0/184 HP> (AC 21) 
+> Resistances: piercing, slashing, bludgeoning
+> Immunities: poisoned, poison
+# Location: I14 | Size: L (Large) | Color: b (blue) | Height: 10
+* Fire Giant Strength [59.2 minutes] (Attack Bonus: 0[Strength Increase]; Damage Bonus: 0)
+* Hasted (Potion of Speed) [4 rounds] (AC Bonus: 2)
+* Blessed by a Potion of Heroism [59.6 minutes] (Attack Bonus: 1d4[Bless]; Save Bonus: 1d4[Bless])
+* Danger Sense (Save Advantage: Dexterity)
+* Enervated (Max HP Bonus: -25)
+* Rage [9 rounds] (Resistance: piercing, slashing, bludgeoning; Check Advantage: Strength; Save Advantage: Strength; End Rage) 
+ - Cannot cast/concentrate on spells
+ - Ends if knocked unconscious
+Avrae
+APP
+ — 7/11/2025 3:52 PM
+Don Explodicus casts Counterspell!
+Description
+You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
+Spell Slots
+3 ◉〇〇 (-1)
+​
+countering the Time Stop ⁠occult-dice⁠
+Image
+No spell automation found.
+Don Explodicus makes an Intelligence check!
+DC 19
+1d20 (19) + 6 = 25
+Image
+Success!
+Gaermok Squareblock
+Relentless Endurance
+〇 (-1)
+Description
+When you are reduced to 0 HP but not killed, you can drop to 1 HP instead once per long rest.
+Image
+
+Gaermok Squareblock (Hunter)
+Gaermok Squareblock is healed!
+No reason provided.
+Gaermok Squareblock
+Healing: -(1) = -1
+Gaermok Squareblock: <1/184 HP> (+1)
+!heal -t <target> -hp <heal> -f [reason] | Dr Turtle#1771
+Avrae
+APP
+ — 7/11/2025 4:02 PM
+Iosefka casts Counterspell!
+Description
+You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
+No spell automation found.
+Avrae
+APP
+ — 7/11/2025 4:20 PM
+
+Gaermok Squareblock (Hunter)
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Avrae
+APP
+ — 7/11/2025 5:47 PM
+
+Gaermok Squareblock (Hunter)
+Moving Gaermok Squareblock from I14 to K21 (~35 ft.).
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Gaermok Squareblock recklessly attacks with a Gaermok's Greataxe of Greatness!
+AS1
+To Hit: 2d20kh1 (18, 14) + 14 + 0 [Strength Increase] + 1d4 (4) [Bless] = 36
+Damage: 1d12 (10) + 8 + 2d12 (9, 4) + 2 + 0 [magical slashing] = 33
+Effect
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. It is sized for a frost giant, weighs 325 pounds, and deals 3d12 slashing damage on a hit, plus an extra 2d12 slashing damage if the target is human.
+
+
+The axe sheds light as a torch when the temperature around it drops below 0 degrees Fahrenheit. The light can’t be shut off in these conditions.
+
+
+As an action, you can cast a version of the heat metal spell (save DC 13) that deals cold damage instead of fire damage. Once this power is used, it can’t be used again until the next dawn.
+
+
+Proficiency with a Greataxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Reckless Attack
+Melee attacks this turn have advantage. All attacks made against you until the start of your next turn have advantage.
+AS1: <Injured> (-33)
+
+Gaermok Squareblock (Hunter)
+Reloaded backup from last time this user ran a map command. The state this erased has now been set as their new backup.
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Initiative 17 (round 8): Galwen (@Galwen (Ari))
+Galwen <99/130 HP> (AC 17) 
+> Immunities: critical hits, sleep
+# Location: N16 | Height: 10 | Color: b (blue)
+* Fey Ancestry  
+ - You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+* Wings of Flying [59.2 minutes]  
+ - While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.
+* Blessed by a Potion of Heroism [59.3 minutes] (Attack Bonus: 1d4[Bless]; Save Bonus: 1d4[Bless])
+* Insightful Fighting [9 rounds]  
+ - Can use Sneak Attack against AR3
+Avrae
+APP
+ — 7/11/2025 5:54 PM
+Galwen uses Insightful Fighting!
+Iosefka
+Insight Contest (Galwen): 2d20kh1mi10 (19, 9) + 20 = 39; Win!
+Deception Check (Iosefka): 1d20 (3) - 1 = 2; Lose!
+Galwen
+Effect: Insightful Fighting [10 rounds]
+Iosefka
+Effect: Deciphered [10 rounds] (Parent: Insightful Fighting)
+Effect
+You gain the ability to decipher an opponent’s tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn’t incapacitated, contested by the target’s Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don’t have advantage on the attack roll, but not if you have disadvantage on it.
+
+This benefit lasts for 1 minute or until you successfully use this feature against a different target.
+Incisive Sense
+You have advantage on Intelligence (Investigation) and Wisdom (Insight) checks.
+Image
+Galwen attacks with a Longbow +2!
+AS1
+To Hit: 1d20 (11) + 17 + -5 + 1d4 (2) [Bless] = 25
+Damage: 1d8 (2) + 8 + 10 [magical piercing] = 20
+Effect
+Martial Ranged Weapon Attack.
+Ammunition (150/600), Heavy, Two-Handed
+Fighting Style: Archery
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+Image
+AS1: <Bloodied> (-20)
+Initiative 4 (round 8): Orc Wizards (@Don Explodicus (sfollac))
+Dan Simulacrus <0/64 HP> (AC 17) 
+# Location: M24
+* False Life [59.2 minutes]  
+ - Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration
+* Sanctuary [4 rounds] (Attack: Sanctuary) 
+ - Any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw
+ - On a failed save, they must choose a new target or lose the attack or spell
+ - This spell doesn't protect from area effects, such as the explosion of a fireball
+ - If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends
+Don Explodicus <41/129 HP> (AC 22) 
+# Location: P22 | Size: M (Medium) | Color: b (blue)
+Avrae
+APP
+ — 7/11/2025 6:19 PM
+Don Explodicus casts Dispel Magic!
+Description
+Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.
+At Higher Levels
+When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
+Spell Slots
+5 〇〇〇 (-1)
+Image
+No spell automation found.
+Avrae
+APP
+ — 7/12/2025 10:39 AM
+
+Hari (Bobue)
+Square Overlay
+Color: white
+Size: 0 ft. wide
+Top-left: A1
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay 1
+Color: red
+Size: 0 ft. radius
+Centered: A1
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+
+Hari (Bobue)
+Circle Overlay 2
+Color: red
+Size: 0 ft. radius
+Centered: A1
+Attached: Iosefka
+Flow is currently 15ft ft. above the ground.
+Iosefka is currently 10 ft. above the ground.
+Gaermok Squareblock is currently 10 ft. above the ground.
+Galwen is currently 10 ft. above the ground.
+​
+Map
+Image
+!map ? | Map settings attached to Map | v3.5
+Avrae
+APP
+ — 7/12/2025 10:51 AM
+Don Explodicus casts Healing Word!
+Flow
+Healing: -(1d4 (4) + 2) [magical heal] = -6
+Effect
+A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Spell Slots
+1 ◉〇〇〇 (-1)
+Image
+Flow: <43/162 HP> (+6 HP)
+
+Don Explodicus (sfollac)
+Flow, Don Explodicus has an Order for you!!
+Don Explodicus uses the Voice of Authority Order Domain feature on Flow. Flow can now use a Reaction to make a weapon attack on Iosefka that Don Explodicus can see
+​
+Usage: !voa -t ally -e target
+Image
+Avrae
+APP
+ — 7/12/2025 11:11 AM
+Flow attacks with a Wakened Crystal Dragon’s Wrath Rapier!
+Iosefka
+To Hit: 1d20 (10) + 14 = 24
+Damage: 1d8 (1) + 8 [magical piercing] + 2d6 (6, 5) [magical radiant] + 5d6 (3, 3, 3, 6, 6) [magical piercing] = 41
+Concentration: DC 20
+Effect
+This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon’s hoard, it absorbs the energy of the dragon’s breath weapon and deals damage of that type with its special properties.
+
+
+Slumbering (Uncommon). Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon’s breath weapon.
+
+
+Stirring (Rare). The Stirring weapon has the Slumbering property. In addition, you gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra 1d6 damage of the type dealt by the dragon’s breath weapon.
+
+
+Wakened (Very Rare). The Wakened weapon has the Slumbering property, and it improves on the Stirring property. The bonus to attack and damage rolls increases to +2, and the extra damage dealt by the weapon increases to 2d6.
+
+
+As an action, you can unleash a 30-foot cone of destructive energy from the weapon. Ea...
+Sneak Attack
+Once per turn, you can deal an extra 5d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+Image
+Iosefka: <Dead> (-41)
+
+Flow (Tjolanta)
+Flow attempts to more effectively pierce their foe!
+Piercer
+Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+Reroll (1d8):
+1d8 (1) = 1
+Damage Difference:
+1->1=0
+Image
+Iosefka: <Dead> -(0)
+Initiative 60 (round 9): Map (@Hari (Bobue))
+Map <None> 
+# Overlay1: ul100,35wa38s38 | Overlay3: uc20gi36 | Overlay2: ust25w013s15 | Overlay6: uc0gi36 | Overlay7: uc0gi36 | Overlay4: uc20gj43 | Overlay8: c0ga1 | Overlay10: ul100,10ra26s26
+* map (Attack: map)
+Avrae
+APP
+ — Yesterday at 4:34 AM
+Initiative 25 (round 9): Flow (@Flow (Tjolanta))
+Flow <43/162 HP> (AC 23) 
+> Immunities: frightened
+# Location: L13 | Color: b (blue) | Height: 15ft
+* Freedom of Movement [8.0 hours]  
+ - The target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained
+ - Can spend 5 feet of movement to automatically escape from nonmagical restraints
+ - Being underwater imposes no penalties on the target's movement or attacks
+* Life Drained (Max HP Bonus: -14)
+* Life Drained x2 (Max HP Bonus: -13; Parent: Life Drained)
+* Hasted [5 rounds] (AC Bonus: 2; Save Advantage: Dexterity) 
+ - The target's speed is doubled
+ - They gain an additional action on each of its turns
+ - When the spell ends, the target can't move or take actions until after its next turn
+* Life Drained x3 (Max HP Bonus: -10; Parent: Life Drained)
+* Drained (Charisma)  
+ - Charisma score is reduced by 1
+* Life Drained x4 (Max HP Bonus: -14; Parent: Life Drained)
+* Flight (Potion of Flying) [59.8 minutes]
+Avrae
+APP
+ — Yesterday at 8:15 AM
+Combat ended. 
+
+Don Explodicus (sfollac)
+Don Explodicus gains 14,500 Experience.
+Log Entry Added
+July 13, 2025: 14500
+Current Experience
+295,101
+Next Level: 19
+305,000 (9,899 remaining)
+Image
+!xp | !xp # | !xp -# | !xp set # | !xp chart | !xp log | !xp help | !xp options
+Don Explodicus's Coinpurse
+:DDBPlatinum: 0 pp
+:DDBGold: 19,008 gp (+3,625)
+:DDBElectrum: 1 ep
+:DDBSilver: 4 sp
+:DDBCopper: 0 cp
+Total Value
+:DDBGold: 19,008.90 gp (+3,625.00)
+Image
+
+Don Explodicus (sfollac)
+Don Explodicus takes a Long Rest!
+Reset Death Saves
+Hit Points
+129/129 (+88)
+Hit Dice
+d8: 1/1
+d6: 17/17
+Spell Slots
+1 ◉◉◉◉ (+3)
+2 ◉◉◉ (+2)
+3 ◉◉◉ (+2)
+4 ◉◉◉ (+1)
+5 ◉◉◉ (+3)
+6 ◉
+7 ◉
+8 ◉ (+1)
+9 ◉ (+1)
+Reset Counters
+Adrenaline Rush: ◉◉◉◉◉◉ (+1)
+Arcane Recovery: ◉
+Relentless Endurance: ◉
+Spire of Conflux: ◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉◉ (+8)
+Image
+Don Explodicus: <129/129>
+Avrae
+APP
+ — Yesterday at 1:30 PM
+Flow's Coinpurse
+:DDBPlatinum: 0 pp
+:DDBGold: 16,892 gp (+3,625)
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+Total Value
+:DDBGold: 16,892.00 gp (+3,625.00)
+Image
+
+Flow (Tjolanta)
+Flow gains 14,500 Experience.
+Log Entry Added
+July 13, 2025: +14500
+Current Experience
+374,453
+Image
+!xp | !xp # | !xp -# | !xp set # | !xp chart | !xp log | !xp help | !xp options
+
+Flow (Tjolanta)
+Flow takes a Long Rest!
+Reset Death Saves
+Hit Points
+213/213 (+170)
+Hit Dice
+d10: 10/10
+d8: 10/10
+Reset Counters
+Action Surge: ◉ (+1)
+Boots of Haste: ◉ (+1)
+Gauntlets of Flaming Fury: ◉
+Indomitable: ◉
+Second Wind: ◉ (+1)
+Superiority Dice: ◉◉◉◉◉ (+3)
+Image
+Flow: <213/213>
+Avrae
+APP
+ — Yesterday at 2:10 PM
+
+Gaermok Squareblock (Hunter)
+Hyacinth gains 14,500 Experience.
+Your Experience total needs to be at least 165,000 to match your current level!
+Log Entry Added
+July 13, 2025: +14500 "Occult Gate"
+Current Experience
+14,500
+Next Level: 16
+195,000 (180,500 remaining)
+!xp | !xp # | !xp -# | !xp set # | !xp chart | !xp log | !xp help | !xp options
+
+Gaermok Squareblock (Hunter)
+Gaermok Squareblock gains 14,500 Experience and levels up to 18th level!
+Don't forget to update your sheet with your proper level and run !update
+Log Entry Added
+July 13, 2025: +14500 "Occult Gate"
+Current Experience
+267,050
+Next Level: 19
+265,000 (-2,050 remaining)
+Image
+!xp | !xp # | !xp -# | !xp set # | !xp chart | !xp log | !xp help | !xp options
+Gaermok Squareblock's Coinpurse
+:DDBPlatinum: 0 pp
+:DDBGold: 14,331 gp (+3,625)
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+Total Value
+:DDBGold: 14,331.00 gp (+3,625.00)
+Image
+Gaermok Squareblock (Hunter) — Yesterday at 2:15 PM
+!update
+Avrae
+APP
+ — Yesterday at 2:15 PM
+Updated and saved data for Gaermok Squareblock! 
+
+Gaermok Squareblock (Hunter)
+Gaermok Squareblock takes a Long Rest!
+Reset Death Saves
+Hit Points
+220/220 (+219)
+Hit Dice
+d12: 17/17
+d10: 1/1
+Reset Counters
+Orcish Fury - Extra Damage: ◉
+Rage: ◉◉◉◉◉◉ (+2)
+Relentless Endurance: ◉ (+1)
+Second Wind: ◉
+Image
+Gaermok Squareblock: <220/220>

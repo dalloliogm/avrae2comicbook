@@ -1,0 +1,1024 @@
+If it's a 5e monster: !init madd <monster name>
+Otherwise: !init add <modifier> <name>
+DM was added to combat with initiative 50.
+Arena Crowd was added to combat with initiative 49.
+
+Kayliana (Ryan)
+Arena Crowd
+Added effect Crowd Mood: 0 (neutral) to Arena Crowd.
+Avrae
+APP
+ — 5/13/2025 9:17 PM
+
+Kayliana (Ryan)
+Map size changed to 60x39
+Map settings attached to DM
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Kayliana (Ryan)
+Circle Underlay
+Color: white
+Size: 15 ft. radius
+Centered: AE20
+Attached: DM
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/14/2025 6:18 AM
+
+Kayliana (Ryan)
+Arena Crowd
+Added effect Current Flair DC 15 to Arena Crowd.
+Avrae
+APP
+ — 5/14/2025 2:32 PM
+Rhys makes an Initiative check!
+1d20 (4) + 4 = 8
+Image
+Added to combat!
+Gaermok Squareblock makes an Initiative check!
+2d20kh1 (18, 17) + 4 = 22
+Image
+Added to combat!
+
+Rhys (Ban)
+Moving Rhys to AD19.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Gaermok Squareblock (Hunter)
+Moving Gaermok Squareblock to AE22.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/14/2025 2:43 PM
+Don Explodicus makes an Initiative check!
+1d20 (18) + 2 = 20
+Image
+Added to combat!
+Flow makes an Initiative check!
+1d20 (9) + 6 = 15
+Image
+Added to combat!
+Don Simulacrus already rolled initiative!
+Placed at initiative 20.
+Image
+Joined group Orc Wizard and his copy!
+Don Explodicus (sfollac) — 5/14/2025 2:44 PM
+!opt explo -group "Orc Wizard and his copy"
+Avrae
+APP
+ — 5/14/2025 2:45 PM
+✅ Don Explodicus added to group Orc Wizard and his copy.
+Avrae
+APP
+ — 5/14/2025 3:26 PM
+
+Don Explodicus (sfollac)
+Moving Don Simulacrus to AG19.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Don Explodicus (sfollac)
+Moving Don Explodicus to AH20.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+✅ Don Simulacrus's name set to Simulacrus.
+
+Don Explodicus (sfollac)
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/14/2025 5:10 PM
+Grimald makes an Initiative check!
+1d20 (18) + 7 = 25
+Image
+Added to combat!
+
+Grimald (gophren)
+Moving Grimald to AD22.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/14/2025 9:43 PM
+Galwen makes an Initiative check!
+1d20 (5) + 7 = 12
+Image
+Added to combat!
+
+Galwen (Ari)
+Galwen
+Added effect Fey Ancestry to Galwen.
+
+Galwen (Ari)
+Moving Galwen to AE20.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Galwen (Ari)
+Wings of Flying
+Galwen
+Wings of Flying [60.0 minutes]
+Wings of Flying (-1)
+〇
+​
+While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.
+Image
+Grimald uses Star Flight!
+Grimald
+Effect on Grimald: Star Flight [10.0 minutes]
+Star Flight
+As a bonus action, you can spend 1 charge to gain the power of flight for 10 minutes. For the duration, you gain a flying speed equal to your walking speed, and you can hover. While flying, you glow faintly with starlight.
+Crown of Whirling Comets
+◉◉◉◉◉〇 (-1)
+Image
+Avrae
+APP
+ — 5/14/2025 10:26 PM
+Don Explodicus casts Crown of Stars!
+Don Explodicus
+Effect: Crown of Stars [60.0 minutes] (Attack: Crown of Stars)
+Effect
+Seven star-like motes of light appear and orbit your head until the spell ends. You can use a bonus action to send one of the motes streaking toward one creature or object within 120 feet of you. When you do so, make a ranged spell attack. On a hit, the target takes 4d12 radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.
+
+If you have four or more motes remaining, they shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you have one to three motes remaining, they shed dim light in a 30-foot radius.
+Spell Slots
+7 〇 (-1)
+Image
+Simulacrus casts False Life!
+Meta
+Temp: 1d4 (3) + 4 + 20 = 27
+Simulacrus
+THP: 27 = 27
+Effect: False Life [60.0 minutes]
+Effect
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+At Higher Levels
+When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
+Spell Slots
+5 ◉◉〇 (-1)
+Image
+Simulacrus: <64/64 HP, 27 temp>
+Avrae
+APP
+ — 5/14/2025 11:23 PM
+Rhys casts Tenser's Transformation!
+Rhys
+Effect: Transformed [10.0 minutes] (Attack: Tenser's Transformation; Parent: Tenser's Transformation)
+THP: 50 = 50
+Effect
+You endow yourself with endurance and martial prowess fueled by magic. Until the spell ends, you can't cast spells, and you gain the following benefits:
+
+You gain 50 temporary hit points. If any of these remain when the spell ends, they are lost.
+You have advantage on attack rolls that you make with simple and martial weapons.
+When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.
+You have proficiency with all armor, shields, simple weapons, and martial weapons.
+You have proficiency in Strength and Constitution saving throws.
+You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
+
+Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
+Spell Slots
+6 〇 (-1)
+Rhys: <110/110 HP, 50 temp>
+Rhys uses Durable Magic!
+Rhys
+Effect: Durable Magic (Save Bonus: 2; AC Bonus: 2)
+Effect
+The magic you channel helps ward off harm. While you maintain concentration on a spell, you have a +2 bonus to AC and all saving throws.
+Avrae
+APP
+ — 5/15/2025 12:23 AM
+Selection timed out or was cancelled.
+Avrae
+APP
+ — 5/15/2025 1:19 AM
+
+Gaermok Squareblock (Hunter)
+Gaermok Squareblock drinks a potion of Fire Giant Strength!
+When you drink this potion, your Strength score becomes 25 for 1 hour. The potion has no effect on you if your Strength is already 25 or higher.
+Duration
+1 hour
+No Change
+Your normal Strength score is 25. This potion has no effect on you.
+Effect
+Fire Giant Strength [60.0 minutes] (Damage Bonus: 0; Attack Bonus: 0[Strength Increase])
+Image
+Gaermok Squareblock: <209/209>
+Gaermok Squareblock <209/209 HP> (AC 19) 
+> Immunities: poison, poisoned
+# Location: AE22
+* Fire Giant Strength [60.0 minutes] (Damage Bonus: 0; Attack Bonus: 0[Strength Increase])
+Gaermok Squareblock (Hunter) — 5/15/2025 1:20 AM
+Potion doesn't incorporate every STR stat properly, so I just set STR to 25 and drink it because it tastes like a banana milkshake 
+Avrae
+APP
+ — 5/15/2025 1:47 AM
+Gaermok Squareblock
+Fire Giant Strength
+▢ (-1)
+Image
+Avrae
+APP
+ — 5/15/2025 5:44 AM
+Don Simulacrus
+Remaining Level 9 Spell Slots
+9 〇 (-1)
+Image
+◉ = Available / 〇 = Used
+Don Explodicus (sfollac) — 5/15/2025 6:11 AM
+(simulacrum does not have a lv9 slot)
+Avrae
+APP
+ — 5/15/2025 6:51 AM
+
+Flow (Tjolanta)
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Flow (Tjolanta)
+Moving Flow to AE18.
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/15/2025 7:01 AM
+Flow activates their Boots of Haste!
+While you wear these boots, you can click your heels together to cast the haste spell on yourself as a bonus action. You don’t suffer from lethargy when the spell ends when cast using these boots. Once this property is used, it can’t be used again until next dawn.
+Flow
+Effect: Hasted [1.1 minutes] (AC Bonus: 2; Save Advantage: Dexterity)
+Effect
+Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+
+When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
+Boots of Haste
+〇 (-1)
+Image
+Avrae
+APP
+ — 5/15/2025 8:20 AM
+Current initiative: 0 (round 0)
+===============================
+  50: DM <None> (map, Overlay: uc15wae20)
+  49: Arena Crowd <None> (Crowd Mood: 0 (neutral), Current Flair DC 15)
+  25: Grimald <153/153 HP> (AC 22, Star Flight [10.0 minutes], Location: AD22)
+  22: Gaermok Squareblock <209/209 HP> (AC 19, Fire Giant Strength [60.0 minutes], Location: AE22)
+  20: Orc Wizard and his copy
+     - Simulacrus <64/64 HP, 27 temp> (AC 17, False Life [60.0 minutes], Location: AG19)
+     - Don Explodicus <129/129 HP> (AC 22, Crown of Stars [60.0 minutes], Location: AH20)
+  15: Flow <203/203 HP> (AC 23, Hasted [1.1 minutes], Location: AE18)
+  12: Galwen <123/123 HP> (AC 17, Fey Ancestry, Wings of Flying [60.0 minutes], Location: AE20)
+   8: Rhys <110/110 HP, 50 temp> (AC 22, Tenser's Transformation [10.0 minutes], Transformed [10.0 minutes], Durable Magic, Location: AD19)
+Avrae
+APP
+ — 5/15/2025 11:49 AM
+Effect Hasted removed from Flow.
+Flow (Tjolanta) — 5/15/2025 11:50 AM
+!a list
+Avrae
+APP
+ — 5/15/2025 11:50 AM
+Flow's Actions
+Attacks
+Cat’s Claws: Attack: +8 to hit. Hit: 1d6+2 [slashing] damage.
+Dagger: Attack: +12 to hit. Hit: 1d4+6 [piercing] damage.
+Dagger 2: Attack: +12 to hit. Hit: 1d4+6 [piercing] damage.
+Offhand Rapier, +2: Attack: +14 to hit. Hit: 1d8+8 [magical piercing] damage.
+Shortbow: Attack: +12 to hit. Hit: 1d6+6 [piercing] damage.
+Shortbow, +2: Attack: +14 to hit. Hit: 1d6+8 [magical piercing] damage.
+Unarmed Strike: Attack: +8 to hit. Hit: 3 [bludgeoning] damage.
+Wakened Crystal Dragon’s Wrath Rapier: Attack: +14 to hit. Hit: 1d8+8 [magical piercing] + 2d6 [magical radiant] damage.
+Actions
+Panache (Hostile): Insight Check vs. caster's Persuasion Check. Fail: Effect: Panache.
+Panache (Not Hostile): Insight Check vs. caster's Persuasion Check. Fail: Effect: Charmed (Panache).
+Bonus Actions
+Boots of Haste: Casts Haste, uses 1 charge of Boots of Haste.
+Maneuvers: Feinting Attack: Spends 1 Superiority Die to feint against the target, giving advantage on the attack roll and adding the Superiority Die to that attacks damage roll.
+Second Wind: Uses 1 charge of Second Wind, (1d10 + 10) [heal] healing.
+Reactions
+Maneuvers: Brace: Spends 1 Superiority Die to attempt to brace yourself against a target, adding the Superiority Die to that attacks damage roll.
+Maneuvers: Riposte: Spends 1 Superiority Die to attempt to riposte against the target, adding the Superiority Die to that attacks damage roll.
+Uncanny Dodge: Heals the user for half the damage dealt to cover the reduction. Use -amt # to set the total damage
+Other
+Action Surge: Uses 1 charge of Action Surge.
+Feline Agility: Effect: Used Feline Agility.
+Indomitable: Uses 1 charge of Indomitable.
+Maneuvers: Distracting Strike: Spends 1 Superiority Die to attempt to distract the target, adding the Superiority Die to that attacks damage roll.
+Maneuvers: Goading Attack: Spends 1 Superiority Die to goad the target, adding the Superiority Die to that attacks damage roll.
+Maneuvers: Lunging Attack: Spends 1 Superiority Die to lunge with your attack, adding the Superiority Die to that attacks damage roll.
+Maneuvers: Trip Attack: Spends 1 Superiority Die to attempt to trip the target, adding the Superiority Die to that attacks damage roll.
+Sneak Attack: 5d6 [weapon] damage.
+Image
+Use the -v argument to view each action's full description and 9 display-only actions.
+Flow (Tjolanta) — 5/15/2025 11:50 AM
+!cc
+Avrae
+APP
+ — 5/15/2025 11:50 AM
+Flow
+Custom Counters
+Feline Agility
+◉
+Superiority Dice
+◉◉◉◉◉
+Resets On: Short Rest
+Second Wind
+◉
+Resets On: Short Rest
+Action Surge
+◉
+Resets On: Short Rest
+Indomitable
+◉
+Resets On: Long Rest
+Boots of Haste
+〇
+Resets On: Long Rest
+Gauntlets of Flaming Fury
+◉
+Resets On: Long Rest
+Hit Dice (d8)
+Current Value: 9
+Range: 0 - 9
+Hit Dice (d10)
+Current Value: 10
+Range: 0 - 10
+Image
+Flow
+Boots of Haste
+◉ (+1)
+Image
+Avrae
+APP
+ — 5/15/2025 12:00 PM
+
+Flow (Tjolanta)
+Flow needs a drink!
+One for you, two for me. Drink a potion!
+Valid Arguments
+-t [target] - !potion now supports administering a potion or oil to a combatant during !init combat.
+
+adv/dis - For potions that have saving throws, if needed.
+
+-b [#] - For if you have a bonus to healing for some reason that would apply to a potion.
+
+max - For if you would heal the maximum amount from a potion.
+
+explode - For if you want your healing dice to explode for some reason.
+Supported Potions:
+Animal Friendship, Clairvoyance, Climbing, Diminution, Fire Breath, Flying, Gaseous Form, Hill Giant Strength, Frost Giant Strength, Stone Giant Strength, Fire Giant Strength, Cloud Giant Strength, Storm Giant Strength, Growth, Healing, Greater Healing, Superior Healing, Supreme Healing, Heroism, Invisibility, Invulnerability, Longevity, Mind Reading, Poison, Acid Resistance, Cold Resistance, Fire Resistance, Force Resistance, Lightning Resistance, Necrotic Resistance, Poison Resistance, Psychic Resistance, Radiant Resistance, Thunder Resistance, Speed, Vitality, Water Breathing, Etherealness, Sharpness, Slipperiness, Keoghtom's Ointment
+Brew Your Own!
+See !potion homebrew for instructions on including your own potions.
+Known Issues:
+• The way that the Giant Strength potions work is jank. They will sort of work by determining the difference between your strength score and the score granted by the potion and then giving you a -b and -d effect. And there is currently no way to grab a combatant's strength score, so these potions will have no effect beyond adding a reminded effect to anyone you administer the potion to.
+• !potion has no integration with !bag. I might add this at a later date, but the full rewrite into drac2 was enough for now.
+Image
+@Derixyleth#0636
+
+Flow (Tjolanta)
+Flow drinks a potion of Flying!
+When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.
+Duration
+1 hour
+Effect
+Flight (Potion of Flying) [60.0 minutes]
+Image
+Flow: <203/203>
+
+Flow (Tjolanta)
+Flow removes 1 Potion of Flying from their Potions
+Equipped
+1x Studded Leather, +2
+1x Gauntlets of Flaming Fury
+1x Rapier, +2
+1x Shortbow, +2
+1x Ring of Swimming
+2x Dagger
+1x Wakened Crystal Dragon’s Wrath Rapier
+1x Manual of Quickness of Action
+1x Boots of Haste
+Potions
+3x Potion of Healing
+1x Potion of Greater Healing
+1x Potion of Heroism
+1x Potion of Speed
+1x Potion of Superior Healing
+0x Potion of Flying (-1)
+Tattoos
+1x Right Hand: Silvery Barbs
+1x Left Foot: Zephyr Strike
+1x Right forearm: Feather fall
+1x Left Hand: Silvery Barbs
+1x Left forearm: Heroism
+Carried
+1x Healer's Kit (10uses)
+1x Flute
+1x Thieves' Tools
+1x Tinderbox
+1x Waterskin
+1x Small knife
+1x Diamond (300gp)
+Stored
+1x Bedroll
+1x Leatherworker's Tools
+1x Mess kit
+1x Clothes, Common
+1x Rope, Hempen (50 feet)
+10x Torch
+1x Case with map
+1x Backpack
+Coin Purse
+:DDBPlatinum: 0 pp
+:DDBGold: 22,735 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+If your bags got deleted, check !help text2bag. For help with your bags, see !help bag.
+Avrae
+APP
+ — 5/15/2025 4:45 PM
+
+Kayliana (Ryan)
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/15/2025 6:03 PM
+
+Kayliana (Ryan)
+Object added Person:ad6$pe
+Map settings attached to DM
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+
+Kayliana (Ryan)
+Object added Person:ad6r$pe
+Map settings attached to DM
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/16/2025 1:01 AM
+1Shepherd was added to combat with initiative 1d20 (11) + 2 = 13.
+2Shepherd was added to combat with initiative 1d20 (5) + 2 = 7.
+3Shepherd was added to combat with initiative 1d20 (14) + 2 = 16.
+4Shepherd was added to combat with initiative 1d20 (19) + 2 = 21.
+1skull was added to combat with initiative 16 as part of group West Gate.
+2skull was added to combat with initiative 16 as part of group West Gate.
+3skull was added to combat with initiative 21 as part of group North Gate.
+4skull was added to combat with initiative 21 as part of group North Gate.
+5skull was added to combat with initiative 13 as part of group East Gate.
+6skull was added to combat with initiative 13 as part of group East Gate.
+7skull was added to combat with initiative 7 as part of group South Gate.
+8skull was added to combat with initiative 7 as part of group South Gate.
+Avrae
+APP
+ — 5/16/2025 1:35 AM
+Initiative 50 (round 1): DM (@Kayliana (Ryan))
+DM <None> 
+# Overlay: uc15wae20
+* map (Attack: map)
+Avrae
+APP
+ — 5/16/2025 1:45 AM
+Initiative 49 (round 1): Arena Crowd (@Kayliana (Ryan))
+Arena Crowd <None> 
+* Crowd Mood: 0 (neutral)
+* Current Flair DC 15
+Initiative 25 (round 1): Grimald (@Grimald (gophren))
+Grimald <153/153 HP> (AC 22) 
+> Resistances: necrotic
+# Location: AD22
+* Star Flight [9.9 minutes]  
+ - For the duration, you gain a flying speed equal to your walking speed, and you can hover. While flying, you glow faintly with starlight.
+Avrae
+APP
+ — 5/16/2025 2:23 AM
+
+Kayliana (Ryan)
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/16/2025 4:14 AM
+
+Grimald (gophren)
+Grimald drinks a potion of Speed!
+When you drink this potion, you gain the effect of the haste spell for 1 minute (no concentration required).
+Haste
+3rd level transmutation.
+Description
+Until the spell ends, your speed is doubled, you gain a +2 bonus to AC, you have advantage on Dexterity saving throws, and you gain an additional action on each of your turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+When the spell ends, you can't move or take actions until after your next turn, as a wave of lethargy sweeps over you.
+Duration
+1 minute
+Effect
+Hasted (Potion of Speed) [10 rounds] (AC Bonus: 2)
+Image
+Grimald: <153/153>
+
+Grimald (gophren)
+Moving Grimald from AD22 to R22 (~60 ft.)
+​
+Map
+Image
+!go ? | v1.4
+Grimald attacks with a Crystal Double-Bladed Scimitar!
+28rancid
+To Hit: 1d20 (15) + 11 = 26
+Damage: 2d4ro<3 (1, 2, 2, 4) + 5 [magical slashing] + 1d8ro<3 (3) [radiant] = 14
+Effect
+Martial Melee Weapon Attack.
+Finesse
+This magic sword's blade is fashioned from a horn or spine from a crystal dragon. When you hit with an attack roll using this sword, the target takes an extra 1d8 radiant damage.
+28rancid: <Injured> (-14)
+Grimald attacks with a Crystal Double-Bladed Scimitar!
+28rancid
+To Hit: 1d20 (14) + 11 = 25
+Damage: 2d4ro<3 (4, 4) + 5 [magical slashing] + 1d8ro<3 (8) [radiant] + 2d6 (5, 4) [magical slashing] = 30
+Effect
+Martial Melee Weapon Attack.
+Finesse
+This magic sword's blade is fashioned from a horn or spine from a crystal dragon. When you hit with an attack roll using this sword, the target takes an extra 1d8 radiant damage.
+Sneak Attack
+Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+28rancid: <Injured> (-30)
+Grimald attacks with a Crystal Double-Bladed Scimitar!
+28rancid
+To Hit: 1d20 (1) + 11 = 12
+Miss!
+Effect
+Martial Melee Weapon Attack.
+Finesse
+This magic sword's blade is fashioned from a horn or spine from a crystal dragon. When you hit with an attack roll using this sword, the target takes an extra 1d8 radiant damage.
+Grimald attacks with a Crystal Double-Bladed Scimitar!
+28rancid
+To Hit: 1d20 (9) + 11 = 20
+Damage: 2d4ro<3 (4, 1, 1) + 5 [magical slashing] + 1d8ro<3 (6) [radiant] = 16
+Effect
+Martial Melee Weapon Attack.
+Finesse
+This magic sword's blade is fashioned from a horn or spine from a crystal dragon. When you hit with an attack roll using this sword, the target takes an extra 1d8 radiant damage.
+28rancid: <Bloodied> (-16)
+Initiative 22 (round 1): Gaermok Squareblock (@Gaermok Squareblock (Hunter))
+Gaermok Squareblock <209/209 HP> (AC 19) 
+> Immunities: poison, poisoned
+# Location: AE22
+* Fire Giant Strength [59.9 minutes] (Damage Bonus: 0; Attack Bonus: 0[Strength Increase])
+Avrae
+APP
+ — 5/16/2025 4:23 AM
+Grimald
+Potion of Speed
+〇 (-1)
+Image
+Avrae
+APP
+ — 5/16/2025 5:20 AM
+
+Grimald (gophren)
+Grimald takes damage!
+No reason provided.
+Grimald
+Damage: 3d6 (5, 3, 3) = 11
+Grimald: <142/153 HP>
+!hurt -t <target> -d <damage> -f [reason] | Dr Turtle#1771
+Avrae
+APP
+ — 5/16/2025 1:06 PM
+
+Gaermok Squareblock (Hunter)
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Gaermok Squareblock uses Rage!
+Gaermok Squareblock
+Effect: Rage [10 rounds] (Resistance: piercing, slashing, bludgeoning; Check Advantage: Strength; Save Advantage: Strength; End Rage)
+Effect
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+
+While raging, you gain the following benefits if you aren't wearing heavy armor:
+
+You have advantage on Strength checks and Strength saving throws.
+When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
+You have resistance to bludgeoning, piercing, and slashing damage.
+
+If you are able to cast spells, you can't cast them or concentrate on them while raging.
+
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Rage
+◉◉◉◉◉〇 (-1)
+Image
+
+Gaermok Squareblock (Hunter)
+Moving Gaermok Squareblock from AE22 to AD28 (~30 ft.).
+Changing size of Gaermok Squareblock to Huge (H)
+​
+Map
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/16/2025 1:24 PM
+Combatant not found.
+Gaermok Squareblock attacks with a Gaermok's Greataxe of Greatness!
+2Shepherd
+Attack 1
+To Hit: 1d20 (10) + 14 + 0 [Strength Increase] = 24
+Damage: 1d12 (11) + 8 + 2d12 (11, 6) + 2 + 0 [magical slashing] = 38
+
+Attack 2
+To Hit: 1d20 (1) + 14 + 0 [Strength Increase] = 15
+Miss!
+
+Total Damage: 38
+Effect
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. It is sized for a frost giant, weighs 325 pounds, and deals 3d12 slashing damage on a hit, plus an extra 2d12 slashing damage if the target is human.
+
+
+The axe sheds light as a torch when the temperature around it drops below 0 degrees Fahrenheit. The light can’t be shut off in these conditions.
+
+
+As an action, you can cast a version of the heat metal spell (save DC 13) that deals cold damage instead of fire damage. Once this power is used, it can’t be used again until the next dawn.
+
+
+Proficiency with a Greataxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+2Shepherd: <Injured> (-38)
+Initiative 21 (round 1): North Gate (@Kayliana (Ryan))
+4Shepherd <Healthy> 
+# Location: AD8 | Size: L (Large) | Overlay4: uco35y{targ}
+3skull <Healthy> 
+# Location: AC8 | Size: T (Tiny)
+4skull <Healthy> 
+# Location: AF8 | Size: T (Tiny)
+1rancid <Healthy> 
+# Location: AA12
+2rancid <Healthy> 
+# Location: AB11
+3rancid <Healthy> 
+# Location: AC10
+4rancid <Healthy> 
+# Location: AD10
+5rancid <Healthy> 
+# Location: AE10
+6rancid <Healthy> 
+# Location: AF10
+7rancid <Healthy> 
+# Location: AG11
+8rancid <Healthy> 
+# Location: AH12
+Initiative 22 (round 1): Gaermok Squareblock (@Gaermok Squareblock (Hunter))
+Gaermok Squareblock <209/209 HP> (AC 19) 
+> Resistances: piercing, slashing, bludgeoning
+> Immunities: poison, poisoned
+# Location: AD28 | Size: H (Huge)
+* Fire Giant Strength [59.9 minutes] (Damage Bonus: 0; Attack Bonus: 0[Strength Increase])
+* Rage [10 rounds] (Resistance: piercing, slashing, bludgeoning; Check Advantage: Strength; Save Advantage: Strength; End Rage) 
+ - Cannot cast/concentrate on spells
+ - Ends if knocked unconscious
+Initiative 21 (round 1): North Gate (@Kayliana (Ryan))
+4Shepherd <Healthy> 
+# Location: AD8 | Size: L (Large) | Overlay4: uco35y{targ}
+3skull <Healthy> 
+# Location: AC8 | Size: T (Tiny)
+4skull <Healthy> 
+# Location: AF8 | Size: T (Tiny)
+1rancid <Healthy> 
+# Location: AA12
+2rancid <Healthy> 
+# Location: AB11
+3rancid <Healthy> 
+# Location: AC10
+4rancid <Healthy> 
+# Location: AD10
+5rancid <Healthy> 
+# Location: AE10
+6rancid <Healthy> 
+# Location: AF10
+7rancid <Healthy> 
+# Location: AG11
+8rancid <Healthy> 
+# Location: AH12
+Gaermok Squareblock (Hunter) — 5/16/2025 1:26 PM
+whoops
+Avrae
+APP
+ — 5/16/2025 1:46 PM
+@Gaermok Squareblock (Hunter)  :game_die:
+Result: 2d20 (9, 10)
+Total: 19
+Gaermok Squareblock (Hunter) — 5/16/2025 1:46 PM
+!does-hit 2shep 24
+Avrae
+APP
+ — 5/16/2025 1:46 PM
+Error evaluating expression: Unexpected input on line 1, col 2: expected $END, got shep
+
+Gaermok Squareblock (Hunter)
+Does it Hit?
+New To-Hit
+24 = 24
+Target
+2Shepherd
+Result
+The new value does hit!
+Image
+!does-hit help | Dr Turtle#1771
+Gaermok Squareblock attacks with a Gaermok's Greataxe of Greatness!
+2Shepherd
+To Hit: Automatic hit!
+Damage: 1d12 (7) + 8 + 2d12 (9, 6) + 2 + 0 [magical slashing] = 32
+Effect
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. It is sized for a frost giant, weighs 325 pounds, and deals 3d12 slashing damage on a hit, plus an extra 2d12 slashing damage if the target is human.
+
+
+The axe sheds light as a torch when the temperature around it drops below 0 degrees Fahrenheit. The light can’t be shut off in these conditions.
+
+
+As an action, you can cast a version of the heat metal spell (save DC 13) that deals cold damage instead of fire damage. Once this power is used, it can’t be used again until the next dawn.
+
+
+Proficiency with a Greataxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+2Shepherd: <Injured> (-32)
+Avrae
+APP
+ — 5/16/2025 2:44 PM
+
+Kayliana (Ryan)
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/16/2025 7:31 PM
+
+Kayliana (Ryan)
+Circle Overlay
+Color: red
+Size: 20 ft. radius
+Centered: AE20
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+3skull casts Fireball!
+Meta
+Damage: 8d6 (2, 2, 1, 1, 3, 2, 5, 1) [fire] = 17
+DC: 13
+Flow
+DEX Save: 1d20 (17) + 12 = 29; Success!
+Damage: (17) / 2 [magical fire] = 8
+Rhys
+DEX Save: 1d20 (6) - 1 + 2 = 7; Failure!
+Damage: 17 [magical fire] = 17
+Concentration: DC 10
+Galwen
+DEX Save: 1d20 (12) + 14 = 26; Success!
+Damage: (17) / 2 [magical fire] = 8
+Simulacrus
+DEX Save: 1d20 (7) + 2 = 9; Failure!
+Damage: 17 [magical fire] = 17
+Don Explodicus
+DEX Save: 1d20 (10) + 3 = 13; Success!
+Damage: (17) / 2 [magical fire] = 8
+Effect
+A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
+
+The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
+Spell Slots
+3 〇 (-1)
+Flow: <195/203 HP> (-8 HP)
+Rhys: <110/110 HP, 33 temp> (-17 temp)
+Galwen: <115/123 HP> (-8 HP)
+Simulacrus: <64/64 HP, 10 temp> (-17 temp)
+Don Explodicus: <121/129 HP> (-8 HP)
+4skull casts Fireball!
+Meta
+Damage: 8d6 (6, 1, 1, 3, 5, 4, 5, 4) [fire] = 29
+DC: 13
+Flow
+DEX Save: 1d20 (13) + 12 = 25; Success!
+Damage: (29) / 2 [magical fire] = 14
+Rhys
+DEX Save: 1d20 (19) - 1 + 2 = 20; Success!
+Damage: (29) / 2 [magical fire] = 14
+Concentration: DC 10
+Galwen
+DEX Save: 1d20 (13) + 14 = 27; Success!
+Damage: (29) / 2 [magical fire] = 14
+Simulacrus
+DEX Save: 1d20 (9) + 2 = 11; Failure!
+Damage: 29 [magical fire] = 29
+Don Explodicus
+DEX Save: 1d20 (6) + 3 = 9; Failure!
+Damage: 29 [magical fire] = 29
+Effect
+A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
+
+The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
+Spell Slots
+3 〇 (-1)
+Flow: <181/203 HP> (-14 HP)
+Rhys: <110/110 HP, 19 temp> (-14 temp)
+Galwen: <101/123 HP> (-14 HP)
+Simulacrus: <45/64 HP> (-10 temp, -19 HP)
+Don Explodicus: <92/129 HP> (-29 HP)
+
+Kayliana (Ryan)
+Circle Overlay
+Color: green
+Size: 10 ft. radius
+Centered: AF19
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Avrae
+APP
+ — 5/16/2025 7:39 PM
+4Shepherd casts Confusion!
+Meta
+DC: 17
+Flow
+WIS Save: 1d20 (14) + 2 = 16; Failure!
+Effect: Confusion [10 rounds] (Confusion; Resist Confusion; Parent: Confusion)
+Rhys
+WIS Save: 1d20 (7) + 7 + 2 = 16; Failure!
+Effect: Confusion [10 rounds] (Confusion; Resist Confusion; Parent: Confusion)
+Galwen
+WIS Save: 1d20 (14) + 13 = 27; Success!
+Simulacrus
+WIS Save: 1d20 (9) + 8 = 17; Success!
+Don Explodicus
+WIS Save: 1d20 (20) + 9 = 29; Success!
+Effect
+Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.
+
+An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
+At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.
+Spell Slots
+Confusion: 〇 (-1)
+Avrae
+APP
+ — 5/16/2025 7:53 PM
+
+Kayliana (Ryan)
+Moving 6rancid from AF10 to AF16 (~30 ft.)
+Moving 5rancid from AE10 to AE16 (~30 ft.)
+Moving 4rancid from AD10 to AD16 (~30 ft.)
+​
+Map
+Image
+!go ? | v1.4
+Kayliana (Ryan) — 5/16/2025 7:53 PM
+-choose flow Rhys galwen simu don
+YAGPDB.xyz
+APP
+ — 5/16/2025 7:53 PM
+@Kayliana (Ryan), I choose Rhys!
+Avrae
+APP
+ — 5/16/2025 7:54 PM
+4rancid attacks with a Sling Mud!
+Rhys
+To Hit: 1d20 (2) + 10 = 12
+Miss!
+Effect
+Ranged Weapon Attack: +10 to hit, range 30 ft., one target. Hit: 10 (1d4 + 8) bludgeoning damage plus 3 (1d6) acid damage.
+Kayliana (Ryan) — 5/16/2025 7:54 PM
+-choose flow Rhys galwen simu don
+YAGPDB.xyz
+APP
+ — 5/16/2025 7:54 PM
+@Kayliana (Ryan), I choose simu!
+Avrae
+APP
+ — 5/16/2025 7:54 PM
+5rancid attacks with a Sling Mud!
+Simulacrus
+To Hit: 1d20 (19) + 10 = 29
+Damage: (1d4 (3) + 8) [bludgeoning] + (1d6 (3)) [acid] = 14
+Effect
+Ranged Weapon Attack: +10 to hit, range 30 ft., one target. Hit: 10 (1d4 + 8) bludgeoning damage plus 3 (1d6) acid damage.
+Simulacrus: <31/64 HP> (-14 HP)
+Kayliana (Ryan) — 5/16/2025 7:54 PM
+-choose flow Rhys galwen simu don
+YAGPDB.xyz
+APP
+ — 5/16/2025 7:54 PM
+@Kayliana (Ryan), I choose don!
+Avrae
+APP
+ — 5/16/2025 7:54 PM
+6rancid attacks with a Sling Mud!
+Don Explodicus
+To Hit: 1d20 (18) + 10 = 28
+Damage: (1d4 (3) + 8) [bludgeoning] + (1d6 (2)) [acid] = 13
+Effect
+Ranged Weapon Attack: +10 to hit, range 30 ft., one target. Hit: 10 (1d4 + 8) bludgeoning damage plus 3 (1d6) acid damage.
+Don Explodicus: <79/129 HP> (-13 HP)
+
+Kayliana (Ryan)
+Moving 3rancid from AC10 to AF15 (~30.0 ft.).
+Moving 2rancid from AB11 to AE15 (~25.0 ft.).
+Moving 1rancid from AA12 to AD15 (~20.0 ft.).
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Kayliana (Ryan) — 5/16/2025 7:56 PM
+-choose flow Rhys galwen simu don
+YAGPDB.xyz
+APP
+ — 5/16/2025 7:56 PM
+@Kayliana (Ryan), I choose don!
+Avrae
+APP
+ — 5/16/2025 7:56 PM
+1rancid attacks with a Sling Mud!
+Don Explodicus
+To Hit: 1d20 (14) + 10 + 5 = 29
+Damage: (1d4 (3) + 8) [bludgeoning] + (1d6 (2)) [acid] + 5 [bludgeoning] = 18
+Effect
+Ranged Weapon Attack: +10 to hit, range 30 ft., one target. Hit: 10 (1d4 + 8) bludgeoning damage plus 3 (1d6) acid damage.
+Don Explodicus: <61/129 HP> (-18 HP)
+Kayliana (Ryan) — 5/16/2025 7:57 PM
+-choose flow Rhys galwen simu don
+YAGPDB.xyz
+APP
+ — 5/16/2025 7:57 PM
+@Kayliana (Ryan), I choose Rhys!
+Avrae
+APP
+ — 5/16/2025 7:57 PM
+2rancid attacks with a Sling Mud!
+Rhys
+To Hit: 1d20 (11) + 10 + 5 = 26
+Damage: (1d4 (3) + 8) [bludgeoning] + (1d6 (5)) [acid] + 5 [bludgeoning] = 21
+Concentration: DC 10
+Effect
+Ranged Weapon Attack: +10 to hit, range 30 ft., one target. Hit: 10 (1d4 + 8) bludgeoning damage plus 3 (1d6) acid damage.
+Rhys: <108/110 HP> (-19 temp, -2 HP)
+Kayliana (Ryan) — 5/16/2025 7:57 PM
+-choose flow Rhys galwen simu don
+YAGPDB.xyz
+APP
+ — 5/16/2025 7:57 PM
+@Kayliana (Ryan), I choose Rhys!
+Avrae
+APP
+ — 5/16/2025 7:58 PM
+Combatant not found.
+3rancid attacks with a Sling Mud!
+Rhys
+To Hit: 1d20 (16) + 10 + 5 = 31
+Damage: (1d4 (3) + 8) [bludgeoning] + (1d6 (2)) [acid] + 5 [bludgeoning] = 18
+Concentration: DC 10
+Effect
+Ranged Weapon Attack: +10 to hit, range 30 ft., one target. Hit: 10 (1d4 + 8) bludgeoning damage plus 3 (1d6) acid damage.
+Rhys: <90/110 HP> (-18 HP)
+
+Kayliana (Ryan)
+Moving 8rancid from AH12 to AF14 (~15.0 ft.).
+Moving 7rancid from AG11 to AE14 (~20.0 ft.).
+​
+Map
+Image
+!map ? | Map settings attached to DM | v3.5
+Kayliana (Ryan) — 5/16/2025 8:00 PM
+-choose flow Rhys galwen simu

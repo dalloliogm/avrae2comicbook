@@ -1,0 +1,1055 @@
+ 
+Kayliana (Ryan) — 5/14/2025 5:05 AM
+You hear a knocking at your chamber door, and upon opening it you are greeted with a rather peculiar sight. A trio of tiny floating trumpets hovers about five feet in the air, and they immediately blow a series of notes like heralds announcing the arrival of a king.  From the center trumpet, a scarlet banner unfurls to the floor, which reads:
+
+CONGRATULATIONS! YOU have the unparalleled honor of being selected to participate* in the 591st Tournament of Champions, hosted by none other than MISTER GHASTLY (glory unto his name).
+
+Please proceed immediately to Hourglass Gate where you will meet the rest of your team and await further instructions. Good luck!
+
+*Refusal to participate will result in immediate disqualification and disintegration. Mister Ghastly is not responsible or liable for the likely consequences of participating in the Tournament, including but not limited to: death, dismemberment, mutilation, insanity, spaghettification...
+
+The list of horrible potential fates continues, the text growing smaller and smaller until it is no longer legible. As you squat and squint, the trumpets give one last celebratory toot, blasting confetti all over your hair and floor before vanishing into thin air.  You are left with little time to gather your belongings and head to Hourglass.
+
+Once you arrive, you see a number of your fellow veteran Defenders milling about, some of the finest warriors and mages to be found at the Gates, and many of them dear friends.  Gatekeeper Gibbulous Periwinkle raises his ruddy hands above his head and beckons you to gather around his workbench.
+
+"Well met, Defenders!  As you know, you have all been summoned to participate in MIster Ghastly's Tournament of Champions, which is one of the deadliest contests in the known multiverse.  This is no coincidence; we have been trying to infiltrate this event for many years to stop it. These are not games so much as a death sentence - one carried out for the apparent entertainment of Mister Ghastly and his bloodthirsty crowds.  Other than that, we know almost nothing about him... he is a very ancient, evil being.
+
+Do your best to survive as long as it takes to get to Mister Ghastly and destroy him! Put an end to this cruelty once and for all.  If anyone can do it... I know you can."
+
+The gnome hops down from his workbench and twists dials and pushes buttons until a tall portal materializes in the center of the room.  You step through and find yourself on a raised circular stone dais in the middle of a huge arena, covered with bloodstained sand and surrounded by thousands of spectators who roar with excitement as soon as you enter. Twenty foot tall walls encircle the colosseum floor, with a dozen massive statues stationed around the perimeter like watchful sentinels. 
+Kayliana (Ryan) — 5/14/2025 5:59 AM
+ 
+Image
+A voice emerges from a poshly-appointed platform located fifty feet above the ground on the north side of the arena.  The voice echoes through the arena as clearly as if it came from right beside you, sounding oddly prim and proper:
+
+"And HERE they are!  Ladies and gentlemen... I present to you the combatants of the 591st Tournament of Champions.... the Defenders of Itrendor!!"
+
+The crowd erupts again, some cheering and some booing.  You peer at the platform and a rather slight and extremely well-dressed man suddenly appears, standing in front of an elaborate purple chair as he addresses the audience. Even from this distance, you are unnerved by his unnaturally large, unblinking eyes and wide, gleaming smile.  A faintly shimmering barrier is visible around the platform and extends around the entire arena, shielding the crowd and forming a 30' high dome overhead. The man continues.
+
+"I... Mister Ghastly... your humble servant... strive to bring you the finest entertainment in the multiverse. And we hope that these so-called Defenders do not disappoint.  So what say you?  Are you ready??"
+
+The roar from the crowd is deafening. Loud trumpets blast the same heraldic notes you heard in your chambers, and you feel your pulse begin to quicken.  You scan the arena, noticing four large gates in the north, south, east and west.
+
+"THEN LET THE GAMES.... BEGIN!!!" 
+Don Explodicus (sfollac) — 5/14/2025 3:18 PM
+The Orcs are coming! An horde of green, sweaty, noisy creatures, all ready to take over the tournament and destroy everything on their path. Hurry up and find a place to hide, if you can!
+
+Well, actually, there are only two orcs. And they are not bloodthirsty warriors, even though they can cause a good deal of damage. They are not even two real orcs - it's Don Explodicus, the orc wizard, and its simulacrum, named Don Simulacrus after a brand of red wine. They both join the arena, holding up their shields decorated with the symbol of Gruumsh, and ready to make an impression in the fight.
+
+Enter Don Explodicus, Don Simulacrus
+Wish Perpetual Cast Create Simulacrum
+Precast Explodicus Crown of Stars
+Perpetual Cast Explodicus Contingency - cure wounds when hp<1
+Precast Simulacrus False Life lv5
+Perpetual Cast Simulacrus Contingency - Polymorph on self when hp==1 (presumably after Relentless Endurance) (Ancient Lightning Eel) 
+Grimald (gophren) — 5/14/2025 9:47 PM
+Enter Grimald
+
+Grimald strides through the portal, still removing confetti from his clothes. He steps onto the stone dais and taps his crown. Star light covers him instantly as he rises into the air for a second, then he lands with a flourish.
+
+He turns to his fellow Defenders, his lips curling into a sly grin. 
+"My friends, let’s craft a spectacle that echoes through the ages—something unforgettable."
+
+Turning to Mister Ghastly’s platform, he tilts his head, eyes sharp. 
+"Tell me, Ghastly, how did the last champions claim their victory? I’d rather have us outdo them, than play their encore." 
+
+Pre-action: Star Flight
+Kayliana (Ryan) — 5/14/2025 10:03 PM
+“Victory, you say?” Mister Ghastly whispers back to Grimald telepathically.
+
+“The last ones did not survive past the first round.  Let’s just say they were a bit of a let-down. Now, YOU… I’ve heard much about you. I have high hopes that you will give this crowd a real show before your demise.”
+Galwen (Ari)
+[NDND]
+ — 5/14/2025 10:31 PM
+Enter Galwen
+
+The elven archer scowls at the fanfare, rolling her eyes at the dramatics. Her skills were practical, not for the entertainment of the masses. She was a proud Defender, not some silly puppet with no skills. She wasn't back home. Her arrows had more purpose.
+
+She scans the arena and the area where they stand.
+
+"We should spread out... We're too close together."
+
+Whispering the command word, her silvery wings flutter to life from her cloak.
+
+Pre-Action: Activate Wings of Flying
+Rhys (Ban) — 5/14/2025 11:39 PM
+Enter Rhys
+
+Rhys raises an eyebrow at the floating trumpet trio. He then reads the banner and smirks. A Tournament of Champions? The perfect opportunity to test out his new tattoo. Rhys had recently attuned to his legendary tattoo that now covers his entire torso and both of his arms. Even with his armor donned, the pattern of the tattoo appears on the metal's surface. Intricate patterns of runes swirl around his arms while the portion of the tattoo on his torso reveals a depiction of the Raven Queen herself.
+
+Rhys then hurries to Hourglass Gate and listens to the debriefing from the Gatekeeper. One of the deadliest contests in the known multiverse. Survive. Destroy Mister Gastly. Got it.
+
+Rhys casts a spell on himself to enhance his martial prowess before stepping through the portal and into the colosseum.
+
+Perpetual: Contingency, lvl 5 cure wounds on self if he drops below half hp
+Pre-cast: Tenser's Transformation
+Gaermok Squareblock (Hunter) — 5/15/2025 1:19 AM
+Enter Gaermok
+
+Gaermok stares blankly at the banner, only recognizing half of the words but noticing ones like Hourglass Gate and Death. When he gets to the bottom, still not grasping most of the words but being curious about the spaghettihimatesome, he arrives at the bottom and covers his face too late as the confetti blasts him. He peers through his fingers but no longer sees the trumpet trio, so he looks around to see if they just floated somewhere else.
+
+"Okay horns. How to get there and where is there? Horns? Hello?"
+
+Well he did come here to work at places called Gates and will probably run into death in there, so he gets directions to the Gate with the hourglass in it. Before heading down, he checks the bag at his waist. Still there. Good.
+
+As he arrives at Hourglass Gate, he looks around at the other defenders present, assuming they all know what to do and deciding he'll just follow their lead. He checks his belt and the bag is still there. Good. He removes it and places it on the ground, then grabs a potion from his belt and drinks it down. Once he wipes his mouth, he takes in a sharp gasp of air and his previously normal build starts to pop muscles all over the place. He doesn't seem to be surprised however, as he then opens the bag and reaches into it up to his shoulder, which clearly should not be possible given that the bag is maybe a foot deep.
+
+Once he slowly removes his arm, he has ahold of a huge weapon handle, tugging an entire greataxe of massive proportions out of the bag, yet he doesn't struggle to lift it at all. He hefts the unwieldy weapon and rests it, blade side down, on the ground next to him, holding it effortlessly with one hand as it proves to be at least double his height. He looks at the other defenders and tries to do a smile.
+
+"Okay. Ready."
+
+Preaction - drink potion of Fire Giant Strength
+Flow (Tjolanta) — 5/15/2025 7:01 AM
+Enter Flow
+
+Flow opens her eyes, ever so slightly. Knocking. There is somebody knocking. She takes her time stretching her body and walks slowly up to the door. Partly uninterested, disturbing her well deserved rest in this way, and partly curious. It wasn't that often she got a knock on her door after all. The trumpets outside was a nice surprise. Jumping back big a smile, making room for the flying fanfare, she speedreads the banner. Her eyes widen. This was odd. A deadly tournament. Quickly she gathers her things and sprints off towards the gate.
+
+Well at the gate chamber she watches the other defenders walk through the gate. Still not entirely sure what they was supposed to do she rummage through her potions, eyes the small tag on one of them, and downs the content and follows. Right into an arena. It seemed whatever they where fighting, there was an audience to appease. Without a thought she announces her arrival with a courteous bow towards Ghastly and the crowd, though not addressing them. Instead just answering Galwen with a lower voice.
+
+"That's probably not a bad idea." Her eyes moves over the arena trying to figure out what they are about to fight. "It seems our opponents are yet to arrive."
+
+Pre: Potion of flying 
+Kayliana (Ryan) — 5/16/2025 1:44 AM
+A mighty horn blows, and all four gates of the arena open at once, disgorging four squadrons of foul undead creatures, each seemingly guided by a slender, nightmarish creature with bat wings and carrying a shepherd's crook.   This figure is flanked by two floating, flaming skulls, their green eyes glowing malevolently. Before them, an array of the most disgusting, putrid creatures you have ever seen.  Sizzling bile drips from their bloated bodies, which trudge across the arena floor almost like they are wading through shallow water.  The stench is overwhelming, but you steel yourselves nonetheless.
+
+"VERY WELL!" Mister Ghastly calls out to the crowd. "Let's start them off easy, shall we?  For your viewing pleasure, I have brought forth these foul denizens from the depths of the Negative Plane... now we shall see if these undead can make these Defenders DEAD-dead!!"
+CROWD MOOD: NEUTRAL
+
+The spectators are a motley bunch from all over the multiverse... from your vantage point, you can see humans, elves, dwarves, orcs, halflings, goblins, giants, slaads, beholders... countless different species, some of which you don't even recognize.  What IS obvious, however, is the bloodlust in their myriad shouts and screams.  This crowd is here for a SHOW. 
+Grimald (gophren) — 5/16/2025 4:18 AM
+Grimald  turns toward Mister Ghastly’s platform, his expression a mask of mock despair. With exaggerated gestures, he proclaims:
+
+"Oh, Ghastly, my dear host! These putrid pests test our mettle—how ever shall we banish them? Perhaps, after we turn this tide, you might descend from your lofty perch to shower us with praise in person? A noble reward for such a noble effort, don’t you think?"
+
+Continuing to act dramatically, he uncorks a Potion of Speed and downs it in one swift gulp. His movements blur as the Haste spell takes hold. With a dramatic twirl of his Crystal Double-Bladed Scimitar, he charges westward toward the nearest squadron of undead, his cold eyes glinting with theatrical flair.
+
+"Behold, foul fiends of the Negative Plane!" he cries, his voice booming across the arena. "Your stench may curdle milk, but it shall not sour our resolve!"
+
+With a graceful leap, he slashes at the nearest undead, his blade singing as it cuts through rotting flesh. Pausing mid-strike, he feigns surprise as if his target's smell is overwhelming his senses.
+
+He resumes his assault, his scimitar flashing as he entertains the bloodthirsty spectators, making a show of swashbuckling bravado of each strike that he makes
+
+BA: Potion of Speed
+M: 60 ft. W
+A and Hasted A: DBS attacks at 28rancid 
+Gaermok Squareblock (Hunter) — 5/16/2025 1:48 PM
+Gaermok steps out onto the platform, huge greataxe resting comfortably yet unwieldy on his shoulder. He looks around the arena with the blank scowl on his face. Catching the looks of some of his allies, he suddenly stops and speaks up.
+
+"Oh. Sorry about face twisting. Is just my RBF."
+
+Catching a raised eyebrow or two, he explains.
+
+"Oh. Raging Barbarian Face. For this."
+
+He starts to breathe heavily, squinting his eyes shut and letting a low growl come from deep in his chest. His eyes open and they're solid green, as he hefts his axe into two hands and starts to stomp forward to the south. Step by step, he starts to grow in size, thankfully with his clothing intact, maybe due to some magical decency filter. By the time he reaches the swarm of enemies in front of him, he's become rather huge and finally befitting of the size of his greataxe. A wide arcing swing lands square in the grimy shepherd torso, and on the second swing Gaermok puts the blade of the axe through the creature's left leg. Good start.
+
+B - giant rage! huge size! 15 ft reach! great at parties! until the piñata part!
+Move 30s
+A - reckless attack 2Shepherd with greataxe x2 (hit hit)
+Kayliana (Ryan) — 5/16/2025 8:11 PM
+The North Gate undead seem to be the most frenzied, and they are the first group of enemies to attack. 
+
+First the flameskulls launch fireballs into the midst of the Defenders clustered on the starting platform, the fiery explosions blasting Rhys, Galwen, Flow, Don and his Simulacrum. The crowd gives an audible OOOOOHH as the flames blossom. Mister Ghastly makes a polite golf clap.
+
+The ashen-grey shepherd follows up, raising its hands high above its head and muttering a fell incantation. Your heads fill with a deafening, buzzing noise that threatens to overwhelm your senses. Most of the Defenders steel themselves and resist until the excruciating sensation passes, but Flow and Rhys both clutch their skulls and begin to stagger, clearly addled by the assault.
+
+Finally, the group of Rancid creatures trudges forward, swaths of putrefying flesh sloughing away into sizzling puddles in the sand. They group up on the stairs leading up to the heroes, moaning and hissing as their stench overpowers you. 
+
+They grab scoops of the muddy, sandy concoction left in their wake and hurl them randomly at the team. You notice that the rancids who are closer to the shepherd seem much more effective and potent with their attacks.
+
+North Gate:
+7/8 skull: 2x Fireball vs Flow, Rhys, Galwen, Don, Simu
+4Shepherd: Cast Confusion vs central group of Defenders (Flow/Rhys fail)
+1-8rancid: Move 30’, Sling mud vs Defenders (many hits) 
+Don Explodicus (sfollac) — 5/16/2025 10:03 PM
+Don had secretly waited for this moment for a long time. He had been studying for years, to get here.
+
+"Is this all you got! We do not have time to waste!"
+
+The orc raises his staff, and calls upon the arcane forces that surround this plane. In a matter of seconds, the arena is covered by a full range of explosions. Everything is fire, debris, distructions. All the opponents gets obliterated. Yet, none of the defenders is harmed. Mister Ghastly himself is surrounded by the flames - but thanks to the mastery of the arcane of Don, he remains completely unharmed.
+
+Don looks at the public. He is used to the shouts, to the spits. He knows that the only things that can make them shut up is force.
+
+A Meteor Swarm  1rancid 2rancid 3rancid 4rancid 5rancid 6rancid 7rancid 8rancid 9rancid 10rancid 11rancid 12rancid 13rancid 14rancid 15rancid 16rancid 17rancid 18rancid 19rancid 20rancid 21rancid 22rancid 23rancid 24rancid 25rancid 26rancid 27rancid 28rancid 29rancid 30rancid 31rancid 32rancid 1skull 2skull 3skull 4 5skull 6skull 7skull 8skull 1shep 2shep 3shep 4shep (all dead!!)
+BA Arcana check (31)
+Simulacrus
+A Longstrider Don, Sim,Rhys,Gal,Flow
+BA advantage on Arcana check 
+Kayliana (Ryan) — 5/17/2025 12:29 AM
+And stunned the crowd is, momentarily speechless by the sheer, wanton death and destruction from the fiery meteor swarm.  Then the whole arena erupts with bloodlusted cheers, a thunderous roar that shakes the very walls of the colosseum.
+
+“YES!!” shouts Mister Ghastly, springing to his feet with applause. “THIS is what the people want. Marvelous, Explodicus, simply marvelous. I can see that you have some real star potential.”
+
+The impish man spreads his arms wide and turns to the crowd, his creepy grin somehow now even wider.
+
+“So… it’s FIRE that you want, is it??” he exclaims, and the spectators roar with approval.
+
+“Very well then… fire is what you shall have.”
+
+Bonus Flair Check Success for epic meteor swarm 
+Kayliana (Ryan) — 5/17/2025 1:35 AM
+Mister Ghastly snaps his fingers, and the circular dais on which several of you were previously standing disappears, dropping you onto the sandy floor. The four huge braziers in the corners of the arena suddenly burst into flames and from each of the gates, two massive stone dragon heads emerge from either side, spewing 20-foot-high walls of flame that create two perpendicular corridors. Within this raging inferno, your skin begins to blister from the intense heat.
+
+The gates re-open with the sound of screeching metal, and from the east and west an armored devil, fully engulfed in flames and mounted on a fiery winged steed, flies forth. From the north and south, you hear growling and then a snarling roar of rage as a towering devil flies out and lands on the sand with a loud thud - a terrifying vision. The fiends brandish their maces at you menacingly, as if beckoning you forward. 
+.
+Ghastly shouts, “Beloved guests! From the Nine Hells, I bring forth for your entertainment… narzugons and pit fiends!!” 
+Flow (Tjolanta) — 5/17/2025 1:52 PM
+The situation is totally confusing. Balls of acid and fireballs and then they are all gone. Then more fire and fiends of all kinds. Flow growl and frown and simply sets off. Letting her boots boost her already built up speed.
+
+With her orange fur oozing of burnt flesh and hair she lash out on one of the creatures, before retreating to a cooler spot.
+
+Bonus Action: Boots of haste
+Movement: ->N20->P15 (feline agility and fancy footwork)
+Action: Rapier at 2night (hit, hit, hit) 
+Galwen (Ari)
+[NDND]
+ — 5/17/2025 3:17 PM
+Too much fire everywhere. From Don Explodicus' raining of meteors to the changing of the battlefield, she dodges instinctively.
+
+But she sees the crowd starting to not be so engaged and so she grits her teeth. Time to put on a show.
+
+She downs two potions in succession. She can barely go a gate without these nowadays. Then she takes a deep breath, slings her bow over her shoulder and flies straight into the fire.
+
+She emerges from the fire, presenting herself to the audience.
+
+"Ha! Is that really all that you can do? Look at this!"
+
+She unravels a bandage wrapped around her arm, revealing skin that is not at all burned.
+
+"You need to do more than that to hurt Defenders!"
+
+Action: Drink Potion of Speed
+HA: Drink Potion of Heroism
+BA: Flair (Medicine 23)
+Kayliana (Ryan) — 5/17/2025 3:22 PM
+The crowd laps up Galwen’s bravado, and you hear some of them begin chanting her name.
+
+Flair Check Success: Current total of 3
+Kayliana (Ryan) — 5/18/2025 1:47 AM
+The pit fiend unleashes a flurry of attacks against the barbarian who bravely withstands the assault.
+
+2pit: Bite, Claw, Mace and Tail vs Gaermok (3 hits) 
+Rhys (Ban) — 5/18/2025 6:57 AM
+Rhys charges north towards the pit fiend up there before vanishing and appearing directly beside it. He lashes out with his delerium greatsword at it twice with each leaving a large gash in the fiend. Each slash then bursts with a mixture of radiant and necrotic energy as smites combine with his tattoo's magic. The Raven Queen tattoo hums and glows faintly with each attack and infuses some healing into him.
+
+BA: Blessing of the Raven Queen teleport closer to 1pit
+Movement: 10ft north towards 1pit
+Action: 2x delerium greatsword at 1pit (gwm, both hit, both lvl 3 smite and blood fury, Rhys heals 22)
+Kayliana (Ryan) — 5/18/2025 3:58 PM
+Enraged by this shadar-Kai, the pit fiend reaches out with one muscular, clawed arm, grabbing Rhys by the throat.
+
+“Let’s see if your feathers will burn, little bird,” it says menacingly, carrying Rhys over to the wall of fire and shoving him into the flames.
+
+The devil grins as Rhys gets torched. It snaps its jaws at the wizard and tries striking him with its mace, but the wriggling mage somehow dodges out of the way.
+
+“QUIT YER FLAPPING ABOUT! Yahhh!!” the pit fiend roars, whipping its huge tail around and catching Rhys directly in the torso with a crushing blow that cracks several ribs.
+
+1Pit: Grapple Rhys (success, grappled), Move 10’W with Rhys into wall of flame, Bite/Mace/Tail attack (miss, miss, crit)
+Kayliana (Ryan) — 5/18/2025 4:16 PM
+Hearing the commotion in the north, the narzugon in the west spurs its hellish steed forward with blistering speed. They soar harmlessly through the walls of flame to the north gate. The narzugon leans over and places a scaled hand on the pit fiend, healing nearly all of its wounds.
+
+“Master… may you fight on eternally and consume their souls,” the narzugon says with a guttural growl.
+
+2nightmare: Dash 105’ NE
+2narz: Healing to 1pit 
+The crowd is thoroughly enjoying every minute of it. Some of the spectators are booing the pit fiend’s tactics of holding Rhys in the flames, while others are calling out to Mister Ghastly for MORE FIRE.
+
+Arena Crowd: 3 total flair successes, Mood remains 0 (Neutral). New Flair DC: 17
+Grimald (gophren) — 5/18/2025 9:49 PM
+With a burst of speed from his Haste, Grimald soars over the roaring walls of fire, his cape billowing dramatically as he heads toward the towering pit fiend assaulting Rhys in the north.
+
+"Fiend of the Hells, your flames may roar, but I’ll douse your pride!" he shouts, his voice carrying over the inferno.
+
+He dives down, his Crystal Double-Bladed Scimitar flashing as he strikes the pit fiend with three swift slashes, each blow a blur of radiant energy and magical steel. On one strike, he channels a Trip Attack, hooking the fiend’s leg with his blade and sending it crashing to the sand with a thunderous thud, now prone.
+
+With a flourish, Grimald performs a dazzling somersault, his acrobatic flair on full display as he dashes 20 feet away, landing gracefully just outside the pit fiend’s terrifying aura. He spins his scimitar with a grin, turning briefly to the crowd.
+
+"Ghastly, friend. You never replied to my proposition earlier. Why don't you come down to the arena to give us the reward after we return the Devils to the Nine Hells?" he calls out, his cold eyes sparkling with mischief.
+
+Hasted A: Dash
+M: 90 ft up and North, in melee with 1pit
+A: DBS attacks at 1pit (miss, hit with Trip Attack -fail save-, hit)
+BA: Flair Acrobatics check somersault outside the aura (acrobatics 33)
+M: 20 ft. W 
+Kayliana (Ryan) — 5/18/2025 9:58 PM
+“OOH! AHH!” the audience gasps with delight as Grimald executes the flawless maneuver. Ghastly applauds politely and leans forward in his chair, his voice booming over the roar of the flames.
+
+“Me?  You want to meet with me, if you survive? My dear Grimald, I doubt that would happen, even in your wildest dreams.”
+
+Still, you begin to hear a few scattered cries of “Ghastly! Ghastly!” coming from the crowd. Clearly, some of the spectators are intrigued by this idea.
+
+Flair Check: Success (1 total) 
+Gaermok Squareblock (Hunter) — 5/19/2025 2:17 AM
+Gaermok looks around confused as the world around him erupts into explosions, sizzling and crackling undead popping into charred messes left and right. When the smoke clears, every enemy around him is dead. He scratches his head momentarily.
+
+"Huh. Axe did not do that before. Do it again axe!"
+
+But before the axe can oblige, walls of flame roar to life around him and a winged devil wreathed in fire appears in front of him. It lashes out in several different ways and even leaves a burning bite mark on Gaermok's arm. He stares at the devil, leans over and sucks some of the poison out of the wound, then spits it back at the devil's feet.
+
+"Got good at ignoring that long time ago. Can even do this too."
+
+The thrice-banded ring on his finger flashes momentarily, one band losing its luster, but not before the bite wound closes completely.
+
+R - use Contingency Band (superior healing potion)
+ 
+Gaermok Squareblock (Hunter) — 5/19/2025 2:44 AM
+The burning flames around him finally catch up with his skin and leave several scorch marks, but Gaermok tries not to react. The devil's roaring is probably supposed to frighten Gaermok, but the barbarian has no time for weak knees. He grabs a potion from his belt and slams it into his mouth, chomping down on the glass as it crunches loudly, still keeping eye contact with the devil. Trickles of blood come down the sides of his mouth but he could care less, as his massive frame twitches with some kind of hyperactive energy.
+
+"Good at finding danger. Got an ally in danger way over there, so... gotta go way over there. Sorry for leaving. Is not you, is me."
+
+Gaermok then digs his heels into the dirt and his boots start to crackle with lightning. With a shower of sparks, he launches backwards and turns to fly straight across the arena.
+
+He pulls up like a massive zeppelin above the devils trying to eliminate his ally Rhys. Not quite comfortable swinging from the air, Gaermok still connects two deep cuts into the devil holding Rhys in the flames. With a swift lunging arm, he then grabs ahold of Rhys and yanks him forcibly away from the fiend, depositing him on the other side of the wall of flames while taking attacks from the enemy from all sides as he tries to push Rhys through to safety and land with him on the other side of the fire wall.
+
+"Fire hurts. Drink health. Then fight more."
+
+B - drink potion of Speed
+Activate Stormrider Boots
+Stormrider Boots damage on 2Pit
+Move 90n 25up
+Stormrider Boots damage on 2Night
+A - recklessly attack 1Pit with greataxe (hit hit)
+Move 5down
+HA - grapple Rhys
+Move 5up 20e 25down 
+Kayliana (Ryan) — 5/19/2025 6:12 AM
+The pit fiend in the south swings its tail at Gaermok as he streaks by, clipping his leg. 
+
+As the barbarian bravely wrestles Rhys away from the other pit fiend in the north and flies away, the nearby enemies all take a swipe but miss.
+
+Reactions: AOO vs Gaermok from 2pit (hit), 1pit, 2nar, 2night (all miss) 
+Don Explodicus (sfollac) — 5/19/2025 7:30 PM
+Don and his Simulacros find themselves surrounded by fire from all sides. All the other defenders are nowhere to be seen. Galwen went South. The others went North. The flames are too bright, and there is no way to see the other side.
+
+A little fire doesn't scare an orc away. Nor two. The simulacrus is the first to act - he mutters an incantation, and one of the walls of fire disappear, showing a group of defenders behind it. Don quickly follows, after conjuring a spectral hand, made of force energy, to the South, hoping to create a good distraction.
+
+Simulacrus
+A Dispel Magic on one of the Walls of Fire
+BA Adrenaline Rush 
+M40NW20W
+Don
+A Bigby's Hand (attempt to grapple 2pit - failed)
+BA Crown of Stars 2pit (hit)
+M 20NW20W 
+Kayliana (Ryan) — 5/19/2025 8:05 PM
+The other hell rider flies into the fray on its nightmare steed, screeching like a banshee as it descends upon the Defenders near the north gate. 
+
+Gaermok clutches his ears and cowers in terror at the sound; something which triggers a deep-seated traumatic memory for him.
+
+The narzugon pivots with its hellfire lance and stabs thrice at Don Explodicus, the mage responsible for so much destruction. Don is able to dodge out of the way of two of the attacks, but one gets past his defenses and stabs his shoulder with the white-hot tip.
+
+1night: Dash 120’
+1nar: Terrifying Command vs Gaermok (fail, frightened), 3x hellfire lance vs Don (1 hit)
+Gaermok Squareblock (Hunter) — 5/20/2025 3:08 AM
+Gaermok hears the wailing as it shatters his eardrums and creeps into his brain. Before the muscle drink, there was only shame and weakness. What if he can't get any more muscle drink? Will he be worthless forever?
+
+... No. He will not be worthless. The drink is plentiful, he knows this. He will have worth as long as he can protect his allies and defeat his enemies. The fear passes... a fang from the amulet around his neck fades.
+
+ R - use Hydra Charm to reroll Frightened saving throw (save)
+Flow (Tjolanta) — 5/20/2025 1:40 PM
+Flow watches as her previous target flies past above her. Quickly she spins around to find another target, and her eyes fixates on the fiend next to Don. Springing to action she lunge at them with her rapier, flourishly hitting three times in quick succession.
+
+Squinting she considers the crowd sheering for Grimald. With a smirk she continues her movement by flying up in the air, to catch the attention from the audience. Before anybody has a chance to see what happens, an apple (that she just happened to have saved in her pocket) is flying through the air above her head, rapidly followed by her knife piercing it above her head. For a second forgetting the deadly fight and just grinning at the cheap and silly move.
+
+Movement: -> X16 ->  10ft up -> 5ft up
+Action: Rapier at 1night (hit, hit, hit)
+Bonus Action: Flair SoH 20 (dc 17) 
+Kayliana (Ryan) — 5/20/2025 1:56 PM
+The crowd bursts into laughter and applause at Flow’s unexpected trick, which clearly is winning them over.
+
+Flair Check: Success (2 total)
+Galwen (Ari)
+[NDND]
+ — 5/20/2025 10:31 PM
+Galwen hates what she's doing. But it's for their own good. She fires an arrow at the Pit Fiend distracted by the huge Defender, but even she realizes it was lacking in oomph.
+
+She inwardly sighs as she dives forward through several walls of flames, using her evasive skills to prevent fiery damage.
+
+She twists in the air for her silvery wings to cloak her and emerges from the other side of the fire.
+
+"Keep your wits about you... You'll never know where we come from!"
+
+And she dives back through the flames, just to prove her point. Not before nocking another arrow for a chance to strike again.
+
+HA: Sharpshooter Longbow Sneak Attack at 1Pit (hit)
+BA: Flair (Stealth 24)
+Action: Hold Sharpshooter Longbow Sneak Attack on 1Pit when they bonk my friends
+Kayliana (Ryan) — 5/21/2025 4:22 AM
+The arena crowd loves Galwen’s antics as she dives in and out of the flames, disappearing and re-appearing all over the map.
+
+Flair Check Success: 3 total
+
+The pit fiend in the south raises his mace high in the air and slams it into the ground. A fiery portal opens up, and a lithe erinyes devil swoops out and hovers high above the center of the battlefield.
+
+“Kill the weak,” the pit fiend commands, and the erinyes nods and aims her longbow at Rhys, who appears to be the most wounded. Three painful arrows lodge into Rhys’ torso, pushing him to within an inch of his life.
+
+2Pit: Summon Erinyes, Move 60’N
+Erinyes: 3x Longbow vs Rhys (all hit) 
+Rhys (Ban) — 5/21/2025 6:36 AM
+One of the medals on Rhys armoe bursts with arcane energy and deflects all of the Erinyes' arrows. He then cleaves his greatsword into the pit fiend befofe radiant and necrotic energy surges into the wound to further its impact.
+
+Reaction: Medal of the horizonback against Erinyes attacks (all miss)
+Action: 2x delerium greatsword at 1pit (miss and hit, lvl 4 smite and blood fury, heal 8)
+BA: Blessing of the Raven Queen 
+Kayliana (Ryan) — 5/21/2025 7:07 AM
+The pit fiend curses in a foul tongue as Rhys attacks relentlessly. The devil releases a fireball that explodes nearby, singeing Grimald and many other Defenders.
+
+1pit: Cast Fireball vs Grimald, Rhys, Don (fail), Flow, Gaer, (pass) 
+Kayliana (Ryan) — 5/21/2025 7:24 AM
+The narzugon and its nightmare fly straight into the middle of the fray, and the hellish mount delivers a powerful kick straight to Don’s temples that knocks the wizard out cold. 
+
+The devil then lets loose an unearthly shriek that sends shivers of terror down the Defenders’ spines. It attempts to skewer Rhys with its lance, stabbing him twice but missing with the final killing blow when the paladin somehow rolls out of the way.
+
+2night: Move 35’SW, Hooves vs Don (crit)
+2nar: Terrifying command vs all (Grim, Galwen, Flow, Gaer fail, others pass), 3x Hellfire Lance vs Rhys (2 hits) 
+“What a show!! What a performance! Tell me, my friends, have you ever seen anything like this in your wildest dreams?” Mister Ghastly calls out to the crowd.
+
+They cheer their approval, but there are scattered cries for “MORE! MORE! MORE!” as well as a few more shouts for “GHASTLY, GHASTLY”…
+
+It seems the crowd is well entertained, but their bloodlust is far from sated.
+
+CROWD MOOD: 0 (Neutral)
+Grimald (gophren) — 5/21/2025 10:40 AM
+"Siiigh... Ghastly, friend, listen to the voice of the crowd... they want you here, not these fiends..."
+
+Grimald drinks a potion then finishes the nearby pit fiend with a strike.
+He lands near it and tries to strike a pose, but he trips on the still moving body
+
+BA: Potion of Heroism
+Hasted A: DBS attack at 1pit (kill with Trip Attack)
+A: Flair Athletics check (fail) 
+Kayliana (Ryan) — 5/21/2025 2:34 PM
+Grimald makes an impressive kill, tripping the pit fiend and slashing it with his crystal scimitar with one graceful maneuver.
+
+He then tries to show off his athletic prowess to the crowd to seal their approval, but unfortunately he slips on a pile of pit fiend entrails and nearly falls on his face.  The crowd laughs and boos at the failed attempt.
+
+Flair Check: Fail (currently -1) 
+Rhys (Ban) — 5/21/2025 2:39 PM
+Rhys' medal on his armor flashes before a magical barrier deflects the fiend's incoming attack.
+
+Reaction: Medal of the horizonback against 2nar's 2nd hit 
+Gaermok Squareblock (Hunter) — 5/21/2025 6:12 PM
+Gaermok watched Grimald tear apart the winged fiend in front of him, then without any reaction, turned around to face the fiends on the flying horses. Not usually (never) the brightest one in the room, he still knew that flying enemies are a pain to deal with.
+
+"Sorry about horses. Also not sorry. Think that's how phrase goes."
+
+Gaermok wasted no more time, lunging out and grabbing one of the Nightmares by its leg and yanking it clear out from under the rider. The fiend fell to the ground and Gaermok held the horse up in the air for a second.
+
+"Call this game Mace Ball! Swing axe like mace and hit enemy like ball. Enemy not usually reusable in game."
+
+His massive arm hurls the Nightmare into the air in front of him, grabs his greataxe at the base with both hands, then swings wildly at the Nightmare as it descends in front of him.
+
+A loud crack echoes from the beast as Gaermok sends it sailing off towards the crowd, the only thing stopping it being the force field.
+
+"Can get more than one swing if more enemies ready to be balls!"
+
+The other Nightmare is grabbed in the same manner, sending the rider tumbling and ending up as another solid smack into the stands, which is actually again just the force field.
+
+"This all for now. Next balls will be riders! Keep watching Mace Ball!"
+
+An errant swing, meant more to let the fiend know it was next, ends the first inning of Mace Ball.
+
+A - reckless attack on 1Nightmare (hit☠️) 2Nightmare (hit☠️)
+HA - reckless attack on 1Narzugon (miss on purpose of course)
+B - Athletics Flair (33) 
+Kayliana (Ryan) — 5/21/2025 7:23 PM
+"MACE BALL!  MACE BALL!" the crowd goes wild for Gaermok's unbelievable performance.  They rise up and begin clapping and stomping their feet, shaking the very ground of the arena.  Clearly, this epic feat of strength and bravado has turned the crowd around.
+
+The nightmares vanish in a burst of embers as they slam into the forcefield. One of the narzugons tumbles out of the air and lands on his back in the sand, while the other narzugon deflty lands in a three point stance, its eyes burning with rage at Gaermok's annihilation of their mounts.
+
+Flair Check Critical Success: +2 (Total of +1)
+2nar: Fall 10', Prone
+1nar: Reaction to avoid Prone 
+Don Explodicus (sfollac) — 5/21/2025 10:09 PM
+When you are fighting against the odds and the public opinion is against you, you have to make your own fortune. Don is unable to do much to impress the crowds, so he commands his simulacrus, giving him precise instructions in Orcish. The simulacrus responds by reciting a prayer to the God of War Gruumsh, blessing the defenders with a red and warm aura of bloodlust.
+
+"This will work... for a bit." Don is aware that the simulacrus is unlikely to last long in a battle of this scale. But at least, it will give them some time to appease the crowd.
+
+Don himself does not waste time staying idle. He teleports himself out of harm's way, then he conjures a blast of electrical energy that the fiends are unable to deflect. He is pleased to observe that the damage done to the monsters is mostly unmitigated - he was worried that fiends of this rank would be resistant to this type of energy, but it seems that it is not the case today.
+
+BA Misty Step
+A Chain Lightning 
+Simulacrus
+M 20E , 20W
+A bless Don, Flow, Sim, Gaermok, Rhys
+BA healing word Don
+Gaermok Squareblock (Hunter) — 5/22/2025 12:41 AM
+Gaermok hears his orcish brethren shouting from close by, something about an axe-shaped opening in the defenses of the former black horse rider. He shrugs and looks for something shaped like his axe, but sees nothing. Maybe Don is telling him to MAKE an axe-shaped opening? That he could do! One deep gouge later and there is indeed an axe-shaped opening in the fiend's armor.
+
+R - VoA attack on 2Nar (hit)
+Kayliana (Ryan) — 5/22/2025 1:11 AM
+Blinded by rage, one of the narzugons lashes out at Gaermok with its lance for killing its precious nightmare mount. But its attacks are slow and unwieldy, and only one seems to strike a glancing blow on the barbarian’s broad chest.
+
+1nar: 3x Lance vs Gaer (1 hit)
+Flow (Tjolanta) — 5/22/2025 3:15 PM
+Flow just stares at the hellish knights, or whatever they are, trying desperately to gather her thoughts. Her back arched and her tail thick. Then she raises her arm up, seemingly towards them, and screams. And as she does so something dissolves from her arm and surrounds her. Only for a split second, before it disappears into her body, and her posture changes. Lower, relaxed but strung at the same time. Still staring at the one in front of her but now without fear.
+
+Then she takes off. Down on the ground. But as soon as her feet touch the ground she leaps towards them. Right in front of them she jumps. Leaping up on her left foot only, turning mid air to spin her right foot in position. And just before it is too late she kicks them hard. Right in the head. And as the visir of their helmet flings open she turns downward with her upper body and follow the motion with her rapier in her right arm. Finding the perfect spot right in their face. And then she is back on her feet. Panting, growling, with teeth showing.
+
+Action: Activate Spellwrought tattoo Heroism
+Hasted Action: Rapier at 1nar (hit)
+Bonus Action: Athletics Flair (29) 
+Kayliana (Ryan) — 5/22/2025 4:41 PM
+Such athleticism! Such panache! The audience cheers wildly with bloodthirsty enthusiasm at Flow’s impressive moves.
+
+Flair check success: Total +2 
+Galwen (Ari)
+[NDND]
+ — 5/22/2025 10:30 PM
+Galwen hates the roaring of the crowd. Her well-trained ears are more than overwhelmed in the crowded arena, and the supernatural fear she feels just shakes her to her core.
+
+But she's nothing if not stubborn. She closes her eyes and takes a breath, regaining her composure. She unslings her bow with a flourish and highly complex but seriously unnecessary maneuvering, flipping and spinning her arrow before nocking it.
+
+She draws the bow back, holding it for only a second to aim, and loses it to the Narzugon by Flow.
+
+The arrow nearly topples the fiend over as she flashily flips her bow around and showing extreme dexterity to keep control over the long weapon. But the supernatural fear still keeps hold.
+
+BA: Steady Aim
+HA: Sharpshooter Longbow Sneak Attack on 1Nar (hit)
+Action: Flair (Sleight of Hand 24)
+End of Turn: Fail Frightened save
+Kayliana (Ryan) — 5/22/2025 11:20 PM
+Galwen may not love the crowd, but the crowd loves HER.  They go crazy as she flips and spins her bow and arrow, showcasing her sheer dexterity and mastery of the weapons.
+
+Flair Check Success: Total +3
+Galwen (Ari)
+[NDND]
+ — 5/22/2025 11:57 PM
+"Stop right there!"
+
+She winces as the inky sliver from her arm causes the attack to deflect slightly. But the twin of the orc is still standing? She thinks? She has no idea what to think of Simulacrus.
+
+Reaction: Silvery Barbs 
+Kayliana (Ryan) — 5/23/2025 12:14 AM
+The pit fiend snarls and lobs another fireball at the mages hiding in the corner, scorching Don, Rhys and Simulacrus. Rhys avoids most of the damage and Don’s contingency triggers and he stays on his feet. The devil runs north to face down Gaermok and Grimald.
+
+Meanwhile, the Erinyes fires her longbow at Rhys who easily deflects the shot. With a sneer, she changes targets and instead aims for the simulacrum in the far west of the arena. With two well-placed shots, she mortally wounds the construct, who relies on their relentless endurance to stay alive.
+
+2pit: Fireball vs Rhys (pass), Don (fail), Simu (fail)
+Erinyes: Longbow vs Rhys (miss), 2x vs Simu (hit, crit turned to regular hit) 
+Rhys (Ban) — 5/23/2025 8:09 AM
+With a flourish Rhys cuts down the nearby fiend with a slash that lands a critical wound as he activates his tattoo to absorb the fading life of the enemy.
+
+Rhys then rushes up to the last pit fiend, cleaves into it twice, and then infuses both necrotic and radiant energy into the attacks as his tattoo flashes twice and heals him even further.
+
+Action: Delerium Greatsword at 2nar (crit, blood fury and dead), 2pit (hit, lvl 4 smite, blood fury)
+BA: GWM Crit attack at 2pit (hit, lvl 2 smite, blood fury) 
+Kayliana (Ryan) — 5/23/2025 2:30 PM
+“Did I not promise you the show of a lifetime, friends? The show of your drrams?!” Mister Ghastly says to the crowd.
+
+“FEEL the wrath of these combatants. SEE the carnage and bloodshed. These Defenders have survived longer than most… might this finally be the group to be crowned Victors of the Games??” You hear the fanfare of trumpets and an image of an enormous platinum medallion suddenly appears in the sky above the arena, spinning slowly and reflecting the flames on its platinum surface.
+
+As the image slowly fades , the spectators clamor for more of the bloody spectacle. Some of them cheer for the Defenders, others for the current underdog devils to make a comeback, and a growing chorus of fans who keep calling for Ghastly himself to enter the fray.
+
+Crowd Mood: 0 (neutral)
+Flair Check: DC 21 (max) 
+Don Explodicus (sfollac) — 5/23/2025 3:09 PM
+As it gets hit by fireballs, arrows, and all sort of things, the Simulacrus does not spill blood. Instead, it becomes paler, and starts losing consistence. The spectators standing in the west part of the arena, close to where the Simulacrus is located at the moment, may have the impression that it is evaporating, like snow melting in the sun.
+
+In fact, the Simulacrus is made from snow, which is one of the main components of the spell. Like the material it is created from, it is not made to last long. The damage made by the enemy blows cannot be repaired - once the snow is gone, it cannot be replaced. Does the Simulacrus feel pain, though, as its material body disappears? It is difficult to tell if that is the case, but it is clear that the creature is trying its best to remain on the battlefield. He conjures a shield to protect himself from the fireball, than he stands up after an arrow breaks part of this shoulder.
+
+R (simulacrus) absorb elements. Relentless Endurance. 
+Grimald (gophren) — 5/23/2025 4:04 PM
+Grimald looks at the other pit fiend that charged at him, and spits at him, casting Hex with a rising voice, as raven-black mist spirals toward the pit fiend.
+
+"By the Raven Queen’s eternal decree, I bind thee, vile spawn of the Hells!" he proclaims, his tone a theatrical crescendo of menace and majesty. 
+"Tremble as your mighty sinews crumble, your once-unyielding strength drained like a guttered candle in the abyss! Let your brawn betray you, falter beneath my curse, and bow before the might of the Defenders!—by this Hex, your power is mine to sap!" 
+
+The mist coils around the fiend’s arms, targeting its Strength.
+
+With a the enhanced speed granted by the potion he drank before, Grimald unleashes a flurry of strikes with his Crystal Double-Bladed Scimitar, the blade gleaming as it carves into the fiend. He slashes thrice, bringing the fiend down, unable to whistand the onslaught.
+
+Observing the battlefield, the the strides toward the remaining Narzugon, impaling his blade between the shoulders of the fiend, killing it. Pausing with a dramatic flourish, he turns toward Mister Ghastly’s platform, a sly grin on his lips. 
+
+"Oh, Ghastly, still perched so high above the action? Surely a host of your caliber wouldn’t shy from joining us in this fiery spectacle—unless the flames are too warm for your taste? The people wish you would join us here!"
+
+BA: Hex on 2pit
+A: DBS attacks at 2pit (hit, miss, kill)
+M: 35 ft. in melee with 1nar
+Hasted A: DBS attack at 1nar (kill) 
+Gaermok Squareblock (Hunter) — 5/23/2025 8:44 PM
+Gaermok looks around for any remaining foes, only spotting the flying she-devil with the bow. Flying enemies is not good. She needs to come down.
+
+He tromps over to beneath her and shouts, even though she's only maybe fifteen feet away at this point.
+
+"HEY. Gotta make you not so high up. Sorry not personal. Just last one left."
+
+He reached out with a massive hand and grabs the erinyes by the leg, dragging her out of the air and down to the ground in front of him. Without waiting for a reaction, he grips his greataxe with both hands and tears into the fiend, leaving her with several deep wounds.
+
+Move 40
+B - use Mighty Impel on Erin (fail)
+Move Erin 30down
+A - reckless attack Erin with greataxe (hit hit)
+HA - reckless attack Erin with greataxe (hit)
+Don Explodicus (sfollac) — 5/23/2025 9:19 PM
+Don has never been good at entertaining people. He looks at the crowd and wonders how to impress them. Maybe he could say something insightful. Or analyze them psychologically. Well, it sure is difficult.
+
+In the end, he opts for doing what he knows best - blasting enemies with magic missiles and other spells. This is effective, and the Erin drops down from the  fight.
+
+The Simulacrus, in a corner, tries its best to avoid melting. He raises a barrier around himself, and an healing word for his counterpart.
+
+A Magic Missile Erin
+BA crowd of star Erin (hit, kill)
+Simulacrus
+A False life
+BA healing word Don 
+Kayliana (Ryan) — 5/24/2025 12:38 AM
+When the last fiend falls, a hush falls over the stunned crowd for a few seconds... and then they explode in a deafening cheer.  You can barely make out some of their cries:
+
+"GAL-WEN!  GAL-WEN!  (Do the thing with the arrow!!)"
+
+"GO, DON! BLOW 'EM UP!!  GO, DON!  BLOW 'EM UP..."
+
+"oooOOOHHHH RHYS!!  SMITE! SMITE! SMITE! SMITE!!"
+
+"When I say GRIM... you say ALD!  GRIM! (Ald!) GRIM! (Ald!)... You can knock me prone any day, Grim!!"
+
+"KILL 'EM ALL, FLOW!  SNEAK ATTACK MORE APPLES!!"
+
+"WHAT DO WE WANT? (MACE BALL!) WHEN DO WE WANT IT? (NOW!!!)" 
+Kayliana (Ryan) — 5/24/2025 2:34 AM
+Mister Ghastly stands and begins a slow clap. His voice echoes throughout the arena, drowning out all others.
+
+"MY, MY, WHAT A PERFORMANCE!!  Distinguished guests... from every corner of the multiverse you have come, bearing witness to this SPECTACLE FOR THE AGES!  In spite of all odds, this group of brave souls has done what some have said to be impossible... survived beyond Round Two of the Tournament of Champions!"
+
+Ghastly lets this sink in for a moment before continuing.
+
+"But it is not yet over... oh no, I have saved the best for last!  BEHOLD!!"
+
+He snaps his fingers, and the arena is plunged into darkness.  An icy chill descends upon you, at first a welcome relief from the raging flames, but soon the cold bites and gnaws at your skin. The four colossal braziers in the corners ignite with an eerie blue glow as magical balls of pure cold energy materialize above them, emitting shards of ice and frost that drift away like frozen embers in the wind.
+
+Then you hear a deep, cracking, thundering sound like the onset of an avalanche.  The sand beneath your feet begins to ice over and form a slick, glazed surface.  From the eastern gate of the arena, an enormous white dragon emerges with a terrifying roar. Its eyes glow blue like icy flames, hoarfrost clings to its jagged white scales, and wind and snow whip around its body in frozen flurries.
+
+A spectral frost giant hovers next to the dragon and brandishes a massive ice axe. The ghostly giant is dwarfed by the dragon, but it snarls and takes up a defensive posture as if protecting the ancient wyrm.
+
+Mister Ghastly's voice rings out once more:
+
+"FROM THE FROZEN SEAS OF STYGIA... UNLEASHED UPON THIS PLANE FOR THE FIRST TIME IN MILLENNIA... 
+
+I PRESENT TO YOU THE LORD OF ICE... THE FROZEN RUIN... THE MIGHTY AND TERRIBLE...
+
+DURIXAVIINOX!!!" 
+Kayliana (Ryan) — 5/24/2025 3:22 AM
+The trumpets sound and the crowd cheers once more, but your taunts and challenges seem to have had an effect.  The shouts and cries of the spectators begin to coalesce into a single phrase:
+
+"GHASTLY... GHASTLY... GHASTLY... GHASTLY..."
+
+It is as if the entire colosseum is now goading Mister Ghastly into joining the battle.  The chant grows louder, shaking the walls of the arena and sending spider-web cracks throughout the ice beneath your feet. Mister Ghastly continues to smile his creepy smile, but even he covers his ears at the rising din.
+
+"GHASTLY!!! GHASTLY!!! GHAST-"
+
+"ENOUGH!!!" Mister Ghastly screams, and the crowd goes instantly silent.  Not just quieted down... you look around and in the dim, blue light realize with horror that the entire audience is suddenly fast asleep.  The creatures of all shapes and sizes are slumped over the seats and one another, which you might mistake for death were it not for the slow rising and falling of their chests as they breathe.  The only sounds you hear are the guttural growls of Durixaviinox and the frost giant, who stare at you transfixed as if unaware of anything else in the arena.
+
+"Ah... that's much better," Mister Ghastly sighs, removing his hands from his ears. "Now that we can talk in private, may I be candid with you for a moment?"
+
+You stare back at the impish man, dumbfounded.  He adjusts his cravat and continues.
+
+"You Defenders are a most impressive bunch, I will grant you that.  That was quite magnificent how you handled that first wave... but I frankly did not expect you to survive this long.  No other group has, in the history of my Tournament.  You see these creatures?" he says, gesturing broadly to the sleeping masses. "These pathetic, drooling buffoons?  This is all for THEM.  We are in THEIR collective dream, don't you see?  I delight in infiltrating willing minds and... shall we say, ENCOURAGING their baser instincts as they sleep.
+
+Haven't you ever woken from a slumber in a foul mood?  MY Tournament ensures that every single one of these cretins will awaken with a lust for blood and violence.  Perhaps they will take it out savagely on a friend or loved one... perhaps they will start a war. So long as I can continue to foment hatred and cruelty throughout creation, I shall continue to present this Tournament to them and give them the bloody climax that their dark hearts desperately desire.
+
+So let me put this in simple terms that I think even you will understand. 
+
+You are not here to win.  This is a bullfight... and you are the bull." 
+Kayliana (Ryan) — 5/24/2025 4:34 AM
+Mister Ghastly straightens up and widens his smile.
+
+"I shall indulge these idiots and join the fray, but not on their account. I intend to personally ensure that each and every one of you comes to such a grisly demise that those who witness it shall awaken and unleash a wave of chaos and violence the likes of which have never before been seen.
+
+And these trophies?" he says, pointing to the platinum victors' medallions. "These are just for show. A nightmare does not have a happy ending.  The bull can never win. 
+
+Now then... on with the show."
+Kayliana (Ryan) — 5/24/2025 4:57 AM
+Ghastly snaps his fingers, and the crowd awakens with a jolt, going right back to their chanting. The little man raises his hands as if surrendering, and laughs as he responds.
+
+"Alright!  Alright, my dearest friends... I hear your wishes, and I exist only to fulfill them. I accept your challenge.  I, your humble servant, Mister Ghastly... shall join the battle for the grand finale."
+
+The audience goes berserk with excitement, their mouths frothing with bloodlust and anticipation.  Ghastly steps forward, his body becoming translucent as he floats over your heads and crosses to the far side of the arena.
+
+As he slowly descends and passes through the barrier that surrounds the battlefield, his grin grows wider and wider, splitting his cheeks and dislocating his jaw like a snake preparing to consume its prey. The smile somehow grows even wider, until Ghastly's entire head is separated and the upper portion of his skull flops backward.  From his neck emerges a writhing, unspeakable horror with multiple tentacles, each bearing an unblinking eye at its tip.  A singular multi-colored central eye coalesces from the hideous mass, which seems to shimmer and fade like a shadow.
+
+A voice pierces your mind and echoes, deep and sonorous.
+
+"It has been too long since I have taken my true form. Now the real fun begins." 
+Flow (Tjolanta) — 5/24/2025 2:23 PM
+For a split second Flow is pleased so see all opponents die. Though she is not really surprised when a dragon and a giant enters the arena. Ghastly is another thing. She knew they where supposed to take care of them too. That form that came out of their head (!?!?!), whatever it was supposed to be, that was somewhat unexpected.
+
+With a low growl she flies up, as the ground below her turns to ice, and she takes off towards the new arrivals. Rushing forward through the air. Instantly lunging at the giant. Then hanging there, a few feet above the ground, surprisingly accustomed to hovering. Prepared for whatever might come. Squinting at the giant, and the dragon who is towering up behinde them. Looking utterly displeased about this whole situation.
+
+Dex save: Success
+Movement: Y16 -> AU15 , 5ft up
+Bonus Action: Dash
+Action: Rapier at Giant (hit, hit, hit) 
+Kayliana (Ryan) — 5/24/2025 4:01 PM
+Durixaviinox looks over at Flow disdainfully as she stabs at the frost giant. With a flick of one huge talon, Flow is instantly incased in a block of ice which begins to crush her.
+
+The ancient wyrm then sets its sights on the rest of it prey. Advancing confidently, unhindered by the icy surface, it comes face to face with Gaermok.
+
+“You shall make a fine meal, barbarian. Too long have I supped on bitter devil flesh,” the dragon says, smiling. Its breath stings Gaermok’s eyes and face with pure, bitter cold.*
+
+Durixaviinox inhales deeply and blasts a stream of arctic ice across Gaermok, Rhys, Don, and Simulacrum. The construct is disintegrated by the attack, and both Rhys and Gaermok find their joints frozen in place.
+
+Meanwhile, the frost giant takes advantage of Flow’s predicament, slashing her twice cruelly with its ice axes while the tabaxi is stuck helplessly in the ice.
+
+Durix: BA Icy Grip vs Flow (fail), Numbing Breath vs Simu (fail), Don (pass), Rhys & Gaermok (fail)
+Frost Giant: 2x Ice Axe vs Flow (both hit) 
+Kayliana (Ryan) — 5/24/2025 4:15 PM
+As Galwen flies away, Durix snaps his jaws around her legs in a painful bite that numbs her senses.
+
+Reaction AOO: Bite vs Galwen (hit)
+Galwen (Ari)
+[NDND]
+ — 5/24/2025 4:28 PM
+The crowd work of Mr. Ghastly is impressive. It almost reminds her of home.
+
+She exhales. This might be her end, so might as well make a spectacle out of it.
+
+"Excuse me! I am no bull. I am of highland ruminant descent at least if you were to make analogies!"
+
+She locks eyes with Ghastly, her extremely trained senses already finding exactly where to hit next... Once the dragon is taken care of. A quick shot to the dragon is released, and she narrows her eyes as the projectile doesn't stick in as far as she wanted. Perhaps all that frost keeps the ranged attacks away.
+
+She makes a very quick exit. She's not good so close and personal, especially with some huge orc right next to them.
+
+Though she feels the bite on her calf, that doesn't stop her from making a dramatic flight across the arena, as much as her hasted, longstrided wings of flying speed can cover. Even in the short time she spends moving, she moves with a bit of recklessness and carelessness... At first glance, that is. She kicks off some ice crystals from her leg, causing them to fall in her flight path. She makes a maneuver to also launch feathers from her silvery cloak, further obstructing the path.
+
+But she's surprisingly trained for this. With blinding speed, she moves to catch every. Single. One.
+
+Split second maneuvering to get two falling objects, contorting her body to reach, splaying her limbs to keep her flight balance, this improvised and impromptu trick almost looks rehearsed by how seamless it is. She doesn't even let her frozen leg stop her from attempting ridiculous poses.
+
+She ends her victory lap at an area that's hopefully clear. And she turns to Ghastly again.
+
+"Just how well do you know all these people, organizer?"
+
+BA: Insightful Fighting at Ghastly (fail)
+HA: Sharpshooter Longbow Sneak Attack on Durixaviinox (hit, resistant)
+Action: Flair (Acrobatics, 32)
+Don Explodicus (sfollac) — 5/24/2025 4:30 PM
+Don reacts swiftly to the dragon breath, conjuring a shield of magical energy to absorb the damage.
+However... it doesn't work this time. The force of the dragon is too strong, even for Don's magic. Damn.
+
+The simulacrus is even less lucky. When the wave of ice finishes, the simulacrum is no more... Just a big, smiling snowman, with a carrot as nose, and two pebbles as eyes.
+
+R Absorb element 
+Kayliana (Ryan) — 5/24/2025 4:31 PM
+When Galwen’s arrow strikes the dragon’s hide, you notice the frost giant suddenly glow brightly for a moment, and the arrow seems to do less damage than usual.
+
+Still, the tournament audience cheers as Galwen does her acrobatic maneuvers in the air. Clearly they love her antics.
+
+Flair Check Success: 1 Total 
+Kayliana (Ryan) — 5/25/2025 12:37 AM
+“Oh, I think I know these creatures better than they know themselves, Galwen Mannadil,” Ghastly replies telepathically. “For I know their innermost dreams and desires.  Much like yours, if I recall, back when you cried yourself to sleep because nobody in Aistequen paid any attention to poor little Galwen.”
+
+As he speaks, Ghastly’s body shimmers and splits into three separate, identical  forms, now each speaking in perfect unison.
+
+“Are you enjoying the attention now, dear? Your family may have ignored you, but these homicidal fans simply RAVE about you.”
+
+Legendary Action: Mirror Form 
+Kayliana (Ryan) — 5/25/2025 3:34 AM
+Ghastly’s three forms begins firing eye rays seemingly at random. The first strikes Flow and the tabaxi’s mind is suddenly befuddled. Grimald is similarly struck by a ray that overwhelms his senses with psychic energy, slowing his reflexes. Other Defenders are able to dodge out the way of the rays or otherwise resist their effects.
+
+However, after the cascade of rays ceases, the three central eyes all open wide, revealing a spinning, chaotic void within that spirals outward and encompasses all the heroes except Flow. 
+
+Within this area, you are each assailed with your own personal nightmare. A cacophony of sounds and images that represent your worst fears made real surround you. 
+
+Most of the heroes clutch their skulls and close their eyes tightly, willing themselves to resist these horrors, but Gaermok and Grimald are completely convinced that these images are real, and they are rooted to the ground, quaking with fear.
+
+Ghastly: Eye Rays vs Galwen (pass), Flow (fail Confusion), Grimald (fail Static Ray), Rhys (pass x2). Phantasmal Cone vs all but Flow (Gaermok and Grimald fail) 
+Galwen (Ari)
+[NDND]
+ — 5/25/2025 4:00 AM
+She feels the mental bombardment, but court is not for the weak-willed.
+
+"I'm better than someone who falls for your provocations. I won't let you get into my head."
+
+She tries to maintain a degree of calm as her comrades are ravaged by the arena ground. Showing fear would be just what they wanted. She wasn't going to continue feeding them more than she already has.
+
+"You want to play with us, yes? That's why you decided to join the fray. You're bored of watching this whole time. Our group is the first that excited you in a while, instead of them. Why don't you show your own skills to turn them against me?"
+
+Free Persuasion: 13 
+Kayliana (Ryan) — 5/25/2025 5:17 AM
+The three giant eyes all roll simultaneously at Galwen’s pathetic attempt to psychoanalyze and taunt this ancient being.
+
+“Stick to twirling your arrows, Galwen. I am starting to see why your family ignored you,” he replies diffidently. 
+Rhys (Ban) — 5/25/2025 5:40 AM
+ph
+
+Move+BA: Z10 to AF17 (blessing of Raven Queen teleport)
+Action: 2x delerium at Durix (hit and lvl 1 smite, miss)
+Kayliana (Ryan) — 5/25/2025 6:12 AM
+Durixaviinox roars savagely as Rhys smites him with the ruidium greatsword. Again, the frost giant glows brightly in response to the attacks, and the blade seems to do a less damage. 
+
+However, the injury puts Durix into a rage. The dragon unleashes a burst of cold air that slams into Rhys and Gaermok. The barbarian is able to duck and avoid the brunt of the damage, but Rhys is pelted by freezing ice and hail.
+
+Durix Reaction: Withering Frost vs Rhys (fail) and Gaermok (pass) 
+Kayliana (Ryan) — 5/25/2025 6:20 AM
+With Mister Ghastly now in the fight, the mood of the crowd has shifted against the Defenders and turned even uglier. Now they cheer as the dragon blasts the Defenders with ice and snow, the frost giant slashes Flow with its axe, and Ghastly fires muticolored eye rays all over the arena. Their chanting continues:
+
+“GHASTLY!! GHASTLY!! GHASTLY!! (Murder them!) (Make it painful!)”
+
+Durixaviinox and the frost giant look up at the crowd and smile evilly, clearly gaining inspiration from the audience’s favor.
+
+Crowd Mood: -1 (Enemies are Blessed), Flair Check DC 21
+Grimald (gophren) — 5/25/2025 10:45 AM
+"Oh Ghastly, but you're so naughty!"
+
+Grimald teleports away and to a side, then taps thrice his crown and points at the three images of the so called master of ceremonies. A storm of ice and hail hits them, but not making the impact that Grimald hoped it would do
+
+He gulps down a healing potion and braces for the things to come his way
+
+BA: Blessing of the Raven Queen teleport 30 ft. E and away from Ghastly
+A: Whirling Hail from Crown of Whirling Comets at 1Ghastly, 2Ghastly, 3Ghastly
+Hasted A: Potion of Greater Healing 
+Gaermok Squareblock (Hunter) — 5/25/2025 3:36 PM
+Gaermok feels the ground beneath his feet ice up, but he manages to keep his balance. After crunching another potion in his jaws, he stares at the dragon with a curious face, gripping his greataxe tightly before raising it to show Durix.
+
+"Know where this from? Same place you are. So when it hurts you, is like feeling like home. Hooray for home!"
+
+He leans back with the greataxe and swings with his full force at Durix. The first shot rips a massive chunk of scales from the dragon's torso, though not as many as Gaermok expected. The next two feel like hitting hard dirt, but he still shatters more scales.
+
+Save vs Prone
+B - drink potion of Heroism
+HA - reckless attack Durix (crit!)
+A - reckless attack Durix with greataxe (hit hit)
+Save vs Frightened
+Kayliana (Ryan) — 5/25/2025 4:36 PM
+As the storm of ice pelts the Ghastlies, it becomes apparent that the hail is passing through two of them harmlessly, revealing them to be illusions. 
+
+All others except for the Ghastly on the right disappear.
+
+“Clever, Grimald, I shall grant you that,” Ghastly says with low chuckle.
+
+Ghastly fires a single eye ray at Grimald, turning his body incorporeal and blasting him backward until he is partially merged with the stone arena wall. Grimald then re-materializes inside the wall, causing excruciating pain as he is forced out of the solid material.
+
+The spectators lucky enough to have a front row seat in this area are delighted by his screams.
+
+1Ghastly/2Ghastly revealed as illusions
+Ghastly LA: Incorporeal Shunt Ray vs Grimald (fail, pushed 30’N) 
+Don Explodicus (sfollac) — 5/25/2025 11:46 PM
+The ground is slippery, and Don is the first to lose balance and fall prone into the icy ground. 
+
+Remaining prone, Don looks back to where his simulacrus was, just a few seconds ago. Now, only a smiling snowman remain, with his carrot nose and sticky hand. Witnessing the destruction of his simulacrus is a weird experience for Don - almost like witnessing his own destruction. 
+
+The battle is not going well, but the wizard can buy a bit of time to the group. He raises his staff, conjures a magical incantation, and the dragon is gone, banned to another nightmare dimension, where it will not be able to harm the defenders, at least for a short while. 
+
+M 20SE 
+A Maze Durix
+BA heal don
+Kayliana (Ryan) — 5/26/2025 12:31 AM
+"Now that wasn't very sporting of you, Don Explodicus," Ghastly says, waggling one tentacle like a finger.  The tentacle suddenly points at Don and a violet ray bursts forth, bathing Don in the light.
+
+Don's formidable mind is suddenly overcome with terror as all of his worst fears appear around him and smother him.  The mage collapses in the ice, knocked unconscious by the psychic assault.
+
+LA: Nightmare Ray vs Don (pass, unconscious)
+Kayliana (Ryan) — 5/26/2025 12:40 AM
+"And to the rest of you... how well do you know the innermost hearts of these so-called friends of yours?  I have seen their darkest dreams.  Let me show you," Ghastly says, and the whole arena is suddenly turned pitch black.  After a moment, the ghostly blue lights of the frozen braziers return, but now Flow, Galwen, and Grimald look around and all they see are monsters - including one another. Their allies are gone, and they were the only ones to survive - according to their warped minds.  All of these other creatures must be destroyed.
+
+The other Defenders blink their eyes and clear their vision and are able to see straight, but when they look at the the ones who were affected, they can clearly see the murderous intent in their eyes.
+
+Lair Action: Forgetful Friend (Flow, Grimald, Galwen fail - cannot distinguish friend from foe until Lair Action on Init count 20 next round)
+Flow (Tjolanta) — 5/26/2025 7:53 AM
+Totally struck in the ice Flow somehow manages to squirm around, and the giants axe does not hit as bad as it might have.
+
+Reaction: Uncanny dodge
+
+But the fact remains: Flow cannot move. The freezing ice holds her firm. Though that does not matter that much anyway, For some reason she cannot seem to grasp what is going on. It does not get any better when she suddenly realize that she is the only one left in an arena filled with monsters. With murderous conviction she stares at what she has against her. At least she is not frightened.
+
+Restrained
+Confused: No actions and no movement (as if she could anyway...) 
+Kayliana (Ryan) — 5/26/2025 2:36 PM
+Durixaviinox pops back into the arena as soon as Don goes unconscious, and the dragon is apoplectic. It whips is head back and forth, scanning the arena as it roars:
+
+“WHERE IS THE ONE THAT DID THIS TO ME?? I shall hang your entrails from my lair like icicles for your insolence, you…” 
+
+Finally, it spots the unmoving form of Don in the distance. He makes a loud HRUMPH sound and blasts a cloud of frozen mist from his nostrils before shifting his rage to the biggest target before him: Gaermok. 
+
+The ancient wyrm bites savagely at the barbarian, bolstered by the crowd’s cheers. He follows up with a mighty swipe of his claws that rakes across Gaermok’s throat and sends him sliding away across the ice. Durixaviinox seems a bit surprised that his victim is still alive, so it moves closer to him to finish the job with one final slash of his razor-sharp icy talons. The wound would cleave a lesser creature in twain, but Gaermok somehow summons the willpower and strength to stay on his feet.
+
+To the east, the frost giant tries to attack Flow twice while she is stuck in the ice, but the giant seems preoccupied by the dragon and misses both its attacks. 
+
+As Durixaviinox moves even further away, the frost giant panics. “Master!” it calls out with a booming voice, ignoring Flow and running to the dragon’s side. Flow stabs the giant as it withdraws and the giant tries to counter-attack, but misses.
+
+Durix: Bite, Claw vs Gaermok (both hit), Move 10’W, Claw vs Gaermok (hit)
+Giant: Ice Axe x2 vs Flow (both miss), Move 50’W
+Giant Reaction: Ice Axe vs Flow triggered by AOO (miss) 
+Galwen (Ari)
+[NDND]
+ — 5/26/2025 3:31 PM
+Her mind finally gets warped as she is disoriented by the psychic blast.
+
+Ghastly unfortunately had the gall to bring up home. Her family, and unfortunately leaves her vulnerable. The visions of her family fill her mind, fill the stadium. She forgets her comrades and instead sees both the monsters... And prominent figures of court at home.
+
+In Don Explodicus' place, she sees the crumpled up body of a grand-uncle. She always resented him for popularizing the idea that mastery over magic made one more useful, even going as far as to directly call out to her once during a public event.
+
+In Rhys' place, she sees a fourth cousin, twice removed. Half her age, but already known for making changes in combining magic and martial prowess, effectively rendering her skills useless in the eyes of many. Though it wasn't all, it influenced those who held power.
+
+In Flow's place, she sees the matriarch of the family. Always one who makes efficient use of time, and made sure everyone was moving fast. She never liked how Galwen took her time with her targets, even if her shots packed more of a punch.
+
+In Gaermok's place, she sees her loud-mouthed father, constantly disappointed in her to suck up to the matriarch. She doesn't hesitate to topple him down to the ground. She doesn't seem to think much on the fact that he is much taller and heavier set than her memories. Her arrow is devastating and pierces through the tough skin. Her eyes narrow as she sees him remain standing. She always despised his stubbornness. Not even after she'd left for the Gates, he remained the same.
+
+Being surrounded by foes, she looks around for one ally. And she does see one. At least, she thought he was. Grimald Embertree is the same in her vision. The same leather wearing warrior with a crystal double-bladed scimitar. Yet instead of visions of the past warped against her, her mind is filled with paranoid delusions of what the future could be, and the future where he is an enemy. He's next.
+
+The roaring of the crowd snaps her out of her paranoia. She must still put on a show. The hostility in the crowd was awakening the need for her to please them. And so she performs.
+
+She scans the crowd quickly, noticing how they reacted to the huge creature being hurt by her arrow just now. She knows exactly what to say to please them, and it turns her insides upside down with disgust. They're almost too easy to read in their one-dimensional bloodlust.
+
+"That's not the last of the blood you'll see spilled tonight! If you want to see me participate in the melee, then you'll have to cheer louder than that, don't you think?! It'll be better if the struggle lasts longer! And look at me! I'm barely scathed. Shouldn't they focus on me instead?! Tell us what you want!"
+
+She takes a deep breath, this time scanning the arena itself. The remnants of the former contestants, the scars of their old battles, the memories of what they left in this torture-execution chamber.
+
+She waits a breath to offer even a short moment of silence for the fallen before her.
+
+But then her mind goes into overdrive, reconstructing the battles from the scars, as she once more addresses the crowd.
+
+"Don't you think you deserve more? Do you remember when the was a massive slash of magic, scorching the earth? Obliterating everything in its path? Boring! Or when one was completely smashed by a large hammer? Not enough bloodshed! You deserve more. More than this one where they were completely impaled by a large spear? I'm not a very large target, but they are. Bigger bodies, bigger carnage!"
+
+HA: Sharpshooter Longbow Sneak Attack at Gaermok (crit, KO)
+BA: Flair (Insight, 39)
+Action: Flair (Investigation, 35)
+Flow (Tjolanta) — 5/26/2025 3:35 PM
+Flow growls at her immobility as she does her best to avoid the axe that keep coming. When they then suddenly leaves her all by herself she lunge at them to her best ability, stuck as she is.
+
+Reaction: AOO at Giant (hit)
+Kayliana (Ryan) — 5/26/2025 4:01 PM
+The crowd sees one Defender mercilessly attack another, and they are eating it up. Galwen reads the audience like a book, and her speech whips them into an even greater frenzy. You see fans screaming themselves hoarse, pounding their fists bloody in the stands.
+
+“BLOOD! BLOOD! BLOOD! BLOOD!” come the cheers.
+
+“YES!  KILL GALWEN!! (Why aren’t you attacking her?!)”
+
+“MAKE HER PAY!!”
+
+If Galwen’s aim was to turn the crowd’s ire against her, it seems to have worked. Practically the entire colosseum begins calling for her head.
+
+Flair Check Success x2: Total of 2
+Kayliana (Ryan) — 5/27/2025 4:57 AM
+DM doesn’t know what he’s doing Bonus: +1 Flair Check Success, Total of 3
+Kayliana (Ryan) — 5/27/2025 5:20 AM
+Ghastly’s hypnotic central eye gazes around the arena as the crowd chants for Galwen’s demise.
+
+“What do you think, Galwen? Should I oblige them?” he whispers telepathically, sending a shiver down the elf’s spine.
+
+…I think I shall.”
+
+All of Ghastly’s eye rays swivel to point at Galwen, who has been floating high above the action for most of the tournament. She gets bombarded by ray after ray, dodging out of the Confusion and Rot beams, but getting struck by a ray that brings back her worst nightmare visions of her family. Ghastly then turns her incorporeal and shoves her down into the arena floor before re-materializing her painfully as she gets shunted back onto the icy surface.
+
+“Give up, Galwen. You are weak. You have always been weak. Release your mind and yield to me,” Ghastly says, firing a ray that tries to force the elf into submission. However, Galwen calls upon her fey ancestry’s natural powers to resist these sorts of attacks, and barely keeps her mind together. Part of the arena crowd starts cheering for Galwen’s plucky defiance, which enrages Ghastly.
+
+“No? Then die.”
+
+He opens his central eye once more and the nightmare cone encompasses Galwen, Rhys, Gaermok, Grimald, and even the unconscious Don who is helpless to resist. The rest of the Defenders steel their minds, but Galwen’s psyche is finally fractured by this final assault and she collapses in a heap onto the ice.
+
+Ghastly: Rays against Galwen: Confusion (pass), Rot (pass), Nightmare (fail), Incorporeal Shunt (fail, shoved to ground), Charm (pass). Phantasmal cone vs all except Flow (Don fail, Galwen fail, Rhys/Gaermok/Grimald pass) 
+Rhys (Ban) — 5/27/2025 2:55 PM
+Rhys sidesteps around the dragon to directly engage the giant that has been protecting the dragon. He then cleaves into the giant with two wide arcs that slash deep. Radiant and necrotic energy then flashes across Rhys's delerium greatsword as the Raven Queen's might bursts through the wound and into the giant's core, causing it to dim and fade until it collapses dead onto the ground.
+
+Rhys then feels the Raven Queen's presence and satisfaction at the kill so he looks up and stretches his arms upwards. He attempts to showcase even further the Raven Queen's might in order to impress the crowd. Attempts to have her invoke some kind of miracle or sign to showcase her power. But nothing comes.
+
+The Raven Queen is not one for showing off or entertaining. She is regal, reserved and does not stoop to such levels. Rhys gives a slight nod in acceptance before refocusing his attention on the nearby enemies.
+
+Movement: 5ft East to giant
+Action: 2x delerium greatsword at giant (both hit, lvl 4 smite and 2x bloodfury charges used, giant dead. Rhys heals 33)
+BA: Religion flair check (13 vs DC 20, fails) 
+Kayliana (Ryan) — 5/27/2025 3:07 PM
+The glow from around the frost giant fades as it falls and Durixaviinox looks enraged. 
+
+Seeing the giant get destroyed by Rhys and the Defenders now having a glimmer of hope, the arena crowd’s mood shifts ever so slightly. 
+
+No longer are they simply chanting for death - some of them are actively cheering for these underdogs. Ghastly notices it right away, and although it is difficult to perceive annoyance in an ancient eldritch horror, you can tell it is there.
+
+Crowd Mood: 0 (neutral)
+Flair Check: 20 
+Grimald (gophren) — 5/27/2025 4:41 PM
+Extracting himself from the wall he was pushed into, Grimald looks around confused. He notices all sorts of monsters in the arena, from his past Gates.
+
+"GAH! What is going on? You want me dead that much, Ghastly? I'll kill'em all, starting with the big guy!"
+
+Angry, he charges at the Dragon and unleashes a multitude of slashes against their scales
+
+M: In melee with Durix
+BA: Shift Hex on Durix
+A, Hasted A and Action Surge: DBS attacks on Durix (hit, hit, miss, hit, hit, miss, miss) 
+Kayliana (Ryan) — 5/27/2025 4:43 PM
+The dragon explodes the ice from his scales in response to Grimald’s savage attacks, but Rhys and Grimald are expecting it this time and are able to dodge out of the way.
+
+Durix: Withering Frost Reaction vs Grimald, Rhys (both pass)
+Echoes
+APP
+ — 5/27/2025 7:33 PM
+Gaermok struggles to hold himself up, leaning on his axe for support. He spits blood in unreasonably large amounts, but wipes his mouth and stands up straight. He had no time to figure out why Galwen had shot him. The dragon was bearing down on him and he didn't know if he could stand another hit.
+
+He grabbed a pink potion from his belt and chomped down on it, hoping it would come in handy. He looked up at the dragon, eyeing its wings thoughtfully.
+
+"Got wings. Should have used wings. Stayed too close to axe. Axe likes enemies too close."
+
+With a heave of the greataxe, Gaermok swings several times at Durix, wildly cleaving chunks of scales off with every hit.
+
+He then edged his way towards where Galwen lay in a heap. Not sure this is the best time to ask questions though.
+
+B - drink potion of Possibility
+A - reckless attack Durix with greataxe (hit hit)
+HA - reckless attack Durix with greataxe (hit)
+Don Explodicus (sfollac) — 5/27/2025 8:56 PM
+For an Orc, dying in battle is something to be proud of. Don has fought bravely so far, and reached an age that many would consider old for an orc.
+
+Yet, can this be the end? Entrapped in a nightmare, entertaining a crowd?
+
+Death Save (Pass)
+Kayliana (Ryan) — 5/27/2025 11:14 PM
+Grimald and Gaermok slash mercilessly at Durixaviinox, and bright blue blood is now visibly streaming from multiple wounds along the dragon’s hide. Just as you all feel that the tide is turning in your favor, you hear Ghastly’s voice echo in your minds:
+
+“This is my favorite part… when there is a whiff of hope and you all start drooling like dogs after the dinner bell.
+
+You think I don’t know why you’re really here? You think I would just casually invite some of the best and brightest to my tournament, knowing that they plan to kill me?
+
+No… I brought you here to send a message to The Gates, or any other fools who dare defy me. All hope is lost. You WILL be defeated. You WILL join Don and Galwen as they choke on puddles of their own blood in the ice, soon to breathe their last. 
+
+See for yourselves.”
+
+Ghasty snaps his fingers and you look around the arena. To Gaermok and Rhys everything looks the same, but to the rest of you… all you see is death. Durixaviinox has the lifeless body of Galwen pinned under one massive claw as he consumes the frozen remains of Grimald. Where Don once lay unconscious on the ice, now there is only a pile of bloody clothing and entrails. Flow is nowhere to be found, until you notice body parts covered in tabaxi fur scattered across the arena. 
+
+Meanwhile, the crowd is cheering rapturously at your grisly fate… thanking Mister Ghastly for the greatest show in the multiverse, hungry for more violence and ready to take it out on their own world as soon as they awaken from this beautiful, dark dream. 
+
+Then the scene vanishes, but the pain of what you have seen and the knowledge of your impending failure stabs like a knife.
+
+Lair Action: DESPAIR (all but Gaermok and Rhys fail and are Baned for 1 round) 
+Kayliana (Ryan) — 5/28/2025 1:25 AM
+Back in Hourglass Gate, Gibbulous and his goblin assistant Grobbit are scrambling.
+
+"I know the portal isn't working, Grobbit!  There seems to be some kind of arcane barrier preventing us from returning to Ghastly's dream demiplane!" Gibbulous shouts as he adjusts dials and flips levers furiously.
+
+"Yeah boss... but if it's a dream, mebbe we gotta be sleepy too to get in?" Grobbit responds helpfully.
+
+Gibbulous stops in his tracks and turns to the goblin, his bushy red eyebrows raised high. "Grobbit, you're a genius!  That's it!  Ghastly is blocking conscious travel through the barrier... but perhaps we could send someone who is already asleep!!"  The gnome races over to a dusty workbench, grabs an old blanket and bucket, and drags a stool to the center of the room.
+
+"Alright now, Grobbit, have a seat here. I have a very important job for you, so pay attention..."  Gibbulous explains his plan to Grobbit, whose face goes white with fear.
+
+"It'll be alright, I promise, Grobbit," Gibbulous reassures him as he places a shiny, silver orb in the bucket. "Just do as I told you and I will know when you have succeeded by the sands in the Hourglass," he says, pointing helpfully to the giant magical device. "Then I will wake you up, which will bring you right back here!"
+
+Grobbit just nods and gulps.
+
+Gibb steps back and gives Grobbit the once-over, bobbing his head approvingly. "It'll have to do, it'll have to do..."
+
+"And... SOMNUS!" Gibbulous shouts, directing a simple sleep spell at the goblin, who promptly nods off and begins snoring loudly.  The master artificer then casts Astral Projection, adjusting the target to that of Ghastly's dream domain, and begins reading.
+
+. . . 
+
+Death.  Death and despair.
+
+These are the only things you can see, visions of failure and carnage. Even as Mister Ghastly removes the illusion, most of you are still crushed by the weight of what was foretold.
+
+And then - a small voice rings out from the stands:
+
+"Uhhh... popcorn!  Get yer hot-hot popcorn!!" A small, goblinoid creature holding a bucket and shrouded in a blanket is making his way down through the stands towards the arena. "Popcorn!!"
+
+Ghastly looks up, confused. "What is this?  I don't recall selling concessions at my tournament."
+
+The figure shuffles all way down to the front row. "HEY! WHO WANT-A DIS POPCORN?!!"
+
+As he pulls a shiny metallic sphere out of the bucket and reaches back to throw it with all his might, the blanket slips back to reveal Grobbit, Gibb's loyal assistant.  The orb phases through the barrier and sails into the middle of the battlefield, exploding in mid-air with a huge pulse of golden light that bathes the whole team with incredible healing energy.  Don and Galwen gasp and wake up, and everyone feels strength and vitality surge into their bodies.
+
+Ghastly shudders with rage and trains all of his eye rays on the goblin, but before he can blast the quaking assistant, Grobbit suddenly disappears from the arena.
+
+"GROBBIT!  Wake up!  Wake up, Grobbit!" Gibbulous shouts as he jostles Grobbit awake.  The goblin opens his eyes and sees that his bucket is empty.  He looks up with a big grin on his face.  Gibbulous leans over and gives him a huge hug.  "Well done, Grobbit.  You did it.  Well done, lad."
+
+Gatekeeper Aid: Grobception - Level 6 Cure Wounds on all Defenders 
+mis
