@@ -51,7 +51,8 @@ async def test_data_parsing():
             events = await parser.parse_ic_logs(ic_content)
             print(f"   ✓ Parsed {len(events)} events")
             if events:
-                print(f"     - First event: {events[0].character_name} - {events[0].content[:50]}...")
+                speaker = events[0].speaker_id or "Unknown"
+                print(f"     - First event: {speaker} - {events[0].description[:50]}...")
         except Exception as e:
             print(f"   ✗ IC parsing error: {e}")
     

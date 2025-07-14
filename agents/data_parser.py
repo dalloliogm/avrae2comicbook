@@ -448,7 +448,7 @@ class DataParsingAgent:
                 name=name,
                 player_name=player_name,
                 race=race,
-                char_class=char_class,
+                character_class=char_class,
                 description=block
             )
         
@@ -508,16 +508,18 @@ class DataParsingAgent:
                 current_event = Event(
                     id=f"event_{event_counter}",
                     timestamp=timestamp,
-                    character_name=character_name,
-                    content=line.strip(),
-                    event_type=event_type.value,
-                    location="Unknown Location"
+                    event_type=event_type,
+                    description=line.strip(),
+                    participants=[character_name] if character_name != "Unknown" else [],
+                    location_id="unknown_location",
+                    speaker_id=character_name.lower().replace(' ', '_') if character_name != "Unknown" else None,
+                    dialogue_content=line.strip() if event_type == EventType.DIALOGUE else None
                 )
                 
                 events.append(current_event)
             
             elif current_event and line.strip():
                 # Continue current event
-                current_event.content += f"\n{line.strip()}"
+                current_event.description += f"\n{line.strip()}"
         
         return events
